@@ -1,0 +1,87 @@
+<%- include('./layout/header'); -%>
+<body>
+<style>
+.block {
+  color: #323233;
+  font-size: 16px;
+}
+.block__title {
+  margin: 0;
+  padding: 32px 16px 16px;
+  color: rgba(69, 90, 100, 0.6);
+  font-weight: normal;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 16px;
+  text-align: center;
+}
+</style>
+<div id="app">
+  <div class="block">
+    <h1 class="block__title">查询设备</h1>
+    <van-search
+      v-model="type"
+      show-action
+      label="设备号"
+      placeholder="请输入设备号"
+      @search="onSearch"
+      @clear="onClear"
+    >
+      <template #action>
+        <div @click="onSearch">搜索</div>
+      </template>
+    </van-search>
+  </div>
+  <template v-if="info">
+    <van-panel
+      icon="success"
+      :title="info.brand"
+      :desc="info.company"
+      :status="info.type"
+    />
+  </template>
+  <template v-else-if="errMsg">
+    <van-empty image="error" :description="errMsg" />
+  </template>
+  <template v-else>
+    <van-empty description="" />
+  </template>
+</div>
+<script>
+new Vue({
+    el: '#app',
+    data: function () {
+        return {
+          type: '',
+          info: null,
+          errMsg: ''
+        }
+    },
+    methods: {
+      onClear() {
+        this.type = ''
+        this.info = null
+        this.errMsg = ''
+      },
+      onSearch() {
+        if (!this.type) {
+          vant.Notify({ type: 'danger', message: '请输入型号' })
+          return
+        }
+        fetch(`/apis/find?type=${this.type}`, {
+          method: 'GET'
+        })
+        .then(res => res.json())
+        .then(rsp => {
+          if (rsp.success) {
+            this.info = rsp.data
+          } else {
+            this.errMsg = rsp.message
+          }
+        })
+      }
+    }
+})
+</script>
+</body>
+<%- include('./layout/footer'); -%>

@@ -1,0 +1,76 @@
+<%- include('./layout/header'); -%>
+<body>
+<style>
+.block {
+  color: #323233;
+  font-size: 16px;
+}
+.block__title {
+  margin: 0;
+  padding: 32px 16px 16px;
+  color: rgba(69, 90, 100, 0.6);
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.van-cell {
+  line-height: 1;
+}
+
+.van-field__label span {
+  line-height: 24px;
+}
+</style>
+<div id="app">
+  <div class="block">
+    <h1 class="block__title">文件上传</h1>
+    <van-form @submit="onSubmit">
+      <van-field name="uploader" label="文件">
+        <template #input>
+          <van-uploader v-model="fileList" accept=".xls,.xlsx">
+            <van-button icon="plus" type="primary" size="mini">选择文件</van-button>
+          </van-uploader>
+        </template>
+      </van-field>
+      <div style="margin: 16px;">
+        <van-button block type="info" native-type="submit">上传</van-button>
+      </div>
+    </van-form>
+  </div>
+</div>
+<script>
+new Vue({
+    el: '#app',
+    data: function () {
+        return {
+          fileList: []
+        }
+    },
+    methods: {
+      onSubmit() {
+        if (this.fileList.length <= 0) {
+          vant.Notify({ type: 'danger', message: ' 未选择文件' });
+          return
+        }
+        const body = new FormData()
+        const file = this.fileList[0]
+        body.append('file', file.file)
+        fetch('/apis/upload', {
+          method: 'POST',
+          body: body
+        })
+        .then(res => res.json())
+        .then(rsp => {
+          if (rsp.success) {
+            vant.Notify({ type: 'success', message: '上传成功' });
+          } else {
+            vant.Notify({ type: 'danger', message: rsp.message });
+          }
+        })
+      }
+    }
+})
+</script>
+</body>
+<%- include('./layout/footer'); -%>
