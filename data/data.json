@@ -2,8 +2,7 @@
   "SUPOR": {
     "绍兴市威可多电器有限公司": [
       "JJZT-SUP-C-DY10",
-      "JJZT-SUP-C-UX22",
-      "JJZT-SUP-C-MZ30",
+      "JJZT-SUP-C-MY25",
       "JJZT-SUP-C-MY11"
     ],
     "浙江苏泊尔厨卫电器有限公司": [
@@ -15,16 +14,34 @@
       "JZT-Z-DS27",
       "JZT-Q8",
       "JZT-Q5",
-      "JZT-B15",
-      "JZT-Z-DB19",
-      "JZT-Z-DB70",
-      "JZT-QB503",
-      "JZT-Z-MB60",
+      "JZT-DB2Z1A",
+      "JZT-QB301",
+      "JZT-Z-NB50",
+      "JZT-Z-AB17",
+      "JZT-Z-NS21",
+      "JZDT-Z-DY60",
+      "JZT-Z-DB26",
       "JZT-S16",
-      "JZT-DB1Z5",
+      "JZT-QB516A",
       "JZT-P10",
+      "JZT-Z-B30",
+      "JZT-B15",
+      "JZT-Z-AB30",
+      "JZT-Z-TB33",
+      "JZT-Z-ZB33",
+      "JZT-Z-DB29",
+      "JZT-Z-TB01",
+      "JZT-Z-ZB01",
+      "JZT-Z-ZB66",
+      "JZT-Z-MB60",
+      "JZT-Z-DB70",
+      "JZT-Z-AB72",
+      "JZT-Z-TB66",
+      "JZT-Z-DB19",
+      "JZT-QS505",
       "JZT-QB506",
-      "JZT-QS505"
+      "JZT-Z-TB11",
+      "JZT-Z-ZB11"
     ],
     "广东祥基电器有限公司": [
       "JSQ25-13R-AC60",
@@ -34,10 +51,23 @@
     "中山市恒乐电器有限公司": [
       "JSQ30-16R-UC55S",
       "JSQ25-13R-MK21",
+      "JSQ25-13R-MM33",
+      "JSQ30-16R-MM33",
       "JSQ25-13R-AM41",
-      "JSQ25-13R-DK20",
-      "JSQ25-13R-DM32",
-      "JSQ25-13R-MM33"
+      "JSQ30-16R-MK21",
+      "JSQ30-16R-AM41",
+      "JSQ23-12R-MK21",
+      "JSQ23-12R-DK20"
+    ],
+    "浙江普森电器有限公司": [
+      "JJZT-SUP-C-MQ55"
+    ],
+    "中山市力科电器有限公司": [
+      "JSQ25-13R-AM35"
+    ],
+    "广东好迪电器股份有限公司": [
+      "JSQ23-12R-AK23",
+      "JSQ30-16R-AK23"
     ]
   },
   "SAKURA樱花": {
@@ -241,7 +271,28 @@
       "LL1GBQ24-S10",
       "LL1GBQ33-S10",
       "L1PB20-A1",
-      "L1PB26-V9"
+      "L1PB26-V9",
+      "JSQ31-QJS",
+      "JSQ22-C3CX",
+      "JSQ26-C3CX",
+      "JSQ40-MJSX",
+      "JSQ31-TM5",
+      "JSQ31-CLD",
+      "JSQ31-LN",
+      "JSQ31-RJS",
+      "JSQ31-JD5",
+      "JSQ31-MN6",
+      "JSQ31-MN5",
+      "JSQ31-TEW",
+      "JSQ26-JD6",
+      "JSQ26-TEW",
+      "JSQ26-AJSX",
+      "JSQ26-MN6",
+      "JSQ26-ESCX",
+      "JSQ26-DSCX",
+      "JSQ26-MN5",
+      "JSQ26-JD5",
+      "JSQ26-TM5"
     ]
   },
   "GREE": {
@@ -254,14 +305,12 @@
       "JZT-QS05Ba",
       "JZT-QS03Ba",
       "JZT-QS05B",
-      "JZT-QS06B",
       "JZT-QS06Ba",
+      "JZT-QS06B",
       "JSQ25-13A1",
-      "JSQ25-13A2",
-      "L1PB30-G28/A3",
-      "L1PB28-G26/A3",
-      "L1PB20-G18/A3",
-      "L1PB26-G24/A3"
+      "L1BP26-G24/A3",
+      "L1BP28-G26/A3",
+      "L1BP30-G28/A3"
     ]
   },
   "火星人": {
@@ -272,39 +321,33 @@
       "JJZT-X7B/X",
       "JJZT-Q35BX01",
       "JJZT-E30BC01L",
-      "JJZT-Q3B/X",
-      "JJZT-E52B/Z",
-      "JJZT-Q30BC01",
-      "JJZT-Q3BC01",
+      "JJZT-F50BX01",
+      "JJZT-X35BX01R",
+      "JJZT-Q6BC02",
       "JJZT-T5BZ01",
-      "JJZT-Q2BZ01",
+      "JJZT-X50BC",
       "JJZT-X5BX02",
-      "JJZT-E6B/X",
       "JJZT-X5BC02",
-      "JJZT-E5BC01",
-      "JJZT-E6BC01",
-      "JJZT-E7BC01",
-      "JJZT-T7BX01",
-      "JJZT-T7BC01",
+      "JJZT-X7BC02",
+      "JJZT-X6BX01",
       "JJZT-Q35BC01",
-      "JJZT-F60BX01",
+      "JJZT-T7BCZ01",
+      "JJZT-X5BCZ02",
+      "JJZT-X6BC01",
       "JJZT-F60BC01",
-      "JJZT-F58BX01",
-      "JJZT-F56BX01",
+      "JJZT-F60BX01",
       "JJZT-F56BC01",
-      "JJZT-X7B/Z",
-      "JJZT-Q58C01",
-      "JJZT-X5BZ02",
-      "JJZT-Q2B/X",
-      "JJZT-X8G/Z"
+      "JJZT-F58BC01",
+      "JJZT-F21BC01R",
+      "JJZT-F70BC01R",
+      "JJZT-F70BX01L",
+      "JJZT-F52BX01R",
+      "JJZT-X35BC01L",
+      "JJZT-Q3B/Z"
     ],
     "佛山市顺德区声飞电器科技有限公司": [
       "JSQ30-16R52L01(T)",
       "JSQ25-13R51L01(T)"
-    ],
-    "绍兴五行电器有限公司": [
-      "JJZT-F33BC01",
-      "JJZT-F33BX01"
     ]
   },
   "万事兴VEZSIN": {
@@ -342,9 +385,21 @@
       "JZT-Q502GA",
       "JZT-Q603G",
       "JZT-Q508G",
-      "JZT-Q970GA",
-      "JZT-Q970G",
-      "JZT-Q504GB"
+      "JZT-Q504GB",
+      "JZT-Q530G",
+      "JZT-QSK971G1-JC",
+      "JZT-Q639GA",
+      "JZT-Q970GA"
+    ],
+    "中山市雅乐思商住电器有限公司": [
+      "JZT-Q981GA"
+    ],
+    "中山市莱普帝斯电器有限公司": [
+      "JJZT-BPR900-B501Y"
+    ],
+    "广东合胜集成电气有限公司": [
+      "JJZT-BPR900W-SK601Y",
+      "JJZT-BPR900W-B601Y"
     ]
   },
   "朗仕乐": {
@@ -536,135 +591,177 @@
       "JSQ24-12CP1",
       "JSQ24-12MK1",
       "JSQ24-12B1",
-      "JZT-A5(B)",
-      "JZT-KA022B",
+      "JZT-V7",
+      "JZT-AY5",
+      "JZT-ITB81A",
       "JZT-KA031B",
-      "JZT-V2(B)",
-      "JZT-KJ032B",
+      "JZT-V1",
+      "JZT-QE2B",
+      "JZT-A5(B)",
+      "JZT-056H",
+      "JZT-KE132",
+      "JZT-KE132B",
+      "JZT-KE032",
       "JZT-KE032B",
+      "JZT-TB10",
+      "JZT-IQL83B(A)",
+      "JZT-IQL83(A)",
+      "JZT-MZT02",
+      "JZT-LAY3",
+      "JZT-AY3",
       "JZT-KA032B",
-      "JZT-K401B",
-      "JZT-V2C(B)",
-      "JZT-KV061SB",
-      "JZT-KV062B",
-      "JZT-KJ052B",
+      "JZT-KA022B",
+      "JZT-AY4",
       "JZT-J5C",
-      "JSQ30-S25",
+      "JZT-V2(B)",
+      "JZT-V2C(B)",
+      "JZT-KV062B",
+      "JZT-R3(B)",
+      "JZT-AY7",
+      "JZT-KV061B",
+      "JZT-AY5G",
+      "JZT-AY8A",
+      "JZT-J2",
+      "JZT-J5A",
+      "JZT-V9",
+      "JZT-KV065B",
+      "JZT-AC7A",
+      "JSQ30-16TX8",
+      "JSQ26-13ZH3",
+      "JSG24-12M1A1",
+      "JSQ24-12R1",
+      "JSQ28-T3",
+      "JSLQ22-13R3",
+      "JSLQ27-16TLU3-1",
+      "JSQ22-T11",
+      "JSQ34-18LX7",
+      "JSQ16-8K2",
+      "JSQ48-24X7MAX",
+      "JSQ56-28X7MAX",
+      "JSG24-12R2",
+      "JSG24-12K7",
+      "JSG24-12K2",
+      "JSLQ27-16DLU3",
+      "JSLQ27-16RU3",
+      "JSLQ27-16R3",
+      "JSLQ27-16UK3.2",
+      "JSLQ22-13TLU3",
+      "JSQ16-8MK2",
+      "JSQ16-8M2",
+      "JSQ24-12W2",
+      "JSQ24-P1",
+      "JSQ24-12SP1",
+      "JSQ24-12T1",
+      "JSQ24-D13",
+      "JSQ24-12GM3",
+      "JSQ24-S25",
+      "JSQ26-TK1",
+      "JSQ26-13132(S)",
+      "JSQ26-13K4L",
+      "JSQ26-DF3",
+      "JSQ26-D5",
+      "JSQ26-13B7",
+      "JSQ26-13S2",
+      "JSQ26-13DP2",
+      "JSQ26-13Q5(F)",
+      "JSQ26-13RS3(F)",
+      "JSQ26-T38",
+      "JSQ26-13DL0",
+      "JSQ26-13D6S(F)",
+      "JSQ26-13ZH5",
+      "JSQ26-13RL0",
+      "JSQ26-13T6S(F)",
+      "JSQ26-13CQ2",
+      "JSQ26-13A3X",
+      "JSQ26-M2",
+      "JSQ26-13A3W",
+      "JSQ26-13DL1",
+      "JSQ26-S25",
+      "JSQ26-13A3L",
+      "JSQ26-13TL1",
+      "JSQ26-D2",
+      "JSQ26-13A3",
+      "JSQ26-13R9",
+      "JSQ26-D2I",
+      "JSQ26-13K6L",
+      "JSQ26-D3",
+      "JSQ26-S5",
+      "JSQ26-13Q3(F)",
+      "JSQ28-T51",
+      "JSQ28-T53",
+      "JSQ28-T6",
+      "JSQ28-T7",
+      "JSQ28-T8",
+      "JSQ28-14X7S",
+      "JSQ28-TK1",
+      "JSQ28-M3",
+      "JSQ28-D2",
+      "JSQ28-P1",
+      "JSQ28-D9",
       "JSQ30-TK1",
-      "JSQ30-T38",
-      "JSQ30-16S2",
-      "JSQ30-16DP2",
-      "JSQ30-T3S",
-      "JSQ30-16T1",
-      "JSQ30-16TL1",
-      "JSQ30-16DL1",
+      "JSQ30-16A3X",
+      "JSQ30-T53",
+      "JSQ30-16SL5",
       "JSQ30-16K4L",
-      "JSQ30-16Q3(F)",
-      "JSQ30-16K6L",
-      "JSQ30-16A3",
-      "JSQ30-16A3L",
-      "JSQ30-16A8",
-      "JSQ30-16Q6",
-      "JSQ30-16G2S",
-      "JSQ30-16T6S(F)",
-      "JSQ30-16D6S(F)",
-      "JSQ30-SN7",
+      "JSQ30-S25",
+      "JSQ30-16DL1",
+      "JSQ30-T6",
+      "JSQ30-16DL5",
+      "JSQ30-16B7",
+      "JSQ30-S5",
+      "JSQ30-16TL1",
+      "JSQ30-T7",
+      "JSQ30-16TL5",
       "JSQ30-16LX7",
       "JSQ30-D5",
-      "JSQ30-S5",
-      "JSQ30-16DB1",
-      "JSQ30-16NB1",
-      "JSQ30-16S7S",
-      "JSQ30-16D5S(F)",
-      "JSQ30-HI7",
-      "JSQ30-16Q7",
-      "JSQ30-16A6",
-      "JSQ30-16K3S",
-      "JSQ30-16K3.2",
-      "JSQ30-16TL5",
-      "JSQ30-16DL5",
-      "JSQ30-16SL5",
-      "JSQ30-16Z7",
-      "JSQ30-D9",
-      "JSQ30-S9",
-      "JSQ30-16R9",
-      "JSQ30-16D10S",
-      "JSQ30-16S11",
+      "JSQ30-16RL11",
       "JSQ30-T8",
-      "JSQ30-T7",
-      "JSQ30-T53",
-      "JSQ30-T51",
-      "JSQ26-D2I",
-      "JSQ26-D2",
-      "JSQ26-S25",
-      "JSQ26-13S2",
-      "JSQ26-DF3",
-      "JSQ26-TK1",
-      "JSQ26-13TL1",
-      "JSQ26-13DL1",
-      "JSQ26-13K4L",
-      "JSQ26-13Q3(F)",
-      "JSQ26-13K6L",
-      "JSQ26-13A3",
-      "JSQ26-13A3L",
-      "JSQ26-13A8",
-      "JSQ26-13Q6",
-      "JSQ26-13T6S(F)",
-      "JSQ26-13D6S(F)",
-      "JSQ26-13Q7",
-      "JSQ26-13A6",
-      "JSQ26-13K3S",
-      "JSQ26-13K3.2",
-      "JSQ26-D5",
-      "JSQ26-13132(S)",
-      "JSQ26-13A7",
-      "JSQ26-S5",
-      "JSQ26-13DB1",
-      "JSQ26-13NB1",
-      "JSQ26-13Q5(F)",
-      "JSQ26-13S7S",
-      "JSQ26-T38",
-      "JSQ26-13DP2",
-      "JSQ26-SN7",
-      "JSQ26-13R9",
-      "JSG24-12K4",
-      "JSG24-12K3S",
-      "JSG24-12K2",
-      "JSG24-12M1A1",
-      "JSG24-12K7",
-      "JSQ20-10K3S",
-      "JSQ20-10F3",
-      "JSQ20-10RG3",
-      "JSQ20-10G2",
-      "JSQ20-10RH3",
-      "JSQ20-10K3.1",
-      "JSLQ22-Q13J6",
-      "JSLQ27-16R3",
-      "JSLQ27-16RU3",
-      "JSQ24-12R1",
-      "JSQ24-12SP1",
-      "JSQ24-D13",
-      "JSQ24-12W2",
-      "JSQ24-12A6",
-      "JSQ24-12K3S",
-      "JSQ24-12K3.1",
-      "JSQ24-12K7",
-      "JSQ24-12F3",
-      "JSQ34-HI9",
-      "JSQ34-S10",
-      "JSQ34-18Z6",
-      "JSQ34-18Z7",
-      "JSQ34-18DL8",
-      "JSQ34-18SL8",
-      "JSQ34-18TL5",
-      "JSQ34-18DL5",
-      "JSQ34-18SL5",
-      "JSQ24-P1",
-      "JSQ34-18LX7",
-      "JSQ26-M2",
+      "JSQ30-HI7",
+      "JSQ30-16ZH3",
+      "JSQ30-16S11",
+      "JSQ30-HI9",
+      "JSQ30-16ZH5",
+      "JSQ30-16T1",
+      "JSQ30-16RS3(F)",
+      "JSQ30-16D10S",
+      "JSQ30-16D5S(F)",
+      "JSQ30-16CQ2",
+      "JSQ30-T3S",
+      "JSQ30-16D6S(F)",
+      "JSQ30-16R9",
+      "JSQ30-16S7S",
+      "JSQ30-16A3W",
+      "JSQ30-16DP2",
+      "JSQ30-16T6S(F)",
+      "JSQ30-S9",
+      "JSQ30-16NB1",
+      "JSQ30-16A3L",
+      "JSQ30-16S2",
+      "JSQ30-16RL6A",
+      "JSQ30-D9",
+      "JSQ30-16DB1",
+      "JSQ30-16A3",
       "JSQ30-16T2",
-      "JSQ30-16B7",
-      "JSQ26-13B7"
+      "JSQ30-16DL0",
+      "JSQ30-16Z7",
+      "JSQ30-16DQ66",
+      "JSQ30-16K6L",
+      "JSQ30-T38",
+      "JSQ30-16RL0",
+      "JSQ30-T51",
+      "JSQ30-16RL5",
+      "JSQ30-16Q3(F)",
+      "JSQ34-18SL5",
+      "JSQ34-18DL5",
+      "JSQ34-18TL5",
+      "JSQ34-18SL8",
+      "JSQ34-18DL8",
+      "JSQ34-18Z7",
+      "JSQ34-S10",
+      "JSQ34-HI9",
+      "JSQ34-18RL11",
+      "JSQ34-18RL6A",
+      "JSQ34-18RL5"
     ],
     "万家乐热能科技有限公司": [
       "L1PB20-18D3",
@@ -682,38 +779,70 @@
       "L1PB26-24BW",
       "L1PB26-24D6",
       "L1PB26-24BW3",
-      "L1PB32-16BX7"
+      "L1PB32-16BX7",
+      "L1PB30-28B5A",
+      "LL1PBD20-20B6.1",
+      "LL1PBD32-32B6.1",
+      "LL1PBD26-26R6",
+      "LL1PBD30-30R6",
+      "L1PB26-24R5L",
+      "LL1PBD20-20R6",
+      "LL1PBD26-26B6.1",
+      "LL1PBD26-26G6D",
+      "LL1PBD32-32G6D",
+      "L1PB26-24B3",
+      "L1PB26-13D5",
+      "L1PB26-24BX7",
+      "L1PB26-24G2S",
+      "L1PB30-28R5L",
+      "L1PB30-28B5A(L)"
     ],
     "中山市卫氏燃具电器有限公司": [
-      "JZT-KJ051B"
-    ],
-    "广东合胜电气有限公司": [
-      "JJZT-KLW63（B）"
+      "JZT-K160B",
+      "JZT-MZA01",
+      "JZT-AY8",
+      "JZT-A2C(B)",
+      "JZT-QA3",
+      "JZT-QJ15B(W)",
+      "JJZT-JW20",
+      "JZT-A2",
+      "JZT-A2(B)",
+      "JZT-K160",
+      "JZT-K100",
+      "JZT-K260B",
+      "JZT-K100B",
+      "JZT-KA021B",
+      "JZT-MZA01B",
+      "JZT-KA021",
+      "JZT-QJ15(W)",
+      "JZT-KV051B",
+      "JZT-KJ051B",
+      "JZT-AY8G"
     ],
     "中山市和美电器燃具有限公司": [
-      "JJZT-KMW211B",
-      "JJZT-KMW241B"
-    ],
-    "绍兴阿利卡电器有限公司": [
-      "JJZT-LA3.2C(B)",
-      "JJZT-LW6H(B)",
-      "JJZT-KLW7ZB",
-      "JJZT-KLW7HB",
-      "JJZT-LW3H(B)",
-      "JJZT-LW3SH(B)",
-      "JJZT-LW6C(B)",
-      "JJZT-KLA732(B)"
+      "JJZT-JH22",
+      "JJZT-JM62",
+      "JJZT-KH21",
+      "JJZT-KN61"
     ],
     "中山市莱普帝斯电器有限公司": [
-      "JJZT-LJ3C(B)",
-      "JJZT-LJ3C75(B)",
-      "JJZT-KLJ35HB",
-      "JJZT-KLJ83(B)",
-      "JJZT-KLJ73(B)",
-      "JJZT-KLJ822C(B)",
+      "JJZT-LJ3H75B",
       "JJZT-KLJ33HB",
-      "JJZT-KLJ93HB",
-      "JJZT-KLJ93B"
+      "JJZT-KLJ35HB",
+      "JJZT-LJ6SD(B)"
+    ],
+    "绍兴阿利卡电器有限公司": [
+      "JJZT-LW3H(B)",
+      "JJZT-LW6C(B)",
+      "JJZT-LW2CG(B)",
+      "JJZT-LW3SH(B)",
+      "JJZT-LW3Z(B)",
+      "JJZT-LW3C75(B)",
+      "JJZT-KLA732(B)",
+      "JJZT-LW6H(B)",
+      "JJZT-KLW7HB",
+      "JJZT-KLW7ZB",
+      "JJZT-LA3.2C(B)"
     ]
   },
   "HOME湘家": {
@@ -789,7 +918,13 @@
       "JZT-663B",
       "JZT-668B",
       "JZT-B305A",
-      "JZT-B320A"
+      "JZT-B320A",
+      "JZT-B328A",
+      "JZT-623B",
+      "JZT-665B",
+      "JZT-609B",
+      "JZT-B101A",
+      "JZT-G330A"
     ],
     "嵊州市金帝智能厨电有限公司": [
       "JJZT-913FT",
@@ -800,7 +935,8 @@
       "JJZT-903FX",
       "JJZT-901FX",
       "JJZT-906FZ",
-      "JJZT-905FZ"
+      "JJZT-905FZ",
+      "JJZT-FT9A06"
     ],
     "中山市莱普帝斯电器有限公司": [
       "JJZT-FZ12A",
@@ -811,7 +947,12 @@
       "JJZT-910F",
       "JJZT-FT10X",
       "JJZT-F10A",
-      "JJZT-910FT"
+      "JJZT-910FT",
+      "JJZT-912FX",
+      "JJZT-FX12A",
+      "JJZT-FX10A",
+      "JJZT-900FT",
+      "JJZT-900FX"
     ],
     "广东祥基电器有限公司": [
       "JSQ23-530R-12",
@@ -821,7 +962,12 @@
       "JSQ23-532R-12",
       "JSQ23-531R-12",
       "JSQ31-532R-16",
-      "JSQ31-536R-12"
+      "JSQ31-536R-12",
+      "JSQ31-536R-16"
+    ],
+    "杭州老板电器股份有限公司": [
+      "JJZT-939FT",
+      "JJZT-937FX"
     ]
   },
   "C厨菱": {
@@ -850,19 +996,29 @@
       "JJZT-TB3ZK",
       "JJZT-K900ZK",
       "JJZT-M3ZK",
-      "JJZT-BQ900Z",
-      "JJZT-2-BQ750B",
-      "JJZT-1-W900S",
-      "JJZT-P900ZK2",
-      "JJZT-K900C",
-      "JJZT-BQ900ZK2",
-      "JJZT-BQ900KX2",
-      "JJZT-1-BQ900B",
-      "JJZT-R900ZX",
       "JJZT-X900ZK",
-      "JJZT-X900ZK2",
+      "JJZT-P900KX2",
+      "JJZT-1-M31",
       "JJZT-X900Z",
-      "JJZT-A900KX"
+      "JJZT-1-BQ900B",
+      "JJZT-BQ900KX2",
+      "JJZT-BQ900ZK2",
+      "JJZT-BQ900Z",
+      "JJZT-K900C",
+      "JJZT-A900KX",
+      "JJZT-2-BQ750B",
+      "JJZT-X900ZK2",
+      "JJZT-P900ZK2",
+      "JJZT-G901ZK",
+      "JJZT-X901ZK",
+      "JJZT-G770ZK",
+      "JJZT-1-JD11",
+      "JJZT-TB31ZK-G",
+      "JJZT-J901ZK2",
+      "JJZT-1-TB11",
+      "JJZT-TB31ZK",
+      "JJZT-M31ZK2",
+      "JJZT-BQ901ZK2"
     ],
     "浙江奥能燃气具有限公司": [
       "JSQ32-A16"
@@ -938,7 +1094,12 @@
       "JZT-Q236(12T)",
       "JZT-Q330U9(12T)",
       "JZT-Q230(12T)",
-      "JZT-QE5B0(12T)"
+      "JZT-QE5B0(12T)",
+      "JJZT-90EG-Q3X(12T)",
+      "JJZT-90X-S1HZKU1(12T)",
+      "JJZT-90-S1HZKU1(12T)",
+      "JJZT-90J-S1HZKU1(12T)",
+      "JJZT-90ET-MAQ3ZKM(12T)"
     ],
     "重庆海尔热水器有限公司": [
       "JSQ25-13E3BD",
@@ -1011,12 +1172,59 @@
       "JSQ31-16FA5U1",
       "JSQ31-16FD5BDU1",
       "JSQ31-16FV5BDU1",
-      "LL1PBD20-HN1(T)"
+      "LL1PBD20-HN1(T)",
+      "JSQ25-13J(12T)",
+      "JSQ30-16J(12T)",
+      "JSQ31-16FX5U1",
+      "JSQ30-16TK3BDU1",
+      "JSQ30-16MODEL5(12T)U1",
+      "JSQ30-16SN5BDU1",
+      "JSQ30-16WN9S(12T)U1",
+      "JSQ30-16MIXBVU1",
+      "JSQ25-13MODEL5(12T)U1",
+      "JSQ25-13SN5BDU1",
+      "JSQ31-16FA05U1",
+      "JSQ31-16KL5锦绣U1",
+      "JSQ31-16WRS星蕴U1",
+      "JSLQ27-16ECO-LU1"
     ],
     "武汉海尔热水器有限公司": [
       "L1PB26-HD3(T)U1",
       "L1PB30-HD3(T)U1",
-      "L1PB35-HD3(T)U1"
+      "L1PB35-HD3(T)U1",
+      "L1PB20-HJ3(T)",
+      "L1PB24-HC1(T)",
+      "LL1PBD20-JN7(T)U1",
+      "LL1PBD26-JN7(T)U1",
+      "L1PB26-HR5(T)U1",
+      "L1PB20-HM(T)",
+      "L1PB20-HJ7(T)U1",
+      "L1PB26-HC1(T)",
+      "L1PB26-HJ3(T)",
+      "L1PB26-HT5(T)",
+      "L1PB26-HS(T)U1",
+      "L1PB26-HX3(T)U1",
+      "L1PB26-HJ7(T)U1",
+      "LL1PBD26-HN1(T)"
+    ],
+    "莱阳海尔智慧厨房电器有限公司": [
+      "JZT-QG31(12T)",
+      "JZT-QHA7381(12T)",
+      "JZT-Q23M(12T)",
+      "JZT-Q2BE52(12T)",
+      "JZT-QHA938U1(12T)",
+      "JZT-QHA7B0(12T)",
+      "JZT-QE9B1(12T)",
+      "JZT-Q2BE50(12T)"
+    ],
+    "郑州海尔新能源科技有限公司": [
+      "JSQ31-16FX3U1",
+      "JSQ25-13FECBDU1",
+      "JSQ31-16KN5致远U1",
+      "JSQ31-16FR3BDU1",
+      "JSQ31-16FR6BPU1",
+      "JSQ31-16FT3U1",
+      "JSQ31-16FECBDU1"
     ]
   },
   "卡萨帝": {
@@ -1057,30 +1265,54 @@
       "JSQ31-16CN3BWU1",
       "JSQ31-16CM3(12T)",
       "JSQ31-16CZ3BWU1",
-      "JSQ31-16CX7(12T)U1"
+      "JSQ31-16CX7(12T)U1",
+      "JSQ38-20CR5SPROU1",
+      "JSQ31-16CH3UAU1",
+      "JSQ25-13CS(PRO)BWU1",
+      "JSQ31-16CV3SUWU1",
+      "JSQ31-16CX3(12T)U1",
+      "JSQ31-16CRS3UWU1",
+      "JSQ31-16CYA(12T)U1",
+      "JSQ31-16CDA(12T)U1",
+      "JSQ31-16CV1GU1",
+      "JSQ31-16CH1UWU1",
+      "JSQ31-16CS(PRO)BWU1",
+      "JSQ31-16CWS(12T)U1",
+      "JSQ31-16CR5SPROU1",
+      "JSQ31-16CH5UWU1",
+      "JSQ31-16CRVBAU1"
     ],
     "武汉海尔热水器有限公司": [
       "L1PB30-CL3-Plus(T)U1",
       "L1PB35-CL3-Plus(T)U1",
-      "L1PB26-CL3-Plus(T)U1"
+      "L1PB26-CL3-Plus(T)U1",
+      "L1PB26-CL1(T)U1",
+      "LL1GBQ26-CN5(T)(金)U1",
+      "LL1GBQ30-CN5(T)(金)U1",
+      "LL1PBD26-CN3(T)U1",
+      "L1PB20-CL1(T)U1",
+      "N1PB42-CL3-Plus(T)U1",
+      "L1PB26-CL7(T)U1"
+    ],
+    "莱阳海尔智慧厨房电器有限公司": [
+      "JZT-C7G82CGU1(12T)",
+      "JZT-C6G90BGU1(12T)",
+      "JZT-CG18D2(12T)",
+      "JZT-C6G82CGU1(12T)",
+      "JZT-C7G90AGU1(12T)",
+      "JZT-C6G82WGU1",
+      "JZT-G2KG6B0(12T)",
+      "JZT-G2KG92(12T)",
+      "JZT-G2KG72(12T)",
+      "JZT-CG18E2(12T)",
+      "JZT-G2KG76(12T)"
     ]
   },
   "统帅": {
     "青岛海尔智慧厨房电器有限公司": [
       "JZT-QIGL2D(12T)",
       "JZT-QIGL2C",
-      "JZT-LQ2GD",
-      "JZT-LQHA5GA(12T)",
-      "JZT-LTAS(12T)",
-      "JZT-LQHAC9GU9(12T)",
-      "JZT-LQHA5GB(12T)",
-      "JZT-LQ1GA(12T)",
-      "JZT-LQ2GE",
-      "JZT-QIGL2B(12T)",
-      "JZT-LQ2GC",
-      "JZT-LQ2GB",
-      "JZT-LQ2GA(12T)",
-      "JZT-QI303B(12T)"
+      "JZT-LQ2GD"
     ],
     "重庆海尔热水器有限公司": [
       "JSQ30-16L5N(12T)U1",
@@ -1109,6 +1341,16 @@
       "JSQ30-16LW5BWU1",
       "JSQ30-16LX9(12T)U1",
       "L1PB26-LT1(T)"
+    ],
+    "莱阳海尔智慧厨房电器有限公司": [
+      "JZT-LQHA5GA(12T)",
+      "JZT-LQHA5GB(12T)",
+      "JZT-LQ2GE",
+      "JZT-LQ1GA(12T)",
+      "JZT-LQ2GA(12T)",
+      "JZT-LQ2GC",
+      "JZT-QIGL2B(12T)",
+      "JZT-LQ2GB"
     ]
   },
   "XIANFEI先飞": {
@@ -1153,8 +1395,13 @@
       "JZT-MZ-QB805",
       "JZT-MZ-QB525"
     ],
+    "绍兴市奥帅电器股份有限公司": [
+      "JJZT-MYZ12",
+      "JJZT-MYZ32"
+    ],
     "浙江美嘉乐电器有限公司": [
-      "JJZT-A2-08"
+      "JJZT-A2-08",
+      "JJZT-AG-D91K1A-EC"
     ]
   },
   "CROWNCC": {
@@ -1206,7 +1453,12 @@
     ],
     "广东祥基电器有限公司": [
       "JSQ25-D520L13",
-      "JSQ23-D511H12"
+      "JSQ23-D511H12",
+      "JSQ25-DS815",
+      "JSQ30-D523L16",
+      "JSQ25-D530H13",
+      "JSQ30-D530H16",
+      "JSQ30-D510Q16"
     ],
     "广东金美达实业有限公司": [
       "JSQ20-D510Q10",
@@ -1219,7 +1471,78 @@
       "JSQ30-D508L",
       "JSQ23-D505Z",
       "JSQ23-D503S",
-      "JSQ23-D513H12"
+      "JSQ23-D513H12",
+      "JSQ23-DS801",
+      "JSQ25-DS828",
+      "JSQ30-D526H16",
+      "JSQ23-D512Q12",
+      "JSQ25-D525H13",
+      "JSQ30-D527L16"
+    ],
+    "浙江万事兴电器有限公司": [
+      "JZT-2-ZT1R",
+      "JZT-2.N5-M",
+      "JZT-2-XS1605",
+      "JZT-1-T1",
+      "JZT-1-N5-GHE",
+      "JZT-2-NB8346B",
+      "JZT-2-NB8348B",
+      "JZT-2-ZQ1R",
+      "JZT-2-F3",
+      "JZT-2-Q3",
+      "JZT-1-HB8051B",
+      "JZT-2-NB8330B",
+      "JZT-1-NB8050B",
+      "JZT-3-HB8901A",
+      "JZT-TS8106",
+      "JJZT-325FX",
+      "JZT-2-HB8336B",
+      "JZT-2-HB8335B",
+      "JZT-2-Q1",
+      "JZT-2-P1",
+      "JZT-2-DB8807S",
+      "JZT-2-DB8807",
+      "JZT-2-DB8688A",
+      "JZT-2-HB8351B",
+      "JZT-2-FJ2",
+      "JZT-2-FB8338B",
+      "JZT-2-NB8350B",
+      "JZT-2-NB8353B",
+      "JZT-2-NB8352B",
+      "JZT-2-NS8347B",
+      "JZT-2-FT1",
+      "JZT-2-HB8625A",
+      "JZT-2-FB8339B",
+      "JZT-2-HGB8325B",
+      "JZT-2-DB8811L",
+      "JZT-2-DB8810L",
+      "JZT-2-Q2",
+      "JZT-2-Q2H",
+      "JZT-2-QT5",
+      "JZT-2-HB8621A",
+      "JZT-2-HGB8628A",
+      "JZT-2-DS306J",
+      "JZT-2-DS312T",
+      "JZT-2-DS325S",
+      "JZT-2-NS8321B",
+      "JZT-2-NB8332B",
+      "JZT-2-NB8331B",
+      "JZT-2-DS108",
+      "JZT-2-N5-ME",
+      "JZT-2-N5-GHE",
+      "JZT-1-N5-ME",
+      "JZT-1.N5-M",
+      "JJZT-320Z",
+      "JJZT-525YX",
+      "JJZT-FF102-Z",
+      "JJZT-FF106-Y",
+      "JJZT-225X",
+      "JJZT-225Z",
+      "JJZT-FF101-X",
+      "JJZT-320YX",
+      "JJZT-320X",
+      "JJZT-225Y",
+      "JJZT-525Y"
     ]
   },
   "OUGA": {
@@ -1296,16 +1619,16 @@
       "JSQ30-B2"
     ],
     "广东万喜电器燃气具有限公司": [
-      "JJZT-90D1",
       "JJZT-90A1",
+      "JJZT-90D1",
       "JJZT-90D3",
-      "JJZT-90E1",
       "JJZT-90E3",
-      "JJZT-90A3",
-      "JJZT-90C1",
-      "JJZT-90C3",
+      "JJZT-90E1",
+      "JJZT-90H3",
       "JJZT-90H1",
-      "JJZT-90H3"
+      "JJZT-90C3",
+      "JJZT-90C1",
+      "JJZT-90A3"
     ]
   },
   "能率": {
@@ -1329,7 +1652,10 @@
       "JSW40-2139WS",
       "JSW50-2637WS",
       "JSQ40-2037WSH",
-      "JSQ46-2437WSH"
+      "JSQ46-2437WSH",
+      "JSQ64-3211WZQH",
+      "JSW31-1639WS",
+      "JSQ31-1639WSH2"
     ],
     "能率(上海)住宅设备有限公司": [
       "JSQ25-H1",
@@ -1414,7 +1740,48 @@
       "L1PB27-A3",
       "L1PB30-A5",
       "L1PB30-A3",
-      "L1PB30-D1"
+      "L1PB30-D1",
+      "JSQ23-EA2",
+      "JSQ26-E",
+      "JSQ24-E3",
+      "JSQ20-A3",
+      "JSQ22-A3",
+      "JSW48",
+      "JSQ40-S2Q",
+      "JSQ48-S2Q",
+      "JSQ25-EA6",
+      "JSQ31-EX6AQ",
+      "JSQ25-EA6A",
+      "JSQ25-EP5",
+      "JSQ25-S5A",
+      "JSQ25-S5",
+      "JSQ25-EQ5AQ",
+      "JSQ25-EY5AQ",
+      "JSQ25-EX6AQ",
+      "JSQ25-EP5A",
+      "JSQ31-EA6A",
+      "JSQ31-S5A",
+      "JSQ31-EP5",
+      "JSQ31-EA6",
+      "JSQ31-S5",
+      "JSQ31-EQ5AQ",
+      "JSQ31-EY5AQ",
+      "JSQ31-S5AQ",
+      "JSQ31-EP5A",
+      "JSQ23-EP2",
+      "L1PB36-A4",
+      "LL1GBQ24-B1",
+      "LL1GBQ28-B1",
+      "L1GB27-E1",
+      "L1GB31-E1"
+    ],
+    "广东诺科冷暖设备有限公司": [
+      "L1PB23-F1",
+      "L1PB27-F1",
+      "L1PB32-F1"
+    ],
+    "能率(中国)投资有限公司": [
+      "L1GB22-E1"
     ]
   },
   "亿田entive": {
@@ -1463,23 +1830,35 @@
       "JJZT-Q1S",
       "JJZT-Q8",
       "JJZT-D3ZK",
-      "JJZT-A8",
+      "JJZT-A8SZK",
+      "JJZT-I5",
       "JJZT-Q7-S",
       "JJZT-E2",
-      "JJZT-I5",
-      "JJZT-T3B",
       "JJZT-E2Z",
-      "JJZT-I8ZK",
       "JJZT-M3C",
-      "JJZT-D3Z",
-      "JJZT-I5Z",
+      "JJZT-G7",
+      "JJZT-I5ZKZ-G",
+      "JJZT-I3SZK",
+      "JJZT-X6ZK",
+      "JJZT-A1ZK",
+      "JJZT-G6ZK",
+      "JJZT-G6Z",
+      "JJZT-I3",
+      "JJZT-X6",
+      "JJZT-A1",
+      "JJZT-G6",
+      "JJZT-T3SZK-G",
+      "JJZT-A8",
       "JJZT-I5ZK",
+      "JJZT-M3ZK",
+      "JJZT-KA1",
+      "JJZT-M2S",
       "JJZT-T3ZK-G",
       "JJZT-T3BZ",
-      "JJZT-A8ZK",
-      "JJZT-A8Z",
-      "JJZT-Q7-SZK",
-      "JJZT-Q7-SZ"
+      "JJZT-T3B",
+      "JJZT-KA2",
+      "JJZT-G7ZK",
+      "JJZT-I3ZK"
     ],
     "中山市博诚电器有限公司": [
       "JSQ30-R7TB",
@@ -1516,10 +1895,7 @@
       "JJZT-Q106",
       "JJZT-Q102",
       "JJZT-F8-ZK",
-      "JJZT-F8",
-      "JJZT-F1",
-      "JJZT-F1-Z",
-      "JJZT-F1-ZK"
+      "JJZT-F8"
     ],
     "浙江科恩电器有限公司": [
       "JJZT-A201",
@@ -1558,6 +1934,9 @@
     "中山物镁电气科技有限公司": [
       "JSQ25-CH6",
       "JSQ23-GLG12"
+    ],
+    "中山市正美电器金属制品有限公司": [
+      "JJZT-MJ09"
     ]
   },
   "HAOPU豪普": {
@@ -1641,28 +2020,19 @@
       "JZT-Q60",
       "JZT-Q67",
       "JZT-Q67T",
-      "JJZT-90D11-G",
-      "JJZT-90Y36-G",
-      "JZT-Q59",
-      "JZT-Q70",
-      "JZT-Q230B",
-      "JZT-Q218B",
-      "JZT-HQ9",
-      "JZT-Q39",
-      "JZT-Q216B",
-      "JZT-HQ5",
-      "JZT-QW32",
-      "JZT-Q330",
-      "JZT-Q62A",
-      "JZT-QW13",
-      "JZT-MQ7211-S",
-      "JZT-QTW10",
-      "JZT-JDQ1",
-      "JZT-QW50",
-      "JZT-Q62",
       "JZT-Q80S",
-      "JZT-MQ7610-G",
-      "JZT-Q500"
+      "JZT-QTW10",
+      "JZT-QW32",
+      "JZT-MQ7211-S",
+      "JZT-Q218B",
+      "JZT-JDQ1",
+      "JJZT-90D11-G",
+      "JZT-Q39",
+      "JZT-Q230B",
+      "JZT-Q70",
+      "JZT-Q59",
+      "JZT-Q500",
+      "JZT-QW13"
     ],
     "芜湖美的厨卫电器制造有限公司": [
       "JJZT-D09",
@@ -1718,67 +2088,107 @@
       "L1PB32-C16",
       "L1PB26-R52",
       "L1PB26-C19",
+      "JZT-QW328L",
+      "JJZT-LS3X",
       "JJZT-Y5",
-      "JJZT-90D14S-G",
-      "JJZT-JD30",
-      "JJZT-D3",
-      "JSQ21-11HCS",
+      "JSQ21-11HC2",
       "JSQ22-12HM1",
-      "JSQ25-13HC2",
-      "JSQ30-16HCS",
-      "JSQ30-16HCS2",
-      "JSQ25-TD7",
-      "JSQ25-13HCS2",
-      "JSQ30-RF7",
-      "JSQ30-16HT7",
-      "JSQ25-13HCN1",
-      "JSQ38-20HTL9",
-      "JSQ30-RU5",
-      "JSQ30-16HC2",
-      "JSQ30-16HS4",
-      "JSQ30-16HT7S",
-      "JSQ22-12HWF",
-      "JSQ30-16HM3",
-      "JSQ34-18HTL7",
-      "JSQ30-16HTN",
-      "JSQ30-16HT3",
-      "JSQ30-16HTS3",
-      "JSQ30-16HTD2",
-      "JSQ30-TD7",
-      "JSQ30-RX3",
-      "JSQ30-RX5",
-      "JSQ30-16HTL8",
-      "JSQ25-13HCS",
-      "JSQ25-13HF7",
-      "JSQ25-13HD3",
-      "JSQ25-13HTS3",
-      "JSQ25-13HP7",
-      "JSQ25-13HS4",
-      "JSQ25-13HX1",
-      "JSQ25-13HM3",
+      "JSQ25-13HCM",
+      "JSQ30-16QM5",
+      "JSLQ27-16EG3",
+      "JSQ30-16QM3",
+      "JSQ25-13HT1",
       "JSQ22-12HCM",
-      "JSQ30-HF7",
-      "JSQ30-16HCM"
+      "JSQ25-13HCS",
+      "JSQ30-RX1",
+      "JSQ21-11HCS",
+      "JSQ25-13HS4",
+      "JSQ25-13HF7",
+      "JSQ25-TD7",
+      "JSQ25-13HD3",
+      "JSQ25-ZC5 pro",
+      "JSQ25-13HCN1",
+      "JSQ25-13HM3",
+      "JSQ25-ZC1",
+      "JSQ25-RU3 Pro",
+      "JSQ25-RU1",
+      "JSQ25-13QE3",
+      "JSQ25-MJ3",
+      "JSQ25-13HTS3",
+      "JSQ25-TX7",
+      "JSQ30-M5",
+      "JSQ30-MJ3",
+      "JSQ30-RD3 pro",
+      "JSQ30-16QT6",
+      "JSQ30-16HC7",
+      "JSQ30-NT1 pro",
+      "JSQ30-RF7",
+      "JSQ30-TX7",
+      "JSQ30-16HTL8",
+      "JSQ30-RU5",
+      "JSQ30-RU3 pro",
+      "JSQ30-16HT7S",
+      "JSQ30-16HP7",
+      "JSQ30-16HS4",
+      "JSQ30-ZC5 pro",
+      "JSQ30-16HN1",
+      "JSQ30-16HC2",
+      "JSQ30-16HM3",
+      "JSQ30-16QE3",
+      "JSQ30-16HTS3",
+      "JSQ30-16HCS2",
+      "JSQ30-16HTN",
+      "JSQ30-RX5",
+      "JSQ30-16HTD2",
+      "JSQ30-MK3",
+      "JSQ30-RX3",
+      "JSQ30-16HT1",
+      "JSQ30-16HT7",
+      "JSQ30-16QM4",
+      "JSLQ27-16LNT",
+      "JSLQ27-16EG6",
+      "JSQ25-NT1S",
+      "JSQ25-13HLM",
+      "JSQ30-16HCM",
+      "JSQ30-NT1S",
+      "JSQ30-16RF4",
+      "JSQ30-16HLM",
+      "JSQ30-16HD3",
+      "JSQ30-16QE5",
+      "L1GB20-C13",
+      "L1GB24-C13",
+      "L1GB28-C13",
+      "LL1PBD24-R55"
     ],
     "广东乐邦电器股份有限公司": [
       "JJZT-JY16",
-      "JJZT-WX08",
-      "JJZT-90X16-G",
-      "JJZT-X11"
+      "JJZT-X01",
+      "JJZT-J080X"
     ],
     "广东合胜电气有限公司": [
       "JJZT-X12"
     ],
     "中山市莱普帝斯电器有限公司": [
       "JJZT-D06"
+    ],
+    "芜湖美的智能厨电制造有限公司": [
+      "JZT-Q63D-M",
+      "JZT-QW11",
+      "JZT-Q20-M",
+      "JZT-Q518S-M",
+      "JZT-Q63-M",
+      "JZT-QTW15"
+    ],
+    "邯郸美的智能厨电制造有限公司": [
+      "JJZT-JX06"
+    ],
+    "浙江杰森厨具股份有限公司": [
+      "JJZT-75TX05"
     ]
   },
   "WΛHIN": {
     "广东乐邦电器股份有限公司": [
       "JJZT-WE6"
-    ],
-    "芜湖美的厨卫电器制造有限公司": [
-      "JSQ30-WZ161"
     ]
   },
   "LittleSwan": {
@@ -1786,13 +2196,13 @@
       "JZT-SQ1",
       "JSQ30-LT3",
       "JSQ30-LP7",
+      "JSQ25-LS3",
       "JSQ30-16LX3",
-      "JSQ25-LS1",
-      "JSQ30-LS1",
-      "JSQ30-LS3",
-      "JSQ30-LS5",
       "JSQ30-LX7",
-      "JSQ25-LS3"
+      "JSQ30-LS5",
+      "JSQ30-LS3",
+      "JSQ30-LS1",
+      "JSQ25-LS1"
     ],
     "广东美的厨卫电器制造有限公司": [
       "JZT-SQ3"
@@ -1801,9 +2211,7 @@
   "COLMO": {
     "广东美的厨卫电器制造有限公司": [
       "JZT-CST50-5",
-      "JZT-CST350-8",
-      "JZT-CLN50-5",
-      "JZT-CLT52-6"
+      "JZT-CST350-8"
     ],
     "芜湖美的厨卫电器制造有限公司": [
       "JZT-CSN50-E5",
@@ -1819,15 +2227,15 @@
       "JSQ30-CM116",
       "JSQ30-CX116",
       "JSQ30-CE216-M",
-      "JSQ30-CE116",
-      "JSQ25-CE113",
-      "JSQ30-CB316",
-      "JSQ25-CX313",
       "JSQ30-CE316",
-      "JSQ30-CE516",
+      "JSQ25-CE113",
+      "JSQ30-CE116",
+      "JSQ38-CE720",
       "JSQ30-CX916",
-      "JSQ30-CB216",
-      "JSQ30-CE616"
+      "JSQ30-CE516",
+      "JSQ30-CB316",
+      "JSQ30-CX616",
+      "JSQ30-CTE1-16P"
     ]
   },
   "KONKA康佳": {
@@ -1898,12 +2306,16 @@
   },
   "Canbo 康宝": {
     "广东合创达电器科技有限公司": [
-      "JZT-Q250-B112"
+      "JZT-Q250-B112",
+      "JZT-Q252-B101",
+      "JZT-2QL360B(B)"
     ],
     "中山市正美电器金属制品有限公司": [
       "JZT-2QB520",
       "JZT-2QB53T",
-      "JZT-2QB323"
+      "JZT-2QB323",
+      "JJZT-ZKM9",
+      "JZT-Q250-B206"
     ],
     "浙江精谷电器有限公司": [
       "JJZT-X1"
@@ -1912,14 +2324,25 @@
       "JJZT-ZKM6",
       "JJZT-M5",
       "JJZT-C1",
-      "JJZT-M3S"
+      "JJZT-M3S",
+      "JJZT-M7"
     ],
     "中山市合创达电器科技有限公司": [
       "JSQ25-1326FX",
       "JSQ30-1639WFX",
       "JSQ25-1329FX",
       "JSQ30-1629FX",
-      "JSQ30-1630FX"
+      "JSQ30-1630FX",
+      "JSQ30-1623WFX",
+      "JSQ30-1626FX",
+      "JSQ25-1323WFX"
+    ],
+    "佛山市顺德区奥健电器实业有限公司": [
+      "JZT-Q250-B205",
+      "JZT-Q150-B25",
+      "JSQ25-1337FX",
+      "JSQ30-1637FX",
+      "JSQ30-1631WFX"
     ]
   },
   "NAAFI": {
@@ -1929,6 +2352,11 @@
     ],
     "广东顺德万众电气有限公司": [
       "JZT-Q242-BF8"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ30-16D10FX",
+      "JSQ25-13D9FX",
+      "JSQ30-16D11WFX"
     ]
   },
   "BATFLY": {
@@ -2009,7 +2437,17 @@
       "JJZT-C20DZK-B",
       "JJZT-E-1A",
       "JJZT-E-2A",
-      "JJZT-D-2A"
+      "JJZT-E3X",
+      "JJZT-K2X",
+      "JJZT-C6ZK",
+      "JJZT-C6X",
+      "JJZT-GA20",
+      "JJZT-GC20",
+      "JJZT-GA20ZK",
+      "JJZT-GC20ZK",
+      "JJZT-A7ZK",
+      "JJZT-K2DZK",
+      "JJZT-K2ZK"
     ],
     "广东万和新电气股份有限公司": [
       "JSQ32-17S9",
@@ -2018,9 +2456,7 @@
       "JSQ30-16M9",
       "JSQ32-17JK30",
       "JSQ25-13S7",
-      "JSQ25-13M3",
-      "JSQ30-16M9-TJ",
-      "JSQ25-13M18"
+      "JSQ25-13M3"
     ]
   },
   "SQONE狮强": {
@@ -2147,12 +2583,18 @@
     "北斗星智能电器有限公司": [
       "JJZT-MJC01M"
     ],
+    "佛山净微科技有限公司中山分公司": [
+      "JZT-MJ03CY"
+    ],
     "广东合胜厨电科技有限公司": [
-      "JZT-MJ01A",
-      "JZT-MJ02A"
+      "JZT-MJ02A",
+      "JZT-MJ01A"
     ],
     "广东金美达实业有限公司": [
       "JSQ34-MJ01"
+    ],
+    "广东合胜热能科技有限公司": [
+      "JSQ30-MJ02"
     ]
   },
   "ZDTVR": {
@@ -2167,9 +2609,6 @@
       "JSQ25-C5-D612",
       "JSQ23-H05-53B",
       "JSQ30-Z5-Q3"
-    ],
-    "浙江无形电器有限公司": [
-      "JJZT-WXA-X3"
     ]
   },
   "KASONG凯歌": {
@@ -2213,8 +2652,7 @@
       "JZT-KZ66"
     ],
     "中山市华特能厨卫科技制造有限公司": [
-      "JZT-KZ51",
-      "JZT-KZ37"
+      "JZT-KZ51"
     ],
     "佛山市顺德区声飞电器科技有限公司": [
       "JSQ25-KR607",
@@ -2228,16 +2666,6 @@
     ],
     "佛山市顺德区满凌电器有限公司": [
       "JSQ24-KR605T"
-    ],
-    "嵊州乐众电器有限公司": [
-      "JJZT-KJ10",
-      "JJZT-KJ12"
-    ],
-    "广东永焰电气科技有限责任公司": [
-      "JSQ30-KR613",
-      "JSQ25-KR611",
-      "JSQ30-KR616",
-      "JSQ25-KR615"
     ]
   },
   "厨师傅": {
@@ -2279,14 +2707,13 @@
       "JJZT-T1",
       "JJZT-S5-ZK",
       "JJZT-G9-ZKYZ",
-      "JJZT-G2B-ZK",
       "JJZT-S5",
-      "JJZT-G7-SZK",
-      "JJZT-S5-SZK"
+      "JJZT-T5",
+      "JJZT-T3"
     ],
-    "浙江圣堡仕热能科技有限公司": [
-      "JSQ34-H18K",
-      "JSQ34-L18K"
+    "广东四季福燃气具有限公司": [
+      "JSQ23-H12T",
+      "JSQ30-L16"
     ]
   },
   "CaSDON凯度": {
@@ -2462,12 +2889,10 @@
   },
   "欧琳": {
     "绍兴市升博厨房电器有限公司": [
-      "JZT-E2012B",
-      "JZT-E29BN"
+      "JZT-E2012B"
     ],
     "宁波欧琳厨房电器有限公司": [
-      "JZT-E606BN-01",
-      "JZT-E606BN"
+      "JZT-E606BN-01"
     ],
     "浙江帅康电气股份有限公司": [
       "JJZT-OL-Q5-ZK",
@@ -2476,17 +2901,11 @@
     ],
     "中山市扬子电气工业有限公司": [
       "JSQ25-1311",
-      "JSQ30-1615",
-      "JSQ25-1301",
-      "JSQ30-1612"
+      "JSQ30-1615"
     ],
-    "浙江美嘉乐电器有限公司": [
-      "JJZT-OL-HC1X-L",
-      "JJZT-OL-HE1X-K-L",
-      "JJZT-OL-HS2Z-N"
-    ],
-    "广东合胜厨电科技有限公司": [
-      "JZT-E28B"
+    "浙江万事兴电器有限公司": [
+      "JJZT-OL-S1-X",
+      "JJZT-OL-S6-ZK"
     ]
   },
   "索太": {
@@ -2570,39 +2989,62 @@
       "JSQ30-P16D2-FR",
       "JSQ30-X1662-FR",
       "JSQ38-X2001-FR",
-      "JZT-02-HA7B",
-      "JZT-FD1B",
-      "JZT-TH7B",
+      "JZT-TH6B",
+      "JZT-02-TH27B",
+      "JZT-ZK42-02-X1.i",
+      "JZT-TH13B",
+      "JZT-02-TH81B",
       "JZDT-DA9B",
-      "JZT-ZK60-X3.i",
-      "JZT-HC8BE",
+      "JZT-Z47-X2Z.iA",
+      "JZT-ZK60-02-X5.i",
+      "JJZT -S1/X",
+      "JZT-JEX20",
       "JZT-TH25B",
-      "JZT-TH31B",
+      "JZT-TH26B",
+      "JZT-01-TH21B",
+      "JZT-TH15B",
+      "JZT-FD1B",
+      "JZT-02-DA21B",
+      "JZT-02-TH29B",
+      "JZT-ZK42-02-X3A.i",
+      "JZT-ZK42-02-X2.i",
       "JZT-HT8BE.S",
+      "JZT-TH31B",
+      "JZT-02-HA7B",
+      "JZT-TH9B",
+      "JZT-TH7B",
+      "JZT-01-TH23B",
+      "JZT-TH17B",
+      "JZT-TH16B",
       "JZT-TH33B",
       "JZT-TH33G",
-      "JZT-TH15B",
-      "JZT-HT9BE",
-      "JZT-TH26B",
-      "JZT-FD23BE",
       "JZT-FD21GE",
       "JZT-FD21BE",
-      "JZT-FD2G",
-      "JZT-TH1B",
-      "JZT-Z47-X2Z.iA",
-      "JZT-01-TH21B",
-      "JZT-01-TH23B",
+      "JZT-ZK60-X3.i",
+      "JZT-ZTD150F-01-X20.i",
+      "JZT-ZK60-02-X3.i",
+      "JJZT -S1.i/ZK",
+      "JJZT -S1.i/Z",
+      "JSQ30-D1661-FR",
+      "JSQ25-D1301-FR",
+      "JSQ31-X1604-FR",
+      "JSQ30-D1662-FR",
+      "JSQ25-D1362-FR",
       "JSG25-D13E2",
       "JSG31-D16E2",
-      "JSQ25-D1301T-FR",
-      "JSQ25-D13E1",
-      "JSQ25-D13F1",
-      "JSQ31-D16E1",
-      "JSQ31-D16F1",
       "JSQ31-D1601T-FR",
-      "JSQ30-X1663-FR",
+      "JSQ25-D1363-FR",
+      "JSQ25-D1303-FR",
+      "JSQ25-D1361-FR",
+      "JSQ31-1506",
+      "JSQ31-1506-FR",
+      "JSQ31-D1603-FR",
+      "JSQ25-D1301T-FR",
+      "JSQ25-P13T1-FR",
+      "JSQ25-P13D1-FR",
+      "JSQ25-D13F1",
       "JSQ30-H1662-FR",
-      "JSQ25-1504"
+      "JSQ30-X1663-FR"
     ]
   },
   "Royalstar荣事达": {
@@ -2629,12 +3071,14 @@
       "JSQ23-12E603",
       "JSQ25-13E96",
       "JSQ25-13E107",
-      "JSQ25-13E615"
+      "JSQ25-13E615",
+      "JZT-RB192",
+      "JZT-RB195",
+      "JSQ25-13E105",
+      "JSQ30-16E106"
     ],
-    "浙江欧伴生活电器有限公司": [
-      "JJZT-9656ZK",
-      "JJZT-9657CZK",
-      "JJZT-9655"
+    "中山市正美电器金属制品有限公司": [
+      "JJZT-9051ZK"
     ]
   },
   "Marsone火星一号": {
@@ -2734,101 +3178,128 @@
       "LL1PBD28-i16301",
       "L1P28-i16211",
       "L1P24-i16211",
-      "JZT-i10033A",
-      "JZT-i10035A",
-      "JZT-i10049B",
-      "JZT-i10062B",
-      "JJZT-PG01",
-      "JJZT-PG03",
-      "JJZT-PG07",
-      "JJZT-PG08",
-      "JZT-BZ8352B",
+      "JZT-i10068B",
+      "JZT-i10070B",
+      "JZT-i10076B",
+      "JZT-i10082B",
+      "JZT-BH838B1",
+      "JJZT-i3020G",
+      "JJZT-PY06Z",
+      "JZT-B866B",
       "JZT-B8410B",
       "JZT-BZ8403B",
-      "JZT-T816",
-      "JZT-i10002B",
-      "JJZT-PM03",
-      "JJZT-PG05",
-      "JJZT-PG06",
-      "JJZT-PY05",
-      "JJZT-PM08",
-      "JJZT-PM01",
-      "JJZT-PY07",
-      "JZT-B866B",
-      "JZT-B8409B",
-      "JZT-i10051B",
-      "JZT-i10054B",
-      "JZT-i10055B",
-      "JZT-B8203B",
-      "JZT-i10053BF",
-      "JZT-i10052B",
-      "JZT-B8419BF",
-      "JZT-B8406B",
-      "JZT-i10063A",
-      "JZT-i10056B",
-      "JZT-i10057B",
-      "JZT-i10072B",
-      "JZT-i10073B",
-      "JZT-i10012B",
-      "JZT-i10045B",
-      "JZT-i10039A",
-      "JZT-i10039B",
-      "JZT-i8H01B",
-      "JZT-BZ8421B",
+      "JZT-8J101",
+      "JZT-WB1014B",
+      "JZT-8S302",
+      "JZT-BZ8352B",
       "JZT-i10064A",
+      "JZT-i10072B",
+      "JZT-BZ8421B",
+      "JZT-i10098B",
+      "JZT-B8417B",
+      "JZT-i10062B",
       "JZT-i10013T",
       "JZT-i10017B",
-      "JSQ23-Q12JFW",
-      "JSQ23-SJ4-12",
-      "JSQ23-SS1-12",
+      "JZT-i10035A",
+      "JZT-i10039A",
+      "JZT-i10045B",
+      "JZT-i10052B",
+      "JJZT-PG50Z",
+      "JJZT-PY07",
+      "JJZT-PY05",
+      "JJZT-PG08",
+      "JZT-i10053BF",
+      "JJZT-PG09Z",
+      "JJZT-PY09",
+      "JJZT-PY08",
+      "JJZT-PG08A",
+      "JJZT-PG02",
+      "JJZT-i3020Y",
+      "JJZT-PY02",
+      "JJZT-PM02",
+      "JZT-i10088B",
+      "JZT-i10069B",
+      "JZT-i10081B",
+      "JZT-i10080B",
+      "JZT-i10071B",
+      "JZT-i10092B",
+      "JZT-i10091B",
+      "JZT-i10075B",
+      "JZT-i10079B",
+      "JZT-i10078B",
+      "JZT-i10083B",
+      "JZT-8S301",
+      "JZT-8T201",
+      "JZT-8T202",
+      "JZT-8J102",
+      "JZT-8T203",
+      "JZT-8J103",
+      "JZT-8S303",
+      "JZT-i10065A",
+      "JZT-B8409B",
+      "JJZT-PG30",
+      "JZT-i10039B",
+      "JZT-B8406B",
+      "JZT-i10063A",
+      "JZT-B8419BF",
+      "JZT-B8203B",
+      "JZT-i10051B",
+      "JZT-i10073B",
+      "JZT-i8H01B",
+      "JJZT-PY50Z",
+      "JJZT-PG07",
+      "JJZT-PM08",
+      "JJZT-PG06",
+      "JJZT-PG05",
+      "JJZT-PY10",
+      "JJZT-PY30Z",
+      "JSQ23-12JA7",
+      "JSQ30-i12070S-16",
+      "JSQ24-i12151-13",
+      "JSQ34-18ZH7i",
+      "JSQ30-i12251-16",
+      "JSQ19-i12104-10",
+      "JSQ30-i12037-16",
       "JSQ23-i12050-12",
-      "JSQ23-i12054-12",
-      "JSQ24-SJ6-13",
-      "JSQ24-i12047-13",
       "JSQ24-i12050-13",
-      "JSQ24-i12051-13",
-      "JSQ24-i12054-13",
+      "JSQ30-ST4-16",
+      "JSQ30-SJ7-16",
+      "JSQ30-i12201-16",
+      "JSQ30-i12075-16",
+      "JSQ19-i12103-10",
+      "JSQ30-16JX2",
+      "JSQ30-16JH7i",
+      "JSQ30-16ZH7i",
+      "JSQ30-16ZH6i",
+      "JSQ30-16ZE3",
+      "JSQ30-16ZC1",
+      "JSQ30-16ZH6",
+      "JSQ30-16JH6i",
+      "JSQ30-16JH5",
+      "JSQ30-i12075S-16",
+      "JSQ30-16JC3",
+      "JSQ30-i12071S-16",
+      "JSQ34-18ZH6i",
+      "JSQ24-13JA7",
+      "JSQ24-13JX1",
+      "JSQ24-i12153-13",
+      "JSQ24-i12152-13",
+      "JSQ23-12JA2",
+      "JSQ23-SS1-12",
+      "JSQ24-SS3-13",
       "JSQ24-i12052-13",
       "JSQ24-i12061-13",
-      "JSQ30-16ZH6",
-      "JSQ30-16ZC1",
-      "JSQ30-16JH5",
-      "JSQ30-16GC1",
-      "JSQ30-16ZE5-BL",
-      "JSQ30-SJ5-16",
-      "JSQ30-SJ6-16",
-      "JSQ30-SS3-16",
-      "JSQ30-SS2-16",
-      "JSQ30-i12037-16",
-      "JSQ30-i12038-16",
-      "JSQ30-i12047-16",
-      "JSQ30-i12048-16",
-      "JSQ30-i12052-16",
-      "JSQ30-i12053-16",
-      "JSQ30-i12059-16",
-      "JSQ30-i12060-16",
-      "JSQ30-i12055-16",
+      "JSQ24-i12051-13",
       "JSQ30-i12051-16",
-      "JSQ30-i12061-16",
-      "JSQ30-i12057-16",
-      "JSQ30-i12058-16",
+      "JSQ30-i12038-16",
+      "JSQ30-SS3-16",
+      "JSQ30-W1209-16",
       "JSQ30-i12252-16",
-      "JSQ30-i12067-16",
-      "JSQ30-i12068-16",
-      "JSQ34-i12057-18",
-      "JSQ24-13JA7",
-      "JSQ30-16JX2",
-      "JSQ30-16ZH7i",
-      "JSQ30-Q16JCW",
-      "JSQ30-16JH6i",
-      "JSQ23-12JA7",
-      "JSQ19-Q10JCW",
-      "JSQ38-20GH8i",
-      "JSQ24-13JH5",
-      "JSQ24-13JX1",
-      "JSQ30-16JH7i",
-      "JSQ34-18ZH7i",
-      "JSQ24-i12062-13"
+      "JSQ30-SS2-16",
+      "JSQ30-i12061-16",
+      "JSQ30-i12055-16",
+      "JSQ30-i12053-16",
+      "JSQ30-i12052-16"
     ]
   },
   "JABCN家邦": {
@@ -2886,21 +3357,7 @@
       "JJZT-T1-3B",
       "JJZT-J2-9B",
       "JJZT-X1-7B-90",
-      "JJZT-D1-3B",
-      "JJZT-S63-8B",
-      "JJZT-N3-9B",
-      "JJZT-U3-3B-76",
-      "JJZT-E3-3B",
-      "JJZT-FUX3-3B",
-      "JJZT-V10-3B-90B",
-      "JJZT-V7-3B",
-      "JJZT-E3-7B",
-      "JJZT-FUX7-7B",
-      "JJZT-U1M-7B",
-      "JJZT-T1-7B",
-      "JJZT-J2-7B",
-      "JJZT-V11-3B",
-      "JJZT-S63-7B"
+      "JJZT-D1-3B"
     ],
     "广东金美达实业有限公司": [
       "JSQ30-16N7",
@@ -2941,14 +3398,6 @@
       "JJZT-90A7",
       "JJZT-90A5",
       "JJZT-90A3"
-    ],
-    "中山市厨之宝电子厨具有限公司": [
-      "JZT-CA2802GD",
-      "JZT-E2009GX",
-      "JZT-E1016GX",
-      "JZT-CA2531GD",
-      "JZT-CA2629GT",
-      "JZT-C2330GD"
     ]
   },
   "雅乐思Rnice": {
@@ -3010,13 +3459,16 @@
       "JZT-SE3111",
       "JZT-SE3113",
       "JSQ25-RL653S(T)",
-      "JSQ30-RL653L(T)"
-    ],
-    "杭州德意电器股份有限公司": [
+      "JSQ30-RL653L(T)",
+      "JJZT-X-90C2",
+      "JJZT-T-90B0",
+      "JJZT-T-90H1",
+      "JJZT-T-90C2",
       "JJZT-X-90H2",
       "JJZT-X-90B0",
-      "JJZT-X-90C2",
-      "JSQ30-RQ636L(T)"
+      "JZT-SE303A",
+      "JSQ30-RL636L(T)",
+      "JSQ25-RL638S(T)"
     ]
   },
   "AUSU华硕": {
@@ -3063,6 +3515,9 @@
   "LIJUHUO力巨火": {
     "中山市美炊电器有限公司": [
       "JJZT-MZK"
+    ],
+    "中山市荣享热能科技有限公司": [
+      "JSQ23-RX208"
     ]
   },
   "力巨人MR.GIANT": {
@@ -3071,22 +3526,24 @@
       "JJZT-HB-M6ZK",
       "JJZT-HB-M8ZKD"
     ],
-    "松雅（中国）科技有限公司": [
-      "JJZT-HS-G1ZK",
+    "浙江万事兴电器有限公司": [
+      "JJZT-HB-S400-ZK",
+      "JJZT-HS-G1",
+      "JJZT-HDB-M2",
       "JJZT-HMB-M3",
-      "JZT-225",
-      "JJZT-HMB-M3ZK"
-    ],
-    "绍兴科田电器有限公司": [
-      "JJZT-MB-Q2"
+      "JJZT-HS-G1ZK",
+      "JJZT-HB-M6B",
+      "JJZT-MB-S400-ZK",
+      "JJZT-HMB-M3ZK",
+      "JJZT-HMB-M1Z",
+      "JJZT-HMB-Q2"
     ],
     "广东金美达实业有限公司": [
-      "JSQ25-13G2T",
-      "JSQ30-16G3T",
       "JSQ23-12G1T",
       "JSQ34-18G6T",
-      "JSQ25-13G4T",
-      "JSQ30-16G5T"
+      "JSQ25-13G3T",
+      "JSQ30-16G5T",
+      "JSQ30-16G3T"
     ]
   },
   "XUECHU雪厨": {
@@ -3116,15 +3573,11 @@
     "中山市千科生活电器有限公司": [
       "JZT-QK808C",
       "JZT-QK708BJ",
-      "JZT-QK9003B",
-      "JZT-QK709B",
-      "JZT-QK708B"
+      "JZT-QK9003B"
     ],
     "中山市现代厨房设备有限公司": [
       "JSQ32-B-JY5",
-      "JSQ24-B-CX6",
-      "JSQ26-B-CX2",
-      "JSQ24-B-CX5"
+      "JSQ24-B-CX6"
     ]
   },
   "SOFIER索菲亚": {
@@ -3177,23 +3630,51 @@
       "JJZT-J2Y",
       "JJZT-GX5501",
       "JJZT-J2B",
+      "JJZT-GC331",
+      "JJZT-N3Y",
+      "JJZT-CN1X",
+      "JJZT-GZ8701",
+      "JJZT-GY9601",
+      "JJZT-E2Y",
+      "JZT-82 QAS-E2-82D",
+      "JZT-06-KB01E",
+      "JZT-06-H1E",
+      "JJZT-N5Y",
+      "JJZT-GY950S",
+      "JJZT-GZ8501",
+      "JJZT-GX6701",
+      "JJZT-GY9701",
+      "JJZT-GY9501",
+      "JJZT-GX6601",
+      "JJZT-GY961S",
+      "JJZT-C1B",
+      "JJZT-E3Y",
+      "JZT-58 QA-58-B7",
+      "JZT-158 QA-158-B7",
+      "JZT-28 QA-28-B7",
+      "JZT-28 QA-28-G7",
+      "JZT-E5B50",
       "JZT-06-B01",
-      "JZT-58QA-58-B7",
-      "JJZT-GY9501"
+      "JZT-28-B05",
+      "JZT-28-B16S",
+      "JZT-58-KB03",
+      "JZT-58-H2",
+      "JZT-06-1B"
     ],
     "中山市扬子电气工业有限公司": [
       "JSQ30-16BCJ4",
-      "JSQ23-12BCF2",
-      "JSQ25-13BC07"
+      "JSQ30-16BC07",
+      "JSQ25-13BC07",
+      "JSQ23-12BCY1",
+      "JSQ30-16BCY1",
+      "JSQ30-16BCF2",
+      "JSQ25-13BCJ4"
     ],
     "中山市力科电器有限公司": [
       "JSQ30-16HCL61"
     ],
     "广东好迪电器股份有限公司": [
       "JSQ25-13BCL1"
-    ],
-    "浙江帅康电器股份有限公司": [
-      "JJZT-GB330"
     ]
   },
   "FAPAI 法派": {
@@ -3252,12 +3733,17 @@
       "JZT-2-QH10B"
     ],
     "佛山市顺德区金美冠厨卫用品厂": [
-      "JZT-B"
+      "JZT-B",
+      "JZT-T",
+      "JZT-T1"
     ],
     "中山市泰明电器科技有限公司": [
       "JSQ24-12L(T)",
       "JSQ32-16L(T)",
       "JSQ26-13L(T)"
+    ],
+    "中山市利羽电器有限公司": [
+      "JJZT-XOF"
     ]
   },
   "风田": {
@@ -3363,8 +3849,7 @@
       "JJZT-Y01-ZK"
     ],
     "浙江帅康电气股份有限公司": [
-      "JJZT-C01- ZK",
-      "JZT-C1-8601G.2G"
+      "JJZT-C01- ZK"
     ],
     "绍兴市威可多电器有限公司": [
       "JJZT-J01-ZK",
@@ -3373,20 +3858,25 @@
     ],
     "广东合胜电气有限公司": [
       "JZT-R1-7207G.2G",
-      "JZT-R1-7608G.2G",
+      "JZT-R1-7821G.2G",
       "JZT-R1-7607G.2G",
-      "JZT-R1-7821G.2G"
+      "JZT-R1-7820G.2G",
+      "JZT-R1-7608G.2G"
     ],
-    "浙江法兰喜电器有限公司": [
-      "JZT-H1-7812G.2G"
+    "嵊州市科宝电器有限公司": [
+      "JZT-K1-9001G.2G"
     ],
     "中山市天隆燃具电器有限公司": [
       "JZT-T1-7808G.2G"
+    ],
+    "能率上海住宅设备有限公司": [
+      "JSQ25-13N1"
     ]
   },
   "od欧帝": {
     "浙江欧帝智能厨电有限公司": [
-      "JZT-125E19"
+      "JZT-125E19",
+      "JJZT-901P12X"
     ],
     "广东顺德大派电气有限公司": [
       "JSQ23-AT31B"
@@ -3405,11 +3895,21 @@
       "JSQ25-VGW1310",
       "JSQ34-VGW1816",
       "JSQ30-VGW1618",
-      "JSQ30-VGW1617"
+      "JSQ30-VGW1617",
+      "JSQ30-VGW168",
+      "JSQ30-VGW1629"
     ],
     "广东祥基电器有限公司": [
       "JSQ30-VGW1623",
       "JSQ34-VGW1823"
+    ],
+    "广东合胜厨电科技有限公司": [
+      "JJZT-VJ502",
+      "JZT-VG303"
+    ],
+    "中山市恒乐电器有限公司": [
+      "JSQ30-VGW1621",
+      "JSQ30-VGW1628"
     ]
   },
   "SENTI森田": {
@@ -3467,7 +3967,23 @@
       "JZT-EL02",
       "JZT-B3L20",
       "JZT-B9L745ZW",
-      "JZT-C3L57"
+      "JZT-C3L57",
+      "JZT-H6L02Z",
+      "JZT-Q5L03Q",
+      "JZT-Q1L26",
+      "JZT-B9L16Z",
+      "JZT-Q1L08",
+      "JZT-B8L06XG",
+      "JZT-B1L08X",
+      "JZT-Q3L06",
+      "JZT-Q3L26",
+      "JZT-B7L51",
+      "JZT-Q1L06",
+      "JZT-H7L20Z",
+      "JZT-B8L26",
+      "JZT-Q1G08",
+      "JZT-B8L20XG",
+      "JZT-Q1L03Q"
     ],
     "广东乐邦电器股份有限公司": [
       "JJZT-V2",
@@ -3583,7 +4099,62 @@
       "JSQ32-S5W17",
       "JSQ32-S6W17T",
       "JSQ32-S6J17",
-      "JSQ32-17WY53"
+      "JSQ32-17WY53",
+      "JSQ32-17ML1",
+      "JSQ30-16N17",
+      "JSQ25-13Q9",
+      "JSQ27-14ML1",
+      "JSQ20-10EG16",
+      "JSQ35-18L8",
+      "JSQ27-14YF",
+      "JSG24-12ETP81",
+      "JSLQ21-WLS3W13",
+      "JSLQ27-WLS3W16",
+      "JSQ32-17QL33",
+      "JSQ30-16Y3",
+      "JSQ16-8C6",
+      "JSQ25-13N8",
+      "JSQ24-12EG26",
+      "JSQ22-11Q9",
+      "JSQ30-16N18",
+      "JSQ25-13NG18",
+      "JSQ27-14QT50",
+      "JSQ32-17QT50",
+      "JSQ30-16L1PRO",
+      "JSQ30-16ET81",
+      "JSQ30-16L2",
+      "JSQ30-16YL3",
+      "JSQ30-16Q40",
+      "JSQ30-MS3D16",
+      "JSQ30-CMS5C16",
+      "JSQ30-MF6D16",
+      "JSQ30-YS6Y16",
+      "JSQ30-YF5Y16",
+      "JSQ27-14SA5",
+      "JSQ27-14YL3",
+      "JSQ27-14Y3",
+      "JSQ27-14ML3",
+      "JSQ27-14QL33",
+      "JSQ27-PS6P14",
+      "JSLQ27-LS7D16",
+      "JSLQ27-WLS7W16",
+      "JSQ24-12EG16",
+      "JSQ32-17SA3",
+      "JSQ32-PS6P17",
+      "JSQ32-17YF",
+      "JSQ25-13ET81",
+      "JSQ25-13EG17",
+      "JSQ25-13Q25",
+      "JSQ25-13N25",
+      "JSQ25-13Q40",
+      "JSQ25-CMS5C13",
+      "JSQ22-11W6",
+      "JSQ30-16NG20",
+      "JSQ25-13W6",
+      "JSQ25-13NG20",
+      "JSQ27-14Q5",
+      "JSQ32-17G5",
+      "L1PB32-G30B1"
     ],
     "广东万和热能科技有限公司": [
       "L1PB26-G24B1",
@@ -3598,7 +4169,8 @@
   },
   "HYUNDAI": {
     "广东中创燃气具有限公司": [
-      "JZT-HZ339A"
+      "JZT-HZ339A",
+      "JZT-HZ339B"
     ],
     "中山市正美电器金属制品有限公司": [
       "JZT-HZ320A"
@@ -3728,12 +4300,32 @@
       "JSQ26-Ti9",
       "JSQ26-Wi9",
       "LL1GBQ28-PHS ONE PLUS 30",
-      "LL1GBQ22-EGIS ONE PLUS 24"
+      "LL1GBQ22-EGIS ONE PLUS 24",
+      "L1PB26-EGIS X PLUS 24",
+      "L1PB30-EGIS X PLUS 28",
+      "L1PB26-CARES X PLUS 24",
+      "L1PB30-CARES X PLUS 28",
+      "LL1GBQ28-EGIS ONE PLUS 30"
     ],
     "Ariston Thermo S.p.A.": [
       "L1PB26-ALTEAS X 24 WIFI",
       "N1PB26-CLAS X SYSTEM 24",
-      "LL1GBQ22-GENUS ONE WIFI 24"
+      "LL1GBQ22-GENUS ONE WIFI 24",
+      "N1PB30-CLAS X SYSTEM 28",
+      "N1PB35-CLAS X SYSTEM 32",
+      "LL1GBQ22-CLAS ONE 24",
+      "LL1GBQ28-ALTEAS ONE WIFI 30",
+      "LL1GBQ33-GENUS ONE WIFI 35",
+      "L1PB26-CLAS X 24",
+      "L1PB30-CLAS X 28",
+      "L1PB35-CLAS X 32",
+      "LN1GBQ28-CLAS ONE SYSTEM 30",
+      "LN1GBQ33-CLAS ONE SYETEM 35",
+      "LL1GBQ28-CARES ONE 30",
+      "LL1GBQ28-CLAS ONE 30",
+      "LL1GBQ28-GENUS ONE WIFI 30",
+      "L1PB26-GENUS X 24 WIFI",
+      "LL1GBQ22-CARES ONE 24"
     ]
   },
   "京芙田 jingfutian": {
@@ -3748,16 +4340,12 @@
       "JSQ25-13L11A",
       "JSQ25-13J5FA",
       "JSQ25-13H6",
-      "JSQ30-16J5FA"
-    ],
-    "广东阿诗丹顿电气有限公司三角分公司": [
-      "JJZT-U09ZK",
-      "JZT-A313B",
-      "JZT-A323B",
-      "JZT-A361B",
-      "JZT-A658B",
-      "JZT-A356B",
-      "JZT-A657B"
+      "JSQ30-16J5FA",
+      "JSQ25-13F8",
+      "JSQ30-16L11A",
+      "JSQ23-12H5(F)",
+      "JSQ25-13H6A",
+      "JSQ25-13H8"
     ]
   },
   "Haier 海尔": {
@@ -3797,17 +4385,6 @@
       "JSQ30-16VM3SDU1",
       "JSQ22-12MY3L(12T)U1",
       "JSQ24-12W1BW"
-    ],
-    "青岛海尔智慧厨房电器有限公司": [
-      "JZT-Q209A(12T)",
-      "JZT-Q23M(12T)",
-      "JZT-QHA7B0(12T)",
-      "JJZT-90-S1HZKU1(12T)",
-      "JJZT-90X-S1HZKU1(12T)",
-      "JZT-QHA938U1(12T)",
-      "JZT-QHA7381(12T)",
-      "JZT-QE9B1(12T)",
-      "JZT-QE636B(12T)"
     ]
   },
   "Casarte 卡萨帝": {
@@ -3818,28 +4395,14 @@
       "JSQ31-16CX5(12T)U1",
       "JSQ31-16CR9NPU1",
       "JSQ31-16CW3(12T)U1"
-    ],
-    "青岛海尔智慧厨房电器有限公司": [
-      "JZT-C7G90AGU1(12T)",
-      "JZT-C7G82CGU1(12T)",
-      "JZT-C6G90BGU1(12T)",
-      "JZT-C6G82CGU1(12T)",
-      "JZT-CG18D2(12T)",
-      "JZT-CG17A2(12T)",
-      "JZT-CG18E2(12T)",
-      "JZT-G2KG6B0(12T)",
-      "JZT-G2KG72(12T)",
-      "JZT-G2KG92(12T)",
-      "JZT-G2KG76(12T)",
-      "JZT-CG18D2G(12T)"
     ]
   },
   "思念": {
     "中山市誉美电器有限公司": [
       "JSQ23-125"
     ],
-    "中山市思念电器有限公司": [
-      "JZT-SN88"
+    "广东惠浦莱斯智能科技有限公司": [
+      "JZT-SN99"
     ]
   },
   "TOSHIBA": {
@@ -3856,7 +4419,13 @@
       "L1PB26-TSL5",
       "L1PB26-TSC2",
       "JSQ25-TA1",
-      "JSQ30-TA3"
+      "JSQ30-TG3",
+      "JSQ30-TA3",
+      "JSG30-TG3",
+      "JSQ30-TG6",
+      "L1PB32-TSC2",
+      "L1PB20-TSC2",
+      "L1PB32-TSL5"
     ]
   },
   "瑞美": {
@@ -3896,10 +4465,16 @@
       "JSQ30-L16AD(T)"
     ],
     "法罗力热能设备(中国)有限公司": [
-      "L1PB26-starclima F24D"
+      "L1PB26-starclima F24D",
+      "L1PB26-starclima F24B",
+      "LL1PBD25-divacondens24"
     ],
     "FERROLI S.P.A.": [
       "L1PB25-DIVATECH D F24"
+    ],
+    "广东合胜厨电科技有限公司": [
+      "JZT-G632",
+      "JZT-G390"
     ]
   },
   "Weber威博": {
@@ -3912,10 +4487,11 @@
   },
   "FATIER法帝": {
     "佛山市顺德区满凌电器有限公司": [
-      "JSQ24-A"
+      "JSQ24-A",
+      "JSQ32-A"
     ],
     "嵊州市广帅电器有限公司": [
-      "JZT-A-FD128"
+      "JZT-A"
     ],
     "绍兴吾乐电器有限公司": [
       "JJZT-A"
@@ -3932,15 +4508,19 @@
       "JSQ30-16S10",
       "JSQ25-13S01",
       "JSQ30-16S06",
-      "JSQ25-13S011"
+      "JSQ25-13S011",
+      "JSQ25-13B02"
     ],
-    "绍兴西曼生活电器有限公司": [
-      "JJZT-C3-90A",
-      "JJZT-B3-90A-ZK",
-      "JJZT-C3-90A-ZX"
+    "浙江西曼电器有限公司": [
+      "JJZT-D1-90B-ZK",
+      "JJZT-D2-90X",
+      "JJZT-C2-90A-ZKP2",
+      "JJZT-C5-90B",
+      "JJZT-D1-90B"
     ],
-    "绍兴市优创燃具有限公司": [
-      "JZT-YA21"
+    "嵊州市福华燃具有限公司": [
+      "JZT-06M-F-06M",
+      "JZT-06M-F-08L"
     ]
   },
   "艾瑞科": {
@@ -3949,22 +4529,13 @@
       "JSQ24-12HB04(12T)",
       "JSQ27-14L9",
       "JSQ31-16HB01(12T)",
-      "JSQ24-12HB04（12T）",
-      "JSQ28-14HB08（12T）",
-      "JSQ31-16HB01（12T）",
-      "JSQ28-14HA07（12T）",
-      "JSQ31-16HA01（12T）",
-      "L1PB20-P1",
-      "L1PB20-B",
-      "L1PB24-P1",
       "L1PB24-B",
-      "L1PB28-B",
-      "L1PB20-HT1(T)",
-      "L1PB28-HC1(T)",
-      "L1PB26-HC1(T)",
-      "L1PB20-HM(T)",
-      "L1PB20-HS(T)U1",
-      "L1PB26-HS(T)U1"
+      "L1PB24-BP2",
+      "L1PB28-BP2",
+      "LL1GBQ28-Q3",
+      "L1PB24-P1",
+      "L1PB24-BP3",
+      "L1PB28-BP3"
     ]
   },
   "Paloma": {
@@ -4015,8 +4586,7 @@
   },
   "斯密sime": {
     "意大利斯密集团股份有限公司": [
-      "LL1GBQ20-MIA HE 25",
-      "L1PB26-ARIA 25 BF"
+      "LL1GBQ20-MIA HE 25"
     ]
   },
   "THERMEX泰美斯": {
@@ -4037,7 +4607,29 @@
       "LL1GBQ25-M6",
       "L1PB26-B23D",
       "L1PB26-DW",
-      "L1PB26-D4"
+      "L1PB26-D4",
+      "JSQ25-13H18",
+      "JSQ30-16H18",
+      "JSQ25-13L38",
+      "JSQ30-16L38",
+      "LL1PBD26-Q7",
+      "L1PB26-Q3D",
+      "L1PB26-B30D",
+      "LN1GBQ60-T2",
+      "L1PB26-B22D",
+      "L1PB26-C11P",
+      "L1PB26-DD",
+      "L1PB26-B20D"
+    ],
+    "中山市卫氏燃具电器有限公司": [
+      "JZT-Q26"
+    ],
+    "佛山市兆田燃气具有限公司": [
+      "JZT-Q03G"
+    ],
+    "广东祥基电器有限公司": [
+      "JSQ27-14L68",
+      "JSQ32-17L68"
     ]
   },
   "施诺": {
@@ -4269,7 +4861,8 @@
   },
   "威猛达": {
     "浙江威猛达科技有限公司": [
-      "SZCT32-WMD"
+      "SZCT32-WMD",
+      "SZCT23-WMD"
     ]
   },
   "明厨": {
@@ -4321,8 +4914,1025 @@
       "SZST15-15/30A",
       "SDGT38-A",
       "SZXT40-A",
+      "SPTT15-15/30A",
       "SZCT30-E",
       "SPTT4-16A"
+    ]
+  },
+  "Gaggenau嘉格纳": {
+    "Gaggenau Industrie S.A.S.": [
+      "JZT-VG233220CN"
+    ]
+  },
+  "SHENZHOU神州": {
+    "广东神州燃气用具有限公司": [
+      "JZT-2D9[61]",
+      "JZT-2D18[28B]",
+      "JZT-2D18[20]",
+      "JZT-2D18{38]",
+      "JSQ25-13H2",
+      "JSQ30-16F1",
+      "JSQ22-12N5A",
+      "JSQ22-12H6",
+      "JSQ25-13F1",
+      "JSQ30-16N3"
+    ]
+  },
+  "戴纳斯帝": {
+    "广东合创达电器科技有限公司": [
+      "JZT-H150F-H353B",
+      "JZT-H142Y-S122B",
+      "JZT-H150Y-H371B",
+      "JZT-H150Y-H421B"
+    ],
+    "浙江万事兴电器有限公司": [
+      "JJZT-W148-M11F2",
+      "JJZT-W152-M11C3/G1",
+      "JJZT-W152-B11EZK",
+      "JJZT-W148-M11C1",
+      "JJZT-W148-B25ZKX",
+      "JJZT-W152-B11XDG"
+    ],
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ25-JE50",
+      "JSQ30-JE50",
+      "JSQ25-JF70",
+      "JSQ30-JF70",
+      "JSQ30-JF90"
+    ],
+    "浙江双菱戴纳斯帝电气有限公司": [
+      "LL1GBQ24-Z001",
+      "N1PB36-C001",
+      "LL1GBQ30-Z001",
+      "LL1GBQ36-Z001",
+      "L1PB26-Z001",
+      "L1PB30-Z001",
+      "L1PB20-Z001",
+      "L1PB24-W001",
+      "L1PB30-C001",
+      "L1PB30-0001",
+      "L1PB20-W001",
+      "L1PB20-0001",
+      "L1PB26-C001",
+      "L1PB26-0001"
+    ]
+  },
+  "SIEMENS西门子": {
+    "博西华电器(江苏)有限公司": [
+      "JZT-ER9SM233MP",
+      "JZT-ER77K233MP",
+      "JZDT-H42",
+      "JZT-ER8KJF23MP",
+      "JZT-ER7EA230MP",
+      "JZT- ER8PR231MP",
+      "JZT-ER7JGA23MP",
+      "JZT-ER9PM331MP",
+      "JZT-ER9EPA33MP",
+      "JZT-ER8PF233MP",
+      "JZT-ER8SR231MP",
+      "JZT-ER77F231MP",
+      "JZT- ER7EA25JMP",
+      "JZT- ER7EA233MP",
+      "JZT-ER7EA250MP",
+      "JZT-ER8MF255MP",
+      "JZT-ER8MF233MP",
+      "JZT-ER8PT231MP",
+      "JZT-ER77GA23MP",
+      "JZT-ER7DGA23MP"
+    ]
+  },
+  "BOSCH博世": {
+    "博西华电器(江苏)有限公司": [
+      "JZT-PSD92M33MP",
+      "JZDT- PBH723BMP",
+      "JZT- PPD93A3EMP",
+      "JZT- PSD82F31MP",
+      "JZT- PPD93M31MP",
+      "JZT- PPD82T31MP",
+      "JZT- PMD82F31MP",
+      "JZT-PSD82R31MP",
+      "JZT- PSD82F21MP",
+      "JZT- PGD72A31MP"
+    ],
+    "BSH Electrodomesticos Espana, S.A.": [
+      "JZT- PRC3A61W"
+    ],
+    "博世热力技术(上海)有限公司": [
+      "L1P24-G6300W 22/24 CG",
+      "L1P27-G7100W 24 CG",
+      "L1P31-G7100W 28 CG",
+      "N1P31-G7100W 28 G",
+      "LL1GBQ30-(ZWB30-3A G)",
+      "L1P27-G5100WE 24 CG"
+    ],
+    "Bosch Thermotechnik GmbH": [
+      "L1P27-ZWC 24-3 MFA G",
+      "L1P38-ZWC 35-3 MFA G",
+      "N1P31-ZSC 28-3 MFA G",
+      "L1P27-G6100W 24 CG",
+      "L1P27-ZWC 24-4 MFA G",
+      "L1P31-ZWC 28-4 MFA G",
+      "N1P31-ZSC 28-4 MFA G",
+      "N1P38-ZSC 35-4 MFA G",
+      "LL1GBQ24-GC7100W 25 C"
+    ]
+  },
+  "林内": {
+    "上海林内有限公司": [
+      "JZT-2E03M",
+      "JZT-2E01M",
+      "JZT-2WLGM",
+      "JZT-2NG",
+      "JZT-2W2LG",
+      "JZT-2E02M",
+      "JZT-2E02SM",
+      "JZT-2W2LGM",
+      "JZT-2QLGH",
+      "JZT-2QLGH(S)",
+      "JZT-2NGM",
+      "JZT-2NS",
+      "JZT-2NGX",
+      "JZT-2NSX",
+      "JZT-2QLCV(S)",
+      "JZT-2QLGV",
+      "JZT-2QLGV(S)",
+      "JZT-2W2LSX",
+      "JZT-2W2LGX",
+      "JZT-2W2LS",
+      "JZT-2E05LS",
+      "JZT-2E03LS",
+      "JSQ40-53A",
+      "JSQ47-R86F",
+      "JSW32-55A",
+      "JSW40-R65A",
+      "JSW48-R65A",
+      "JSQ26-C01",
+      "JSQ31-32FJ",
+      "JSG22-55A",
+      "JSG26-55A",
+      "JSG32-55A",
+      "JSQ20-C01",
+      "JSQ22-C01",
+      "JSQ48-R65A",
+      "JSG22-22A",
+      "JSG26-22A",
+      "JSG32-22A",
+      "JSW32-R65A",
+      "JSW32-23A",
+      "JSQ26-D06W",
+      "JSQ26-D32",
+      "JSQ26-C08W",
+      "JSQ26-D31",
+      "JSQ26-C08",
+      "JSQ26-76FY",
+      "JSQ26-D06",
+      "JSQ26-D66W",
+      "JSQ26-S06",
+      "JSQ26-C55W",
+      "JSQ26-C05",
+      "JSQ26-C06",
+      "JSQ26-S71W",
+      "JSQ26-KP39",
+      "JSQ26-56F",
+      "JSQ26-C100W",
+      "JSQ26-H04",
+      "JSQ26-S42W",
+      "JSQ26-32FJ",
+      "JSQ26-S04",
+      "JSQ26-C21W",
+      "JSQ26-32F",
+      "JSQ26-D03",
+      "JSQ26-D33W",
+      "JSQ26-66FY",
+      "JSQ26-C02",
+      "JSQ26-S41",
+      "JSQ31-S06",
+      "JSQ31-C55W",
+      "JSQ31-C06",
+      "JSQ31-M73FB",
+      "JSQ31-S71W",
+      "JSQ31-56F",
+      "JSQ31-S42W",
+      "JSQ31-C100W",
+      "JSQ31-H04",
+      "JSQ31-C05",
+      "JSQ31-C21W",
+      "JSQ31-32F",
+      "JSQ31-S04",
+      "JSQ31-KP39",
+      "JSQ31-D33W",
+      "JSQ31-66FY",
+      "JSQ31-D03",
+      "JSQ31-R32F",
+      "JSQ31-86FB",
+      "JSQ31-C02",
+      "JSQ31-S41",
+      "JSQ31-D06W",
+      "JSQ31-C01",
+      "JSQ31-D32",
+      "JSQ31-C08W",
+      "JSQ31-D31",
+      "JSQ31-C08",
+      "JSQ31-76FY",
+      "JSQ31-D06",
+      "JSQ31-D66W",
+      "JSQ20-S41",
+      "JSQ20-D31",
+      "JSQ22-D31",
+      "JSQ22-66FY",
+      "JSQ22-32FJ",
+      "JSQ22-56F",
+      "JSQ22-H04",
+      "JSQ22-32F",
+      "JSQ48-53A",
+      "JSQ47-R32F",
+      "JSQ40-R86F",
+      "JSQ40-R32F",
+      "JSQ40-R65A",
+      "L1GB28-24G55",
+      "L1PB20-18C30",
+      "L1PB40-35C33",
+      "L1PB32-28C30",
+      "L1PB27-24C30",
+      "L1GB21-18UC",
+      "L1GB26-22UC",
+      "L1GB31-26UC",
+      "L1PB20-18C66L",
+      "L1PB20-18C33",
+      "L1PB27-24C66L",
+      "L1PB27-24C33",
+      "L1PB32-28C66L",
+      "L1PB32-28C33",
+      "L1PB40-35C66L",
+      "L1PB40-35C30",
+      "L1GB21-18UX",
+      "L1GB21-18G55",
+      "L1GB26-22UX",
+      "L1GB31-26UX"
+    ],
+    "日本林内株式会社": [
+      "JZT-3CGN-CH",
+      "JZT-2CGN-CH",
+      "JSQ62-A3200WF",
+      "JSQ31-V1610WF",
+      "JSG39-V2110FFU",
+      "JSG45-V2400FFU",
+      "JSW39-A2024W",
+      "JSQ40-A2024WF",
+      "JSQ46-A2426WF",
+      "LL1GBQ18-A2047FF",
+      "LL1GBQ25-A2747FF",
+      "LL1GBQ36-A4058FF"
+    ]
+  },
+  "川皇": {
+    "浙江川皇电器有限公司": [
+      "JJZT-X3"
+    ]
+  },
+  "LEPTIS莱普帝斯": {
+    "中山市莱普帝斯电器有限公司": [
+      "JJZT-DY021-T11A",
+      "JJZT-JF10"
+    ],
+    "硕品燃具电器(中山)有限公司": [
+      "JZT-EJC-LZB18H"
+    ],
+    "中山菱力电器有限公司": [
+      "JZT-EJG",
+      "JZT-EJF"
+    ],
+    "中山市誉美电器有限公司": [
+      "JSQ23-H"
+    ],
+    "广东四季福燃气具有限公司": [
+      "JSQ25-H",
+      "JSQ30-H"
+    ]
+  },
+  "ZHEPAI浙派": {
+    "浙江万事兴电器有限公司": [
+      "JJZT-9ZP9",
+      "JJZT-Z13-D1",
+      "JZT-11B2",
+      "JZT-A01",
+      "JZT-ZC1B6",
+      "JJZT-ZP6ZK2",
+      "JJZT-90Z20-A",
+      "JJZT-9ZP11-A",
+      "JJZT-ZP18ZKX3",
+      "JZT-10B3"
+    ],
+    "广东永焰电气科技有限责任公司": [
+      "JSQ30-16A11T-Z",
+      "JSQ25-13A11T-Z",
+      "JSQ23-12A9T-Z"
+    ],
+    "佛山市顺德区声飞电器科技有限公司": [
+      "JSQ24-12A"
+    ]
+  },
+  "GUG佳歌": {
+    "浙江佳歌电器有限公司": [
+      "JJZT-H1S",
+      "JJZT-H3",
+      "JJZT-T2ZK-1",
+      "JJZT-A2C",
+      "JJZT-A5ZK",
+      "JJZT-T2-1"
+    ],
+    "广东金美达实业有限公司": [
+      "JSQ30-16JGS2",
+      "JSQ25-13E2G"
+    ]
+  },
+  "多田牌TAADA": {
+    "绍兴市升博厨房电器有限公司": [
+      "JZT-GA135GT",
+      "JZT-GA3068GT",
+      "JZT-GA3063GT",
+      "JZT-GA3066GT",
+      "JZT-GA3065GT"
+    ],
+    "高本炉具(中山)有限公司": [
+      "JSQ33-YS1660SU",
+      "JSQ22-YS1100SU",
+      "JSQ33-YS2163"
+    ]
+  },
+  "CUYOTO厨优堂": {
+    "绍兴双牛电器有限公司": [
+      "JJZT-CJ1"
+    ]
+  },
+  "ALESDUN": {
+    "广东火马电气科技有限公司": [
+      "JJZT-X1"
+    ],
+    "广东博思电气股份有限公司": [
+      "JZT-H"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ23-12",
+      "JSQ25-13",
+      "JSQ30-16"
+    ]
+  },
+  "OUYI欧意": {
+    "广东宝的电器有限公司": [
+      "JZT-Q801B+",
+      "JZT-Q652B+",
+      "JZT-Q832B"
+    ],
+    "中山市彬美电器有限公司": [
+      "JZT-Q352B",
+      "JZT-Q926B",
+      "JZT-Q350B"
+    ],
+    "绍兴市威可多电器有限公司": [
+      "JJZT-K98E-21D",
+      "JJZT-KE98E-21X-1"
+    ],
+    "中山市新旺电器有限公司": [
+      "JSQ25-A28-13L"
+    ],
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ24-A26-12L",
+      "JSQ25-G03B-13L",
+      "JSQ30-S12B-16L",
+      "JSQ30-A27-16L",
+      "JSQ30-S13-16L"
+    ]
+  },
+  "美诺Miele": {
+    "Imperial-Werke oHG": [
+      "JZT-CS1014",
+      "JZT-KM3464",
+      "JZT-CS1011"
+    ]
+  },
+  "多意Duoy": {
+    "嵊州市福华燃具有限公司": [
+      "JZT-08S-B2X11",
+      "JJZT-S10",
+      "JJZT-95F",
+      "JJZT-S1-ZK"
+    ],
+    "浙江圣堡仕热能科技有限公司": [
+      "JSQ23-D5JL10"
+    ]
+  },
+  "UKS": {
+    "佛山市兴妻电器有限公司": [
+      "JZT-520"
+    ],
+    "中山市巧克斯电器有限公司": [
+      "JZT-A"
+    ],
+    "中山市万顺宝厨卫电器有限公司": [
+      "JSQ30-H06-02"
+    ]
+  },
+  "ROBAM老板": {
+    "杭州老板电器股份有限公司": [
+      "JZT-9B00",
+      "JZT-9B31",
+      "JZT-9G38",
+      "JZT-9G53",
+      "JZT-7B022",
+      "JZT-9B315",
+      "JZT-9B312",
+      "JZT-7B13",
+      "JZT-7B19",
+      "JJZT-9YX03",
+      "JJZT-90B8X",
+      "JJZT-91B8C",
+      "JZT-7G02",
+      "JZT-9B20",
+      "JZT-9B010",
+      "JZT-57B6D",
+      "JZT-37G7A",
+      "JZT-7B195",
+      "JZT-7B193",
+      "JZT-7B192",
+      "JZT-7B28",
+      "JZT-7B19K",
+      "JZT-9B37",
+      "JZT-9B32",
+      "JZT-9B52",
+      "JZT-9B515",
+      "JZT-7B037",
+      "JZT-7B031",
+      "JZT-9B03",
+      "JZT-7G05",
+      "JZT-7G10",
+      "JZT-7G161",
+      "JZT-9G01",
+      "JJZT-9YX13",
+      "JJZT-9YC13",
+      "JJZT-9YC03",
+      "JJZT-90B8Z",
+      "JZT-57B5X",
+      "JZT-57B2D",
+      "JZT-57B0X",
+      "JZT-32B8A",
+      "JSQ31-HD662-16"
+    ],
+    "广东祥基电器有限公司": [
+      "JSQ27-HT602A-14",
+      "JSQ31-HT601A-16",
+      "JSQ27-HT601A-14",
+      "JSQ31-HT602A-16",
+      "JSQ31-HT600-16",
+      "JSQ31-HT620A-16",
+      "JSQ31-HL682-16"
+    ]
+  },
+  "先明兴科": {
+    "广东火马电气科技有限公司": [
+      "JJZT-H1"
+    ],
+    "中山市东凤镇萨浦莱斯厨卫电器厂": [
+      "JZT-B"
+    ],
+    "中山市万顺宝厨卫电器有限公司": [
+      "JSQ23-H05"
+    ]
+  },
+  "Caoban潮邦": {
+    "浙江潮邦厨具电器有限公司": [
+      "JJZT-2P-K7x",
+      "JJZT-2P-K11x",
+      "JJZT-2P-M5zK",
+      "JJZT-2P-K7zK(s)",
+      "JJZT-2P-M5zk(f)",
+      "JJZT-2P-M5x"
+    ],
+    "广东金美达实业有限公司": [
+      "JSQ30-16B1",
+      "JSQ25-13A1"
+    ]
+  },
+  "CHIFFO前锋": {
+    "成都前锋电子有限责任公司": [
+      "JZT-Q002-B",
+      "JZT-Q502-B",
+      "JZT-75403",
+      "JZT-Q301-B",
+      "JZT-Q609-B",
+      "JZT-Q606-B",
+      "JSQ20-X315",
+      "JSQ22-93101",
+      "JSQ24-X315",
+      "JSQ25-X307",
+      "JSQ30-F902",
+      "JSQ24-X318",
+      "JSQ25-X515",
+      "JSQ30-X315",
+      "JSQ20-X309",
+      "JSQ30-FBD7",
+      "JSQ30-93303",
+      "JSQ30-X518",
+      "JSQ30-X515",
+      "JSQ30-F903",
+      "JSQ25-T401",
+      "JSQ25-F903",
+      "JSQ25-F902",
+      "JSQ25-X323",
+      "JSQ25-93303",
+      "JSQ25-93101",
+      "JSQ25-X518",
+      "JSQ25-X315"
+    ],
+    "宁波市万茂电器有限公司奉化三横生产车间": [
+      "JZT-Z201-B"
+    ],
+    "佛山市顺德区星威厨卫电气制造有限公司": [
+      "JZT-Z001-B"
+    ],
+    "广东顺德万众电气有限公司": [
+      "JZT-75001",
+      "JZT-75401",
+      "JZT-75002"
+    ],
+    "浙江衢州杰晟热能科技有限公司": [
+      "JSQ27-97701",
+      "JSQ30-97701",
+      "L1P24-JS1"
+    ]
+  },
+  "KENEN肯恩": {
+    "广东灶将军燃气具电器有限公司": [
+      "JZT-BZ66",
+      "JZT-BZ68"
+    ],
+    "中山市何太电气有限公司": [
+      "JZT-KN-BZ22",
+      "JZT-KN-BZ25",
+      "JZT-KN-BZ23"
+    ],
+    "佛山市顺德区声飞电器科技有限公司": [
+      "JSQ25-P101S1(T)",
+      "JSQ30-P301ZL3(T)",
+      "JSQ30-C201Z3(T)"
+    ]
+  },
+  "TTL太太乐": {
+    "中山市欧利时智能科技有限公司": [
+      "JJZT-JCZ-05"
+    ],
+    "广东太太乐电器有限公司": [
+      "JZT-SW9",
+      "JSQ24-12K01"
+    ]
+  },
+  "普迪奥": {
+    "绍兴科田电器有限公司": [
+      "JJZT-ZK-KT-T91"
+    ],
+    "浙江奥能燃气具有限公司": [
+      "JSQ30-16C102FA1"
+    ]
+  },
+  "YULI玉立": {
+    "浙江玉立电器有限公司": [
+      "JJZT-ZK23"
+    ],
+    "宁波市万茂电器有限公司": [
+      "JZT-200B7",
+      "JZT-B206S",
+      "JZT-200BS",
+      "JZT-B203S",
+      "JZT-B204",
+      "JJZT-X02"
+    ],
+    "广东祥基电器有限公司": [
+      "JSQ30-16HL2",
+      "JSQ30-16HB2"
+    ]
+  },
+  "当乐DANGLE": {
+    "浙江川皇电器有限公司": [
+      "JJZT-X8",
+      "JJZT-X2"
+    ],
+    "中山市秋意厨卫电器有限公司": [
+      "JZT-FC",
+      "JZT-S14-L"
+    ],
+    "佛山市顺德区声飞电器科技有限公司": [
+      "JSQ25-P101S1(T)",
+      "JSQ30-C201ZB14A(T)"
+    ]
+  },
+  "航天电器": {
+    "中山市航奥电器有限公司": [
+      "JZT-45-A"
+    ],
+    "广东美太电气有限公司": [
+      "JJZT-S05B"
+    ],
+    "中山市新旺电器有限公司": [
+      "JSQ25-A26"
+    ]
+  },
+  "AOUBOT奥铂特": {
+    "中山市航奥电器有限公司": [
+      "JZT-45-A"
+    ],
+    "广东美太电气有限公司": [
+      "JJZT-S05A"
+    ],
+    "中山市新旺电器有限公司": [
+      "JSQ25-A21"
+    ]
+  },
+  "CZB 厨之宝": {
+    "中山市厨之宝电子厨具有限公司": [
+      "JZT-CA2531GD",
+      "JZT-CA2629GT"
+    ],
+    "广东好迪电器股份有限公司": [
+      "JSQ25-Q13V7"
+    ]
+  },
+  "火力星": {
+    "浙江美嘉乐电器有限公司": [
+      "JJZT-X3-A"
+    ],
+    "嵊州市意泰厨卫电器有限公司": [
+      "JSQ24-H12A"
+    ]
+  },
+  "有顾家 更爱家": {
+    "嵊州市三泰电器有限公司": [
+      "JZT-Z"
+    ],
+    "绍兴市柏信电器有限公司": [
+      "JJZT-X"
+    ]
+  },
+  "HIONE火王": {
+    "深圳火王智能厨电股份有限公司": [
+      "JJZT-HW-J01-90T/B",
+      "JZT-523/B2",
+      "JZT-2J01/ED",
+      "JJZT-523-X6/X",
+      "JJZT-310-X5/X",
+      "JJZT-A3/G",
+      "JJZT-X1/X",
+      "JJZT-X3/X",
+      "JZT-523L/B2",
+      "JZT-9230/B1",
+      "JZT-2J01/B",
+      "JZT-2Q31",
+      "JZT-2Q1/B",
+      "JJZT-X6T/X-GY",
+      "JJZT-X6/X",
+      "JZT-2J03/B2",
+      "JSQ20-H10",
+      "JSQ23-H12",
+      "JSQ30-H16",
+      "JSQ25-H13"
+    ],
+    "深圳火王器具有限公司中山分公司": [
+      "JSQ30-V16"
+    ]
+  },
+  "INSE樱雪": {
+    "广东优点电器有限公司": [
+      "JJZT-90X2203(B)"
+    ],
+    "广东合胜集成电气有限公司": [
+      "JJZT-90X2106(B)"
+    ],
+    "绍兴市威可多电器有限公司": [
+      "JJZT-90ZK2102(B)"
+    ],
+    "中山市樱雪集团有限公司": [
+      "JZT-Q2003(B)",
+      "JZT-Q2105(B)",
+      "JZT-T1501(G)W",
+      "JZT-T1502(G)W",
+      "JZT-Q2211(B)W",
+      "JZT-Q2109(B)",
+      "JZT-Q2006(B)",
+      "JZT-Q1807(B)",
+      "JZT-Q1806(B)",
+      "JZT-Q2102(B)",
+      "JZT-Q2107(B)",
+      "JSQ30-16QH2205",
+      "JSQ25-13QH2207",
+      "JSQ25-13QH1807-S",
+      "JSQ25-13QH2020",
+      "JSQ25-13QH2102",
+      "JSQ25-13QH2003",
+      "JSQ25-13QH2206",
+      "JSQ25-13QH2005",
+      "JSQ25-13QH2101",
+      "JSQ30-16QH2101",
+      "JSQ30-16QH2002",
+      "JSQ30-16QH2102",
+      "JSQ30-16QH2009",
+      "JSQ30-16QH2206",
+      "JSQ30-16QH2005",
+      "JSQ30-16QH1806-S"
+    ]
+  },
+  "K-STOVE红霸": {
+    "嵊州米恩集成厨电有限公司": [
+      "JJZT-A8S",
+      "JJZT-A8S-ZKX"
+    ],
+    "广东顺德万众电气有限公司": [
+      "JZT-ST730BY-2002",
+      "JZT-ST730BF-CH125",
+      "JZT-6G103-2002",
+      "JZT-6G103F-CH125"
+    ],
+    "中山真爱电器有限公司": [
+      "JZT-QC-1",
+      "JZT-QC6",
+      "JZT-QD"
+    ],
+    "中山物镁电气科技有限公司": [
+      "JSQ25-13C1",
+      "JSQ25-13SL",
+      "JSQ30-16SL6",
+      "JSQ25-13C6",
+      "JSQ25-13C5",
+      "JSQ25-13C3",
+      "JSQ30-16SL7",
+      "JSQ30-16SL5",
+      "JSQ30-16SL3",
+      "JSQ30-16SL",
+      "JSQ30-16C5"
+    ]
+  },
+  "PEINN培恩": {
+    "合肥培恩电器有限公司": [
+      "JJZT-J20S",
+      "JJZT-P90Q7ZK",
+      "JJZT-H20BP",
+      "JJZT-E3DZK",
+      "JJZT-J35DZK",
+      "JJZT-E3",
+      "JJZT-E3ZK"
+    ],
+    "佛山市庆嘉电器有限公司": [
+      "JSQ32-A",
+      "JSQ26-A",
+      "JSQ24-P12C02"
+    ]
+  },
+  "AIERMA爱玛": {
+    "嵊州市东和电器有限公司": [
+      "JZT-AM"
+    ],
+    "绍兴市柏信电器有限公司": [
+      "JJZT-AM-HS"
+    ],
+    "顺德市顺德区声飞电器科技有限公司": [
+      "JSQ25-R19S4(T)"
+    ]
+  },
+  "保利泰": {
+    "中山真爱电器有限公司": [
+      "JZT-Q1",
+      "JZT-Q2",
+      "JZT-QC"
+    ],
+    "绍兴市百乐田燃具电器有限公司": [
+      "JJZT-C-ZK"
+    ],
+    "中山市法迪恩电器有限公司": [
+      "JSQ24-C",
+      "JSQ25-C"
+    ]
+  },
+  "科太郎": {
+    "绍兴市森都电器有限公司": [
+      "JJZT-T8"
+    ],
+    "中山市新旺电器有限公司": [
+      "JSQ25-A"
+    ]
+  },
+  "depelec": {
+    "浙江德普电器有限公司": [
+      "JJZT-D1-ZK90K1ES",
+      "JJZT-D1-ZK90A1S"
+    ]
+  },
+  "先科": {
+    "华颂智能科技(广东)有限公司": [
+      "JJZT-A01"
+    ],
+    "中山市火师傅电器有限公司": [
+      "JZT-A"
+    ],
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ24-12A"
+    ]
+  },
+  "皇朝": {
+    "中山市美炊电器有限公司": [
+      "JJZT-MZK"
+    ],
+    "广东灶将军燃气具电器有限公司": [
+      "JZT-A",
+      "JZT-C"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ25-A"
+    ]
+  },
+  "华尔顿HEADER": {
+    "中山市华尔顿厨电科技有限公司": [
+      "JZT-A",
+      "JSQ32-H3023C",
+      "JSQ24-TR2002C1"
+    ],
+    "广东美太电气有限公司": [
+      "JJZT-A"
+    ]
+  },
+  "顺意隆SHUNYILONG": {
+    "佛山市顺德区火森厨卫有限公司": [
+      "JZT-HDQ088"
+    ]
+  },
+  "Tianew天牛": {
+    "浙江美大实业股份有限公司": [
+      "JJZT-T5",
+      "JJZT-8806X",
+      "JJZT-T7",
+      "JJZT-T7ZK",
+      "JJZT-T7Z",
+      "JJZT-8806Z",
+      "JJZT-8806ZZK",
+      "JJZT-8806ZK",
+      "JJZT-MD3S",
+      "JJZT-T8",
+      "JJZT-T6",
+      "JJZT-T3",
+      "JJZT-T1",
+      "JJZT-T75",
+      "JJZT-MD3SZK",
+      "JJZT-T5ZK",
+      "JJZT-T8Z",
+      "JJZT-T6Z",
+      "JJZT-T5Z"
+    ],
+    "广东金美达实业有限公司": [
+      "JSQ30-16T60",
+      "JSQ25-13T20",
+      "JSQ23-12T10",
+      "JSQ30-16T30",
+      "JSQ25-13T50"
+    ]
+  },
+  "AOTIN奥田": {
+    "浙江奥田电器股份有限公司": [
+      "JZT-5B206",
+      "JZT-3B202",
+      "JJZT-X2-E05",
+      "JJZT-X6-ZK90M5",
+      "JJZT-X7-A3",
+      "JJZT-X8-90T3",
+      "JJZT-X2-E01",
+      "JJZT-X2-75A1",
+      "JJZDT-X6-ZK90M5S",
+      "JJZT-X6-ZK90A8(W)",
+      "JJZT-X8-90ZKM4-AI",
+      "JJZT-X8-90D3",
+      "JJZT-X7-A3S",
+      "JJZT-X7-A3Z",
+      "JJZT-X7-ZK90M3",
+      "JJZT-X7-80ZKY3",
+      "JJZT-X8-90ZKT5-AI",
+      "JJZT-X9-90E4Z",
+      "JJZT-X8-90ZKD3",
+      "JJZT-X9-90A2",
+      "JJZT-X8-90ZKT5",
+      "JJZT-X9-90E4",
+      "JJZT-X8-90ZKA4",
+      "JJZT-X9-90ZKE4",
+      "JJZT-X8-90ZKT3",
+      "JZT-3B315"
+    ],
+    "广东四季福燃气具有限公司": [
+      "JSQ30-AT05",
+      "JSQ25-AT03",
+      "JSQ30-AT05-16L6B"
+    ],
+    "浙江奥能燃气具有限公司": [
+      "JSQ25-13H1",
+      "JSQ30-AT05-16H9",
+      "JSQ30-AT05-16H7",
+      "JSQ30-AT05-16H8"
+    ]
+  },
+  "XINQI鑫奇": {
+    "广东鑫奇电气有限公司": [
+      "JZT-98A1",
+      "JZT-98A1-5",
+      "JZT-98A1-3",
+      "JZT-98X-5",
+      "JZT-98X1-5",
+      "JZT-98X",
+      "JZT-98X1",
+      "JZT-98B1",
+      "JZT-98B",
+      "JZT-98A-5",
+      "JZT-98A-3",
+      "JZT-98A",
+      "JSQ31-16A",
+      "JSQ25-13B",
+      "JSQ23-12B",
+      "JSQ25-13AZ",
+      "JSQ25-13AL",
+      "JSQ25-13A",
+      "JSQ31-16AL"
+    ],
+    "广东火马电气科技有限公司": [
+      "JJZT-H5",
+      "JJZT-H11",
+      "JJZT-H9",
+      "JJZT-H10"
+    ]
+  },
+  "OPPE昕欧派": {
+    "中山市旺歌电器有限公司": [
+      "JZT-A"
+    ],
+    "佛山市顺德区布奇电器有限公司": [
+      "JJZT-BP-JCZ-1"
+    ],
+    "广东贝尔电器有限公司": [
+      "JSQ24-BR12"
+    ]
+  },
+  "GIKUIR顾家": {
+    "中山市旺歌电器有限公司": [
+      "JZT-A"
+    ],
+    "佛山市顺德区布奇电器有限公司": [
+      "JJZT-BP-JCZ-1"
+    ],
+    "广东贝尔电器有限公司": [
+      "JSQ24-BR12"
+    ]
+  },
+  "雅兰宝": {
+    "广东鑫奇电气有限公司": [
+      "JZT-98X1-5",
+      "JZT-98X",
+      "JZT-98X1",
+      "JZT-98B",
+      "JZT-98B1",
+      "JZT-98A-5",
+      "JZT-98A-3",
+      "JZT-98A",
+      "JZT-98A1",
+      "JZT-98A1-5",
+      "JZT-98A1-3",
+      "JZT-98X-5",
+      "JJZT-H5",
+      "JSQ25-13B",
+      "JSQ31-16A",
+      "JSQ23-12B",
+      "JSQ25-13AZ",
+      "JSQ25-13AL",
+      "JSQ31-16AL"
+    ]
+  },
+  "火鑫博厨": {
+    "嵊州市华台电器有限公司": [
+      "JJZT-H4"
+    ]
+  },
+  "Frestec": {
+    "中山市帅太电器科技有限公司": [
+      "JZT-AB",
+      "JSQ23-A"
+    ]
+  },
+  "LaIPU莱普": {
+    "绍兴市海乐电器有限公司": [
+      "JJZT-LP10M",
+      "JJZT-LPC1X",
+      "JZT-A170-1",
+      "JZT-A100",
+      "JZT-A182",
+      "JJZT-LP1XM",
+      "JJZT-LP12M",
+      "JJZT-LPC3X"
+    ],
+    "广东美厨世家热能科技有限公司": [
+      "JSQ25-ES31",
+      "JSQ23-12ES10",
+      "JSQ30-ES8V1"
     ]
   },
   "Niandi年帝": {
@@ -4332,426 +5942,673 @@
     "中山市联享燃气设备有限公司": [
       "JZT-A",
       "JSQ24-A",
-      "JSQ28-A"
-    ]
-  },
-  "Medal美多": {
-    "浙江美多电器有限公司": [
-      "JJZT-E2ZKs",
-      "JJZT-M3ZKs",
-      "JJZT-E2Z",
-      "JJZT-E2",
-      "JJZT-E7",
-      "JJZT-M3S",
-      "JJZT-X2ZKs",
-      "JJZT-X6ZKs",
-      "JJZT-X3"
-    ],
-    "佛山市顺德区声飞电器科技有限公司": [
-      "JSQ32-MD-K03(T)",
-      "JSQ25-MD-K02(T)",
-      "JSQ24-MD-T02D(T)",
-      "JSQ25-MD-380B-6(T)",
-      "JSQ32-MD-380L-5(T）"
-    ]
-  },
-  "有顾家 更爱家": {
-    "嵊州市三泰电器有限公司": [
-      "JZT-Z00"
-    ],
-    "绍兴市柏信电器有限公司": [
-      "JJZT-X"
-    ]
-  },
-  "金正": {
-    "中山市金正厨卫设备有限公司": [
-      "JZT-A3"
-    ]
-  },
-  "SAST先科": {
-    "中山市澳太电器有限公司": [
-      "JZT-A",
-      "JZT-K05"
-    ],
-    "广东和诚众原五金有限公司": [
-      "JJZT-XH-A"
-    ],
-    "中山市新旺电器有限公司": [
+      "JSQ28-A",
       "JSQ30-A"
+    ]
+  },
+  "Hisense海信": {
+    "海信(广东)厨卫系统股份有限公司": [
+      "JZT-HB301S",
+      "JZT-B309",
+      "JZT-HB301",
+      "JZT-HB83C2",
+      "JZT-HB316",
+      "JZT-HB505",
+      "JZT-HB312D",
+      "JZT-HB302",
+      "JZT-HB305",
+      "JZT-HB307",
+      "JZT-HB802"
     ],
-    "广东科大方正电气股份有限公司": [
-      "JSQ25-A"
-    ]
-  },
-  "万和": {
-    "广东万和电气有限公司": [
-      "JZT-B1L08X",
-      "JZT-H7L20Z",
-      "JZT-B9L16Z",
-      "JZT-Q3L26",
-      "JZT-Q3L06",
-      "JZT-Q1L26",
-      "JZT-Q1L06",
-      "JZT-B8L26",
-      "JZT-NL06D"
+    "中山市扬子电气工业有限公司": [
+      "JSQ25-13WTK1(12T)"
     ],
-    "广东万和新电气股份有限公司": [
-      "JSQ20-10EG16",
-      "JSQ35-18L8",
-      "JSG24-12ETP81",
-      "JSQ25-13N7",
-      "JSQ32-17G10",
-      "JSQ30-16YL3",
-      "JSQ27-14L3-2",
-      "JSQ32-17YF",
-      "JSQ32-17SA3",
-      "JSQ27-14YL3",
-      "JSQ27-14SA5",
-      "JSQ27-14Y3",
-      "JSQ27-14YF",
-      "JSQ27-13L4",
-      "JSQ27-14ML3",
-      "JSQ25-13N8",
-      "JSQ25-13EG17",
-      "JSQ25-13ET81",
-      "JSQ25-13N25",
-      "JSQ25-13GT18",
-      "JSQ25-13GT27",
-      "JSQ25-13LG3",
-      "JSQ30-16L1",
-      "JSQ30-16L2",
-      "JSQ30-16L3-2",
-      "JSQ30-16L4",
-      "JSQ30-16LG3",
-      "JSQ30-16N21",
-      "JSQ30-16ET81",
-      "JSQ30-16GT18",
-      "JSQ30-16GT27",
-      "JSQ30-16Y3",
-      "JSQ30-16EG83F",
-      "JSQ22-11N7",
-      "JSQ22-11N8",
-      "JSQ28-14G7",
-      "JSQ28-14G20",
-      "JSQ24-12EG26",
-      "JSQ24-12EG16"
+    "广东金美达实业有限公司": [
+      "JSQ30-16PTK1(12T)",
+      "JSQ25-13CMK1(12T)",
+      "JSQ30-16BMGK1(12T)",
+      "JSQ30-16CMK1(12T)",
+      "JSQ30-16BTK1(12T)",
+      "JSQ30-16PXGK1IC2(12T)",
+      "JSQ25-13BMGK1(12T)",
+      "JSQ25-13BTK1(12T)"
     ]
   },
-  "Chengdi诚帝": {
-    "诚帝电器（广东）有限公司": [
-      "JZT-A",
-      "JJZT-AJT",
-      "JSQ23-T"
+  "WAIES MOKA": {
+    "中山市天隆燃具电器有限公司": [
+      "JZT-2MK780N",
+      "JZT-4MK860R"
     ]
   },
-  "泰美龙TAIMEILONG": {
-    "嵊州市科琳纳电器厂": [
-      "JJZT-900J"
+  "GASTAR": {
+    "广东合胜厨电科技有限公司": [
+      "JZT-HB02",
+      "JZT-ZB06",
+      "JZT-ZB12",
+      "JZT-ZB16F",
+      "JZT-ZB18",
+      "JZT-ZB13F",
+      "JZT-ZB17D"
+    ],
+    "广东金美达实业有限公司": [
+      "JSQ30-16GHZ5",
+      "JSQ25-13GH1S"
     ]
   },
-  "AIRMATE艾美特": {
-    "诚帝电器（广东）有限公司": [
-      "JZT-A",
-      "JJZT-AJT",
-      "JSQ30-ART"
-    ]
-  },
-  "HUANGGUAN": {
-    "诚帝电器（广东）有限公司": [
-      "JZT-A",
-      "JJZT-AJT",
-      "JSQ23-T"
-    ]
-  },
-  "航天电器": {
-    "中山市航奥电器有限公司": [
-      "JZT-45-A"
-    ]
-  },
-  "AOUBOT奥铂特": {
-    "中山市航奥电器有限公司": [
-      "JZT-45-A"
+  "SHENGGE圣鸽": {
+    "嵊州市圣鸽电器有限公司": [
+      "JJZT-IN202",
+      "JJZT-L400"
+    ],
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ25-13D"
     ]
   },
   "CARDE卡梦帝": {
-    "新昌好嘉园电器有限公司": [
-      "JZT-MNS71",
-      "JZT-MNS72"
+    "嵊州市晶贝电器有限公司": [
+      "JJZT-F901-XD",
+      "JJZT-F903-ZK",
+      "JZT-MNS751",
+      "JZT-MNS802",
+      "JZT-MNS75",
+      "JZT-MNS76"
     ],
-    "嵊州市梦尼电器有限公司": [
-      "JJZT-LX6",
-      "JZT-MN"
+    "新昌好嘉园电器有限公司": [
+      "JZT-MNS72"
     ],
     "浙江奥能燃气具有限公司": [
       "JSQ30-16",
-      "JSQ25-13"
+      "JSQ25-13",
+      "JSQ23-12"
     ]
   },
-  "HZF好丈夫": {
-    "绍兴市威可多电器有限公司": [
-      "JJZT-1905C-ZX",
-      "JJZT-K95D-08D"
+  "CHIGO志高": {
+    "中山市广利来电器有限公司": [
+      "JJZT-H59"
     ],
-    "中山市赛恩莎电器有限公司": [
-      "JZT-A",
-      "JZT-L012B",
-      "JSQ24-12"
+    "中山市安心生活电器有限公司": [
+      "JZT-T83",
+      "JZT-T82",
+      "JZT-T69"
+    ],
+    "中山市法迪恩电器有限公司": [
+      "JSQ25-C",
+      "JSQ32-C"
     ]
   },
-  "圣鸽SHENGGE": {
-    "嵊州市圣鸽电器有限公司": [
-      "JJZT-IN201",
-      "JJZT-N601"
+  "AEG": {
+    "广东美的厨卫电器制造有限公司": [
+      "JZT-HGB82200CB",
+      "JZT-HGB82211CB"
+    ],
+    "广东合胜厨电科技有限公司": [
+      "JZT-HGB82201CM"
+    ]
+  },
+  "Otlan奥特朗": {
+    "广东美约科技有限公司": [
+      "JZT-A125B"
+    ],
+    "广东合创达电器科技有限公司": [
+      "JZT-A120B"
+    ],
+    "中山市蓝马电器有限公司": [
+      "JJZT-X320",
+      "JJZT-ZK360",
+      "JJZT-ZK760"
+    ],
+    "广东美厨世家热能科技有限公司": [
+      "JSQ25-A13J02",
+      "JSQ34-A18L02",
+      "JSQ30-A16Z02"
+    ],
+    "浙江衢州杰晟热能科技有限公司": [
+      "LL1PBD24"
+    ],
+    "佛山市顺德区杰晟热能科技有限公司": [
+      "L1P20",
+      "L1P24"
+    ]
+  },
+  "Qiaopai巧派": {
+    "广东火马电气科技有限公司": [
+      "JJZT-QP-ZK"
+    ],
+    "中山市巧派电器有限公司": [
+      "JZT-W",
+      "JZT-S",
+      "JZT-X"
+    ],
+    "中山市华富电器科技有限公司": [
+      "JSQ30-G0137"
+    ]
+  },
+  "bata邦太": {
+    "绍兴市奥森电器有限公司": [
+      "JJZT-BQ",
+      "JJZT-BM"
+    ],
+    "广东爱普电器有限公司": [
+      "JZT-996"
+    ],
+    "中山市邦太电器有限公司": [
+      "JZT-978",
+      "JZT-988",
+      "JSQ25-T"
+    ],
+    "中山市万顺宝厨卫电器有限公司": [
+      "JSQ30-A",
+      "JSQ25-A1",
+      "JSQ23-T",
+      "JSQ30-T"
     ]
   },
   "aoshuai": {
     "绍兴市奥帅电器股份有限公司": [
+      "JJZT-FN",
       "JZT-Q8908B",
-      "JJZT-5FS02"
+      "JJZT-HT"
     ],
     "浙江圣堡仕热能科技有限公司": [
-      "JSQ23-12A"
+      "JSQ23-12HR01"
     ]
   },
-  "BANGY邦的": {
-    "嵊州市志莫电器有限公司": [
-      "JJZT-S1"
+  "BOLEMI博乐米": {
+    "浙江川皇电器有限公司": [
+      "JJZT-M3"
     ],
-    "浙江圣堡仕热能科技有限公司": [
-      "JSQ23-D5JL10"
+    "绍兴博乐米厨卫科技有限公司": [
+      "JJZT-H901B",
+      "JJZT-BD907",
+      "JJZT-HDT901A",
+      "JJZT-H901",
+      "JJZT-BD906",
+      "JJZT-HS946B",
+      "JJZT-BS907",
+      "JJZT-BD903A",
+      "JJZT-M4"
     ]
   },
-  "神州": {
-    "中山市欧利时智能科技有限公司": [
-      "JJZT-A120"
+  "BAICHUI百炊": {
+    "中山市樱邦电器有限公司": [
+      "JZT-B02"
     ],
-    "中山市一品精工电器有限公司": [
-      "JJZT-A119"
+    "佛山市顺德区布奇电器有限公司": [
+      "JJZT-BP-JCZ-1"
     ],
-    "广东神州燃气用具有限公司": [
-      "JZT-2D18[20]",
-      "JZT-2D18[32]",
-      "JSQ25-13DN",
-      "JSQ25-13DQ",
-      "JSQ38-20K6",
-      "JSQ22-12N5B",
-      "JSQ23-12N2A"
+    "中山市煌爵电器有限公司": [
+      "JSQ30-HT"
     ]
   },
-  "BOSCH博世": {
-    "BSH Electrodomesticos Espana, S.A.": [
-      "JZT- PRC3A61W"
+  "YALICE雅丽诗": {
+    "中山真爱电器有限公司": [
+      "JZT-QC",
+      "JZT-HZ60"
     ],
-    "博西华电器（江苏）有限公司": [
-      "JZT-PMD82F31MP",
-      "JZT-PPD82T31MP",
-      "JZT-PSD82F21MP",
-      "JZT-PSD82F31MP",
-      "JZT-PMD82F51MP"
-    ],
-    "博世热力技术（上海）有限公司": [
-      "L1P27-G6100W 24 C",
-      "LL1GBQ30(ZWB30-3A23 S5523)",
-      "LN1GBQ27(ZSB28-3A23 S5523)",
-      "LL1GBQ24-(ZWB25-3A23 S5523)",
-      "L1P25-G6300W 22/24 CT",
-      "L1P18-G6300W 16/18 CT",
-      "L1P26-G7100W 24 C",
-      "L1P30-G7100W 28 C"
-    ],
-    "博世热力技术有限公司": [
-      "L1P27-(ZWC24-3MFA 23)",
-      "L1P31-(ZWC28-3MFA 23)",
-      "L1P38-(ZWC35-3MFA 23)",
-      "N1P31-(ZSC28-3MFA 23)",
-      "N1P38-(ZSC35-3MFA 23)",
-      "LL1GBQ24-GC7100W 25 C",
-      "LL1GBQ35-GC7100W 35 C",
-      "LL1GBQ30-GC7100W 30 C",
-      "LN1GBQ27-GC7100W 28"
+    "中山市誉美电器有限公司": [
+      "JSQ23-B02"
     ]
   },
-  "SIEMENS西门子": {
-    "博西华电器（江苏）有限公司": [
-      "JZT-ER8PT231MP",
-      "JZT-ER77F231MP",
-      "JZT-ER9SF231MP",
-      "JZT-ER8PR231MP",
-      "JZT-ER8MF255MP",
-      "JZT-ER7EA230MP",
-      "JZT-ER7EA250MP",
-      "JZT-ER7EA233MP",
-      "JZT-ER7EA23SMP",
-      "JZT-ER7EA25JMP",
-      "JZT-ER7EA23JMP",
-      "JZT-ER8MA23SMP",
-      "JZT-ER8PT232MP",
-      "JZT-ER8PF251MP",
-      "JZT-ER8MF233MP",
-      "JZDT-H42"
+  "新飞": {
+    "中山市新新电器有限公司": [
+      "JZT-A7",
+      "JSQ24-A1"
     ],
-    "BSH Electrodomesticos Espana, S.A": [
-      "JZT- ER3A6C1W"
+    "中山市弘旭生活电器有限公司": [
+      "JZT-XF-D",
+      "JZT-XF-E",
+      "JSQ26-XF"
     ]
   },
-  "LaIPU莱普": {
-    "绍兴市海乐电器有限公司": [
-      "JZT-A191-2",
-      "JZT-A121-1",
-      "JJZT-LP10M",
-      "JJZT-LP12M",
-      "JJZT-LP1XM"
+  "SAST先科": {
+    "广东美太电气有限公司": [
+      "JJZT-SKS03A",
+      "JJZT-SKS03B"
     ],
-    "广东美厨世家热能科技有限公司": [
-      "JSQ25-ES3V1",
-      "JSQ30-ES8V1",
-      "JSQ34-ES111"
+    "中山市巧娘子生活电器有限公司": [
+      "JZT-A18",
+      "JZT-A16"
+    ],
+    "中山市新旺电器有限公司": [
+      "JSQ25-SKA-T",
+      "JSQ23-SKA-T",
+      "JSQ30-SKA-T"
     ]
   },
-  "奥田": {
-    "浙江奥田电器股份有限公司": [
-      "JZT-3B202",
-      "JZT-5B206",
-      "JJZT-X2-A3",
-      "JJZT-X6-ZK90M5S",
-      "JJZT-X8-90T3",
-      "JJZT-X8-90ZKA4",
-      "JJZT-X8-90ZKT3",
-      "JJZT-X7-ZK90M3",
-      "JJZT-X7-A3Z",
-      "JJZT-X7-A3S",
-      "JJZT-X6-ZK90M5",
-      "JJZT-X2-E01",
-      "JJZT-X2-E05"
-    ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ25-13H1",
-      "JSQ25-AT03-13H7"
-    ],
-    "广东四季福燃气具有限公司": [
-      "JSQ30-AT05"
-    ]
-  },
-  "雅兰宝": {
-    "广东火马电气科技有限公司": [
-      "JJZT-H5"
-    ],
-    "广东鑫奇电气有限公司": [
-      "JZT-98A-5",
-      "JZT-98A-3",
-      "JZT-98A",
-      "JZT-98A1",
-      "JZT-98A1-5",
-      "JZT-98B",
-      "JZT-98B1",
-      "JSQ22-12A",
-      "JSQ25-13A",
-      "JSQ25-13B"
-    ]
-  },
-  "XINQI  鑫奇": {
-    "广东鑫奇电气有限公司": [
-      "JZT-98A-3",
-      "JZT-98A",
-      "JZT-98A1",
-      "JZT-98A1-5",
-      "JZT-98B",
-      "JZT-98B1",
-      "JZT-98A-5",
-      "JSQ22-12A",
-      "JSQ31-16A",
-      "JSQ25-13A",
-      "JSQ23-12B",
-      "JSQ31-16AL",
-      "JSQ25-13B"
-    ],
-    "广东火马电气科技有限公司": [
-      "JJZT-H5"
-    ]
-  },
-  "PEINN培恩": {
-    "合肥培恩电器有限公司": [
-      "JJZT-P90X8ZK",
-      "JJZT-P90K8",
-      "JJZT-P90K1",
-      "JJZT-Y20ZK"
-    ],
-    "佛山市庆嘉电器有限公司": [
-      "JSQ32-A",
-      "JSQ24-P12C02"
-    ]
-  },
-  "DepElec": {
-    "浙江德普电器有限公司": [
-      "JJZT-X90-Z3",
-      "JJZT-X90-R8"
-    ]
-  },
-  "厨品乐CHUPINLE": {
-    "嵊州市通格电器有限公司": [
-      "JJZT-A17",
-      "JJZT-A3"
+  "湯申多田": {
+    "中山市秋意厨卫电器有限公司": [
+      "JZT-FC",
+      "JZT-FB",
+      "JZT-AB14-B"
     ]
   },
   "OUNUONI欧诺尼": {
     "浙江欧诺尼厨具有限公司": [
-      "JJZT-KL",
-      "JJZT-KL-X3"
+      "JJZT-QLB-M1",
+      "JJZT-KL-X3",
+      "JJZT-QLB-ZKM7"
     ]
   },
-  "FUTUREMAN未来人": {
-    "浙江未来人厨房电器有限公司": [
-      "JJZT-A2"
+  "YORK约克": {
+    "嵊州市科琳纳电器厂": [
+      "JJZT-YK-J60DK"
+    ],
+    "嵊州乐众电器有限公司": [
+      "JJZT-YK-J25ZK"
+    ],
+    "广东美厨世家热能科技有限公司": [
+      "JSQ25-13YK-F11",
+      "JSQ30-16YK-F13"
     ]
   },
-  "GASTAR": {
-    "广东合胜电气有限公司": [
-      "JJZT-KY02",
-      "JJZT-KC02"
+  "约克家立方": {
+    "中山市厨宝智能厨电有限公司": [
+      "JZT-YK-ZJ7"
+    ],
+    "广东合创达电器科技有限公司": [
+      "JZT-YK-ZJ2"
+    ]
+  },
+  "WAHIN": {
+    "邯郸美的智能厨电制造有限公司": [
+      "JJZT-90WD26-G",
+      "JJZT-YP002-G"
+    ]
+  },
+  "Master Kitchen": {
+    "广东美的厨卫电器制造有限公司": [
+      "JZT-MK65L-G"
+    ]
+  },
+  "INTUNE银田": {
+    "中山市莱普帝斯电器有限公司": [
+      "JJZT-L2"
     ],
     "广东合胜厨电科技有限公司": [
-      "JZT-HB02",
-      "JZT-HB03",
-      "JZT-ZB02H",
-      "JZT-ZB09F",
-      "JZT-ZB11E",
-      "JZT-ZB12"
+      "JZT-Q2F6",
+      "JZT-B919A"
     ],
-    "广东金美达实业有限公司": [
-      "JSQ23-12GH1",
-      "JSQ25-13GH10B"
+    "广东美太电气有限公司": [
+      "JJZT-B8",
+      "JJZT-B11"
+    ],
+    "中山市正美电器金属制品有限公司": [
+      "JZT-B932"
+    ],
+    "佛山市顺德区裕安燃气具实业有限公司": [
+      "JSQ25-13E83"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ25-13E80",
+      "JSQ25-13E81"
     ]
   },
-  "shaoLI韶力": {
-    "浙江永升电器有限公司": [
-      "JZT-AK12B",
-      "JJZT-X18"
+  "Httai": {
+    "宁波市鄞州厨锋厨房用品厂": [
+      "JZT-B150",
+      "JZT-B121",
+      "JZT-B151"
+    ],
+    "浙江圣堡仕热能科技有限公司": [
+      "JSQ34-18EM01",
+      "JSQ23-12EG01",
+      "JSQ25-13EH01"
+    ]
+  },
+  "WEILI威力": {
+    "中山市弘旭生活电器有限公司": [
+      "JZT-H45",
+      "JZT-Q4",
+      "JZT-Q8A",
+      "JZT-Q1"
+    ],
+    "广东火马电气科技有限公司": [
+      "JJZT-X1"
+    ],
+    "中山菱力电器有限公司": [
+      "JSQ26-A",
+      "JSQ24-A",
+      "JSQ32-A"
+    ]
+  },
+  "chengdi诚帝": {
+    "诚帝电器(广东)有限公司": [
+      "JZT-B"
+    ],
+    "广东美太电气有限公司": [
+      "JJZT-AJZK"
+    ]
+  },
+  "panasonic": {
+    "广东合胜厨电科技有限公司": [
+      "JZT-B27NGK",
+      "JZT-C27MGB",
+      "JZT-C27AGK",
+      "JZT-C26AGB"
+    ]
+  },
+  "PERCEN百尊": {
+    "广东合胜厨电科技有限公司": [
+      "JZT-5115S",
+      "JZT-5110G",
+      "JZT-5112G",
+      "JZT-5106AG"
+    ],
+    "能率(上海)住宅设备有限公司": [
+      "JSQ25-7206M",
+      "JSQ25-7208M"
+    ],
+    "上海林内有限公司": [
+      "JSQ32-22CA"
+    ],
+    "广东万和新电气股份有限公司": [
+      "JSQ25-2238M",
+      "JSQ24-2242M",
+      "JSQ28-2236M",
+      "JSQ32-2232M"
+    ]
+  },
+  "Redcle红典": {
+    "广东火马电气科技有限公司": [
+      "JJZT-K9"
+    ],
+    "广东顺德牛金燃气具有限公司": [
+      "JZT-HD8B10",
+      "JZT-HD8B09"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ25-13HD",
+      "JSQ30-16HD",
+      "JSQ23-12HD"
+    ]
+  },
+  "Meile美勒": {
+    "嵊州市科宝电器有限公司": [
+      "JZT-J10"
+    ]
+  },
+  "欧川": {
+    "绍兴吾乐电器有限公司": [
+      "JJZT-K9ZKF"
+    ]
+  },
+  "HEXI贺喜": {
+    "绍兴市贺喜电器有限公司": [
+      "JZT-A6-A2",
+      "JZT-A6-A3",
+      "JZT-K1",
+      "JZT-K9-Q7",
+      "JJZT-C90-90S-2",
+      "JJZT-C90-F10",
+      "JJZT-i10-F2",
+      "JZT-A6-A8",
+      "JZT-A6-A9"
+    ],
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ24-12D",
+      "JSQ25-13D",
+      "JSQ30-16D"
+    ]
+  },
+  "BELLSIRO": {
+    "广东斯诺电器有限公司": [
+      "JJZT-X3",
+      "JSQ26-BE",
+      "JSQ30-BE"
+    ],
+    "中山市亲的电器有限公司": [
+      "JZT-QD02"
     ]
   },
   "V威华仕": {
     "中山市威华仕厨卫电器有限公司": [
-      "JZT-A",
-      "JZT-XX",
+      "JZT-A"
+    ],
+    "广东佳雪燃气具制造有限公司": [
       "JSQ24-12",
       "JSQ25-13",
       "JSQ30-16"
     ]
   },
-  "瑞贝格尔": {
-    "绍兴吾乐电器有限公司": [
-      "JJZT-90J"
+  "Quac全厨": {
+    "广东市合创达电器科技有限公司": [
+      "JZT-Q88",
+      "JZT-Q35",
+      "JZT-Q22",
+      "JZT-Q98"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ23-12",
+      "JSQ25-13",
+      "JSQ30-16"
     ]
   },
-  "HEXI贺喜": {
-    "绍兴市贺喜电器有限公司": [
-      "JZDT-C100-K1",
-      "JZT-K9-Q7",
-      "JJZT-i10-F2",
-      "JJZT-C90-90S-2"
+  "MONY": {
+    "浙江莫尼电气有限公司": [
+      "JJZT-E400-B1/HD",
+      "JJZT-C300-B1/ZK"
     ],
-    "广东佳雪燃气具制造有限公司": [
-      "JSQ30-16D",
-      "JSQ24-12D"
+    "浙江圣堡仕热能科技有限公司": [
+      "JSQ30-C16"
+    ]
+  },
+  "尊帅": {
+    "广东顺德家家喜电器有限公司": [
+      "JZT-BR540"
+    ],
+    "合肥培恩电器有限公司": [
+      "JJZT-ZG10"
+    ],
+    "佛山市庆嘉电器有限公司": [
+      "JSQ24-D07"
+    ]
+  },
+  "康纳": {
+    "宁波市万茂电器有限公司": [
+      "JZT-CNHG4",
+      "JZT-CNHG3",
+      "JZT-CN308A(钢化玻璃)",
+      "JZT-CNQG02"
+    ],
+    "中山市亨派厨卫电器有限公司": [
+      "JZT-CNQG06",
+      "JZT-CNHG2T",
+      "JZT-CN628B"
+    ],
+    "浙江万事兴电器有限公司": [
+      "JJZT-E70ZK"
+    ],
+    "绍兴智岛电器有限公司": [
+      "JJZT-ET06V",
+      "JJZT-EX03"
+    ],
+    "浙江帅康电气股份有限公司": [
+      "JZT-CNHG8"
+    ],
+    "绍兴市升博厨房电器有限公司": [
+      "JZT-CNQG05"
+    ],
+    "中山市扬子电气工业有限公司": [
+      "JSQ25-B3C08",
+      "JSQ30-B6C09"
+    ],
+    "广东金美达实业有限公司": [
+      "JSQ30-B6C26",
+      "JSQ23-B2C11",
+      "JSQ25-B3C20"
+    ]
+  },
+  "KODEAR科大": {
+    "浙江科大电器股份有限公司": [
+      "JJZT-A6PLUS/HX",
+      "JJZT-D2",
+      "JJZT-L2",
+      "JJZT-H5/H",
+      "JJZT-A5PLUS",
+      "JJZT-L5/H"
+    ],
+    "浙江奥能燃气具有限公司": [
+      "JSQ30-16R10",
+      "JSQ25-13R11"
+    ]
+  },
+  "安格尔": {
+    "广东宝的电器有限公司": [
+      "JZT-MM-002",
+      "JZT-A120"
+    ],
+    "嵊州市科琳纳电器厂": [
+      "JJZT-JC219"
+    ],
+    "中山市佳红利厨卫电器有限公司": [
+      "JSQ25-13SC01",
+      "JSQ30-16SC05",
+      "JSQ23-12SC01"
+    ]
+  },
+  "ASKO雅士高": {
+    "Gorenje gospodinjski  aparati,d.o.o.": [
+      "JZT-HG1365GB",
+      "JZT-MHG13GB",
+      "JZT-HG1855AB",
+      "JZT-HG1145AB"
+    ]
+  },
+  "FRANKE": {
+    "广东合胜厨电科技有限公司": [
+      "JZT-FG7226",
+      "JZT-FG8228"
+    ]
+  },
+  "全家乐": {
+    "中山市全家乐电器有限公司": [
+      "JZT-C08",
+      "JZT-B",
+      "JZT-A"
+    ],
+    "浙江未来人厨房电器有限公司": [
+      "JJZT-A2ZK",
+      "JJZT-A"
+    ],
+    "中山市合创达电器科技有限公司": [
+      "JSQ19-10D",
+      "JSQ25-13D",
+      "JSQ30-16D"
+    ],
+    "佛山市顺德区声飞电器科技有限公司": [
+      "JSQ24-12D1"
+    ]
+  },
+  "VICUTU威可多": {
+    "绍兴市威可多电器有限公司": [
+      "JJZT-K95A-01D",
+      "JJZT-K95A-07X",
+      "JJZT-K95D-08D"
+    ],
+    "嵊州市简帅电器有限公司": [
+      "JZT-W6",
+      "JZT-W4"
+    ],
+    "浙江奥能燃气具有限公司": [
+      "JSQ25-13A1",
+      "JSQ30-16A1"
+    ]
+  },
+  "Ousadi欧萨帝": {
+    "绍兴市奥帅电器股份有限公司": [
+      "JJZT-OSD900-AS01G",
+      "JJZT-OSD900-AS01K"
+    ],
+    "中山市俏太太厨卫设备有限公司": [
+      "JZT-EB-Q006B",
+      "JZT-EB-Q003B"
+    ],
+    "中山市现代厨房设备有限公司": [
+      "JSQ26-Q-13LS",
+      "JSQ32-Q-16LS"
+    ]
+  },
+  "OULANDA欧兰达": {
+    "嵊州市升鑫电器有限公司": [
+      "JJZT-X7MC-DK"
+    ]
+  },
+  "gorenje古洛尼": {
+    "浙江莫尼电气有限公司": [
+      "JZT-PGTW722B-CN",
+      "JZT-GTW836B-CN",
+      "JZT-GW836F-CN"
+    ],
+    "中山市雅乐思燃具科技有限公司": [
+      "JZT-PGW720B-CN"
+    ],
+    "广东沃尔姆斯电器有限公司": [
+      "JZT-PGW831XG-CN"
+    ],
+    "海信(广东)厨卫系统股份有限公司": [
+      "JZT-PGW931ORAW",
+      "JZT-PGW931ORAB"
+    ]
+  },
+  "TEKA": {
+    "广东合胜厨电科技有限公司": [
+      "JZT-CN GXN 30B 1G",
+      "JZT-CN GXN 74.1 2G",
+      "JZT-CN GXN78 2G",
+      "JZT-CN GXN 74B 2G"
+    ]
+  },
+  "PINNENG品能": {
+    "绍兴市奥森电器有限公司": [
+      "JJZT-B90"
+    ]
+  },
+  "taitai太太": {
+    "中山物镁电气科技有限公司": [
+      "JZT-52A",
+      "JSQ23-12T"
+    ],
+    "中山市正美电器金属制品有限公司": [
+      "JJZT-X308"
+    ]
+  },
+  "金正": {
+    "中山市财运来厨卫电器有限公司黄圃分公司": [
+      "JZT-A3"
+    ]
+  },
+  "瑞贝格尔": {
+    "中山市金博达燃气具有限公司": [
+      "JZT-C"
+    ],
+    "嵊州市瑞贝电器有限公司": [
+      "JJZT-K22"
+    ]
+  },
+  "厨汇宝": {
+    "中山市广利来电器有限公司": [
+      "JJZT-H59",
+      "JJZT-H81"
+    ]
+  },
+  "AOSD澳士顿": {
+    "中山市何太电气有限公司": [
+      "JZT-C",
+      "JZT-D1"
+    ],
+    "绍兴市百乐田燃具电器有限公司": [
+      "JJZT-H-ZK"
+    ],
+    "中山物镁电气科技有限公司": [
+      "JSQ23-12T",
+      "JSQ25-13T",
+      "JSQ30-16T"
+    ]
+  },
+  "PESKOE半球": {
+    "中山市奔马电器有限公司": [
+      "JZT-C",
+      "JSQ24-BS01(T)"
     ]
   },
   "meipan美盼": {
@@ -4760,982 +6617,208 @@
       "JJZT-XB02"
     ],
     "广东永焰电气科技有限责任公司": [
-      "JSQ22-12A2T"
+      "JSQ25-13A"
     ]
   },
-  "Ousadi欧萨帝": {
-    "绍兴市奥帅电器股份有限公司": [
-      "JJZT-OSD900-AS01G",
-      "JJZT-OSD900-AS01K"
-    ],
-    "中山市千科生活电器有限公司": [
-      "JZT-OSD-A",
-      "JZT-OSD-B",
-      "JZT-OSD-D"
-    ],
-    "中山市华富电器科技有限公司": [
-      "JSQ23-HF01A"
-    ],
-    "中山市传美奇电器有限公司": [
-      "JSQ31-16L",
-      "JSQ25-13L",
-      "JSQ23-12L"
-    ]
-  },
-  "Squirrel小松鼠": {
-    "佛山市兆田燃气具有限公司": [
-      "JZT-Q03"
-    ],
-    "中山市卫氏燃具电器有限公司": [
-      "JZT-Q26"
-    ],
-    "中山市喜马拉雅电器有限公司": [
-      "JJZT-X311",
-      "JZT-Q06",
-      "JZT-Q12"
-    ],
-    "广东祥基电器有限公司": [
-      "JSQ27-14Z28",
-      "JSQ32-17Z28"
-    ],
-    "中山市恒乐电器有限公司": [
-      "JSQ32-17Z28",
-      "JSQ23-12TG2",
-      "JSQ30-16TG2"
-    ],
-    "广州迪森家居环境技术有限公司": [
-      "L1PB26-B1",
-      "L1PB20-A7",
-      "L1PB31-L0D",
-      "LL1GBQ25-GC",
-      "LL1GBQ30-GH",
-      "LL1GBQ34-GE",
-      "L1PB26-A8"
-    ]
-  },
-  "美炊": {
-    "中山市美炊电器有限公司": [
-      "JJZT-M"
-    ]
-  },
-  "OUNIER欧尼尔": {
-    "浙江金美太电器有限公司": [
-      "JJZT-LX"
-    ]
-  },
-  "CHIGO志高": {
-    "中山市安心生活电器有限公司": [
-      "JZT-T101",
-      "JZT-T65",
-      "JZT-T83",
-      "JZT-T82",
-      "JZT-T69"
-    ],
-    "中山市广利来电器有限公司": [
-      "JJZT-H59",
-      "JJZT-H21"
-    ],
-    "中山市法迪恩电器有限公司": [
-      "JSQ32-C",
-      "JSQ25-C",
-      "JSQ23-C"
-    ]
-  },
-  "MEIDA美大": {
-    "浙江美大实业股份有限公司": [
-      "JJZT-6681ZK",
-      "JJZT-8",
-      "JJZT-6602",
-      "JJZT-1209E",
-      "JJZT-1209F",
-      "JJZT-1301",
-      "JJZT-1509",
-      "JJZT-5563",
-      "JJZT-5566",
-      "JJZT-55811",
-      "JJZT-5583",
-      "JJZT-5585",
-      "JJZT-5585S",
-      "JJZT-6689",
-      "JJZT-6689E",
-      "JJZT-6689F",
-      "JJZT-T3",
-      "JJZT-5581",
-      "JJZT-5582",
-      "JJZT-5589",
-      "JJZT-5567",
-      "JJZT-6681",
-      "JJZT-7702",
-      "JJZT-7703",
-      "JJZT-7706",
-      "JJZT-7707",
-      "JJZT-7709",
-      "JJZT-1301Z",
-      "JJZT-1509Z",
-      "JJZT-5566Z",
-      "JJZT-5585Z",
-      "JJZT-55855Z",
-      "JJZT-6689Z",
-      "JJZT-5589Z",
-      "JJZT-6681Z",
-      "JJZT-7702Z",
-      "JJZT-7703Z",
-      "JJZT-7706Z",
-      "JJZT-7707Z",
-      "JJZT-7709Z",
-      "JJZT-1509ZK",
-      "JJZT-5589ZK",
-      "JJZT-5585SZK",
-      "JJZT-1301ZK",
-      "JJZT-5566ZK",
-      "JJZT-7702ZK",
-      "JJZT-7703ZK",
-      "JJZT-7706ZK",
-      "JJZT-7707ZK",
-      "JJZT-7709ZK",
-      "JJZT-1303",
-      "JJZT-2201A",
-      "JJZT-2203A",
-      "JJZT-2204A",
-      "JJZT-6685A",
-      "JJZT-6685D",
-      "JJZT-5562",
-      "JJZT-7781",
-      "JJZT-7781Z",
-      "JJZT-7781ZK",
-      "JJZT-5501",
-      "JJZT-5565",
-      "JJZT-5501Z",
-      "JJZT-5565Z",
-      "JJZT-5501ZK",
-      "JJZT-6603",
-      "JJZT-6686",
-      "JJZT-6602Z",
-      "JJZT-6603Z",
-      "JJZT-6602ZK",
-      "JJZT-6686ZK",
-      "JJZT-5586Z",
-      "JJZT-5503ZK",
-      "JJZT-5503K",
-      "JJZT-6601",
-      "JJZT-6601Z",
-      "JJZT-5503",
-      "JJZT-5568",
-      "JJZT-5503Z",
-      "JJZT-6601ZK",
-      "JJZT-1204D",
-      "JJZT-1202D",
-      "JJZT-1205D",
-      "JJZT-1205E",
-      "JJZT-1204C"
-    ],
-    "浙江美嘉乐电器有限公司": [
-      "JJZT-MM1",
-      "JJZT-MM1ZK",
-      "JJZT-MM2ZK",
-      "JJZT-MM3ZK",
-      "JJZT-MM4ZK",
-      "JJZT-MM2",
-      "JJZT-MM3"
-    ],
-    "绍兴市威可多电器有限公司": [
-      "JJZT-MW1",
-      "JJZT-MW2",
-      "JJZT-MW1ZK",
-      "JJZT-MW1Z",
-      "JJZT-MW2ZK"
-    ],
-    "浙江普森电器有限公司": [
-      "JJZT-MP2",
-      "JJZT-MP2ZK",
-      "JJZT-MP1",
-      "JJZT-MP1ZZK"
-    ],
-    "浙江帅牧电器有限公司": [
-      "JJZT-MS1",
-      "JJZT-MS2",
-      "JJZT-MS3",
-      "JJZT-MS1ZK",
-      "JJZT-MS2ZK",
-      "JJZT-MS3ZK"
-    ],
-    "嵊州乐众电器有限公司": [
-      "JJZT-MT1ZK",
-      "JJZT-MT1"
-    ],
-    "广东金美达实业有限公司": [
-      "JSQ30-16M70",
-      "JSQ30-16M60",
-      "JSQ25-13M20",
-      "JSQ23-12M10",
-      "JSQ30-16M30",
-      "JSQ25-13M50"
-    ]
-  },
-  "YULI玉立": {
-    "宁波市万茂电器有限公司": [
-      "JZT-B206",
-      "JZT-B201",
-      "JZT-B201G",
-      "JZT-B204",
-      "JZT-200B7"
-    ],
-    "浙江玉立电器有限公司": [
-      "JJZT-ZK23",
-      "JJZT-90LD3"
-    ]
-  },
-  "科太郎": {
-    "浙江一佳厨卫科技股份有限公司": [
-      "JJZT-7S"
-    ]
-  },
-  "Caoban潮邦": {
-    "浙江潮邦厨具电器有限公司": [
-      "JJZT-2P-K1x",
-      "JJZT-2P-K7x"
-    ],
-    "广东金美达实业有限公司": [
-      "JSQ25-13A1"
-    ]
-  },
-  "保利泰": {
-    "嵊州市森威电器有限公司": [
-      "JJZT-SW"
-    ],
-    "中山真爱电器有限公司": [
-      "JZT-Q1",
-      "JZT-Q2",
-      "JZT-QC"
-    ],
-    "中山市法迪恩电器有限公司": [
-      "JSQ25-C",
-      "JSQ24-C"
-    ]
-  },
-  "WEILI威力": {
-    "中山菱力电器有限公司": [
-      "JZT-Q9",
-      "JZT-Q1",
-      "JZT-Q7"
-    ],
-    "广东美太电气有限公司": [
-      "JJZT-C"
-    ]
-  },
-  "WeIPU威普": {
-    "佛山市顺德区财厨电器有限公司": [
-      "JZT-206B02"
-    ],
-    "中山市广利来电器有限公司": [
-      "JJZT-ZKX"
-    ],
-    "广东佳雪燃气具制造有限公司": [
-      "JSQ24-12D"
-    ]
-  },
-  "多意Duoy": {
-    "嵊州市福华燃具有限公司": [
-      "JZT-08S"
-    ],
-    "浙江多意电器有限公司": [
-      "JJZT-95F"
-    ],
-    "浙江圣堡仕热能科技有限公司": [
-      "JSQ23-D5JL10"
-    ]
-  },
-  "新飞": {
-    "中山市新新电器有限公司": [
-      "JZT-A8",
-      "JSQ24-A1"
-    ]
-  },
-  "BELLSIRO": {
-    "广东斯诺电器有限公司": [
-      "JJZT-Z3",
-      "JSQ26-BE",
-      "JSQ30-BE"
-    ]
-  },
-  "Quac全厨": {
-    "广东合创达电器科技有限公司": [
-      "JZT-Q10B",
-      "JZT-Q35",
-      "JZT-Q5B"
-    ],
-    "中山物镁电气科技有限公司": [
-      "JSQ23-12T",
-      "JSQ25-13T",
-      "JSQ30-16T"
-    ]
-  },
-  "川皇": {
-    "浙江川皇电器有限公司": [
-      "JJZT-F900D",
-      "JJZT-CF900L12C"
-    ]
-  },
-  "MINGHENG名恒": {
-    "绍兴市森都电器有限公司": [
-      "JJZT-H06-8"
-    ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ25-13"
-    ]
-  },
-  "OUQI欧奇": {
-    "绍兴市奥森电器有限公司": [
-      "JJZT-OQ109",
-      "JZT-A137"
-    ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ30-ZT905B",
-      "JSQ25-ZT921A"
-    ]
-  },
-  "ZHEPAI浙派": {
-    "浙江万事兴电器有限公司": [
-      "JZT-10B3",
-      "JZT-ZC1B6",
-      "JJZT-90B6",
-      "JJZT-ZP18ZKX3",
-      "JJZT-9ZP11-A",
-      "JJZT-90Z20-A",
-      "JJZT-9ZP9",
-      "JJZT-ZP6ZK2",
-      "JZT-10B6",
-      "JZT-11B2"
-    ],
-    "佛山市顺德区声飞电器科技有限公司": [
-      "JSQ25-13B",
-      "JSQ24-12A",
-      "JSQ24-12A2-Z"
-    ],
-    "广东永焰电气科技有限责任公司": [
-      "JSQ23-12A9T-Z"
-    ]
-  },
-  "YALICE雅丽诗": {
-    "中山市厨宝智能厨电有限公司": [
-      "JZT-CB1"
-    ],
-    "中山市传美奇电器有限公司": [
-      "JSQ23-B02"
-    ]
-  },
-  "SIPUDA思普达": {
-    "合肥培恩电器有限公司": [
-      "JJZT-S02"
-    ],
-    "中山市意而浦电器有限公司": [
-      "JZT-E"
-    ],
-    "佛山市万欧电器有限公司": [
-      "JSQ24-A"
-    ]
-  },
-  "chaoren": {
-    "中山市地球村电器有限公司": [
-      "JJZT-X12"
-    ],
-    "广东火马电气科技有限公司": [
-      "JJZT-X10-A"
-    ],
-    "广东美太电气有限公司": [
-      "JJZT-X15"
-    ]
-  },
-  "KODEAR科大": {
-    "浙江科大电器股份有限公司": [
-      "JJZT-A5",
-      "JJZT-L2",
-      "JJZT-A6",
-      "JJZT-L5/H",
-      "JJZT-D2"
-    ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ23-12R12",
-      "JSQ30-16R14"
-    ]
-  },
-  "OUYI欧意": {
-    "佛山万声电器有限公司": [
-      "JZT-Q652B"
-    ],
-    "广东宝的电器有限公司": [
-      "JZT-Q801B+",
-      "JZT-Q351B"
-    ],
-    "中山市彬美电器有限公司": [
-      "JZT-Q350B"
-    ],
-    "广东佳雪燃气具制造有限公司": [
-      "JSQ24-A19-12L",
-      "JSQ25-A23-13L",
-      "JSQ30-S11-16L"
-    ],
-    "中山市传美奇电器有限公司": [
-      "JSQ31-S10-16L",
-      "JSQ31-A18-16L"
-    ]
-  },
-  "ALESDUN": {
-    "广东火马电气科技有限公司": [
-      "JJZT-H5"
-    ],
-    "佛山市乐度电器科技有限公司": [
-      "JZT-GA1"
-    ],
-    "中山市千田电器有限公司": [
-      "JSQ24-12L",
-      "JSQ26-13L",
-      "JSQ32-16L"
-    ]
-  },
-  "艾度巨迪": {
-    "中山菱力电器有限公司": [
-      "JZT-Q8A",
-      "JSQ24-A"
-    ]
-  },
-  "panasonic": {
-    "上海林内有限公司": [
-      "JZT-223",
-      "JZT-225"
-    ],
-    "上海林内有限公司宁波制造分公司": [
-      "JZT-231"
-    ],
-    "广东合胜厨电科技有限公司": [
-      "JZT-C26AGB"
-    ]
-  },
-  "HYBOSS现代博士": {
-    "中山市现代厨房设备有限公司": [
-      "JZT-0151C",
-      "JZT-6008B",
-      "JZT-6013B",
-      "JZT-6015B",
-      "JSQ26-B-SX2",
-      "JSQ24-B-QM2-HEI",
-      "JSQ32-B-XH9"
-    ]
-  },
-  "LEPTIS莱普帝斯": {
-    "中山市莱普帝斯电器有限公司": [
-      "JJZT-DT02"
-    ],
-    "中山菱力电器有限公司": [
-      "JZT-EJF"
-    ],
-    "广东四季福燃气具有限公司": [
-      "JSQ25-H"
-    ]
-  },
-  "比克": {
-    "中山市威能电器有限公司": [
-      "JZT-819"
-    ],
-    "中山市新旺电器有限公司": [
-      "JSQ23-A"
-    ]
-  },
-  "皇朝": {
-    "广东灶将军燃气具电器有限公司": [
-      "JZT-A",
-      "JZT-C"
-    ],
-    "中山市合创达电器科技有限公司": [
-      "JSQ23-A",
-      "JSQ25-A"
-    ]
-  },
-  "UKS": {
-    "佛山市兴妻电器有限公司": [
-      "JZT-520"
-    ],
-    "中山市巧克斯电器有限公司": [
-      "JZT-S"
-    ]
-  },
-  "INSE樱雪": {
-    "中山市樱雪集团有限公司": [
-      "JZT-Q1806（B）",
-      "JZT-Q2105（B）",
-      "JZT-Q1812（B）",
-      "JZT-Q2003（B）",
-      "JZT-Q2006（B）",
-      "JZT-Q1809(B)",
-      "JSQ30-16QH1802",
-      "JSQ25-13QH2002",
-      "JSQ20-10QH2005",
-      "JSQ25-13QH1807-S",
-      "JSQ25-13QH1806",
-      "JSQ25-13QH2020",
-      "JSQ30-16QH2101",
-      "JSQ30-16QH2009",
-      "JSQ30-16QH2005",
-      "JSQ30-16QH1806-S"
-    ],
-    "中山市莱普帝斯电器有限公司": [
-      "JJZT-90B1907(B)",
-      "JJZT-90X1906(B)"
-    ],
-    "绍兴市威可多电器有限公司": [
-      "JJZT-90ZK2102(B)"
-    ],
-    "广东合胜厨电科技有限公司": [
-      "JZT-Q2106（B）"
-    ]
-  },
-  "XUNDA 迅达": {
-    "迅达科技集团股份有限公司": [
-      "JZT-2-FB8338B",
-      "JZT-2-Q1",
-      "JZT-2-Q2",
-      "JZT-1-NB8050B",
-      "JZT-1-HB8051B",
-      "JZT-1-T1",
-      "JZT-TS8106",
-      "JZT-2-FT1",
-      "JZT-2-FJ2",
-      "JZT-2-Q3",
-      "JZT-2-QT5",
-      "JZT-1.N5-M",
-      "JZT-2-DS108",
-      "JZT-2-XS1605",
-      "JZT-2.N5-M",
-      "JZT-2-P1",
-      "JZT-2-HB8335B",
-      "JZT-2-HB8336B",
-      "JZT-2-HB8621A",
-      "JZT-2-DB8688A",
-      "JZT-2-DB8807",
-      "JZT-2-DS312T",
-      "JZT-2-DS325S",
-      "JZT-2-NS8321B",
-      "JZT-2-NB8330B",
-      "JZT-2-NB8331B",
-      "JZT-2-NB8332B",
-      "JZT-2-DS306J",
-      "JZT-2-HGB8325B",
-      "JZT-2-HGB8628A",
-      "JZT-2-DB8810L",
-      "JZT-2-DB8811L",
-      "JZT-2-EB8315B",
-      "JZT-2-HB8625A",
-      "JZT-2-F3",
-      "JZT-2-FB8339B",
-      "JZT-3-HB8901A"
-    ],
-    "浙江万事兴电器有限公司": [
-      "JJZT-FF101-X",
-      "JJZT-FF102-Z",
-      "JJZT-225Y",
-      "JJZT-320X",
-      "JJZT-320YX",
-      "JJZT-225X",
-      "JJZT-FF106-Y",
-      "JJZT-525Y",
-      "JJZT-225Z",
-      "JJZT-320Z",
-      "JJZT-525YX"
-    ],
-    "广东祥基电器有限公司": [
-      "JSQ25-DS815",
-      "JSQ30-D510Q16",
-      "JSQ25-D530H13",
-      "JSQ30-D523L16",
-      "JSQ30-D530H16",
-      "JSQ30-D510L16"
-    ],
-    "广东金美达实业有限公司": [
-      "JSQ23-D512Q12",
-      "JSQ23-DS801",
-      "JSQ25-DS828",
-      "JSQ32-D522L17"
-    ]
-  },
-  "ROBAM老板": {
-    "杭州老板电器股份有限公司": [
-      "JZT-7B031",
-      "JZT-9B03",
-      "JZT-7G10",
-      "JZT-7G02",
-      "JZT-9B312",
-      "JJZT-91B8C",
-      "JZT-9B20",
-      "JZT-9G21",
-      "JZT-7B193",
-      "JZT-7G29H",
-      "JZT-7G27H",
-      "JZT-9G38",
-      "JZT-7G05",
-      "JZT-7B13",
-      "JZT-9B511",
-      "JZT-7B19",
-      "JZT-9B332",
-      "JZT-9B012",
-      "JZT-7B192"
-    ],
-    "广东祥基电器有限公司": [
-      "JSQ23-HT600-12",
-      "JSQ27-HT600-14"
+  "FCTETNLE": {
+    "佛山市顺德区火娃电器有限公司": [
+      "JZT-102",
+      "JSQ24"
     ]
   },
   "AICHEN爱妻": {
     "中山市事事兴电器有限公司": [
-      "JZT-A",
-      "JZT-B",
       "JZT-C",
-      "JZT-G"
+      "JZT-G",
+      "JZT-A",
+      "JZT-B"
     ],
     "绍兴市威可多电器有限公司": [
-      "JJZT-1905C-ZX",
-      "JJZT-K95D-08D"
+      "JJZT-K95D-08D",
+      "JJZT-K95A-07X"
     ],
     "广东佳雪燃气具制造有限公司": [
       "JSQ24-12L",
-      "JSQ25-13L"
+      "JSQ25-13L",
+      "JSQ30-16L"
     ]
   },
-  "NOSMSE": {
-    "中山市利羽电器有限公司": [
-      "JJZT-X1F"
+  "美炊": {
+    "中山市美炊电器有限公司": [
+      "JJZT-M",
+      "JJZT-MZK"
+    ]
+  },
+  "BANGY邦的": {
+    "嵊州市简帅电器有限公司": [
+      "JZT-JS20",
+      "JZT-BD"
     ],
-    "中山市威能电器有限公司": [
-      "JZT-819",
-      "JSQ24-SC00F"
-    ]
-  },
-  "得森普瑞": {
-    "嵊州市林康电器有限公司": [
-      "JJZT-XDB-R2"
-    ]
-  },
-  "GUG佳歌": {
-    "浙江佳歌电器有限公司": [
-      "JJZT-H3",
-      "JJZT-A2C",
-      "JJZT-A5ZK",
-      "JJZT-H1",
-      "JJZT-H2",
-      "JJZT-H2ZX",
-      "JJZT-T2ZX"
+    "嵊州市志莫电器有限公司": [
+      "JJZT-S1"
     ],
-    "广东金美达实业有限公司": [
-      "JSQ30-16FZ4G"
+    "浙江圣堡仕热能科技有限公司": [
+      "JSQ30-C6JL22",
+      "JSQ25-D56ZL04"
     ]
   },
-  "VICUTU威可多": {
+  "CHUMEIREN厨美人": {
+    "中山市厨美人电器有限公司": [
+      "JZT-A",
+      "JZT-AA",
+      "JSQ24-A"
+    ]
+  },
+  "HYBOSS 现代博士": {
+    "中山市现代厨房设备有限公司": [
+      "JZT-6015B",
+      "JZT-6010B",
+      "JZT-3005B",
+      "JZT-108B",
+      "JSQ26-B-SX2",
+      "JSQ32-B-XH9"
+    ],
     "绍兴市威可多电器有限公司": [
-      "JJZT-K95D-08D",
-      "JZT-W4",
-      "JJZT-K95A-01D",
-      "JJZT-K95A-01X"
+      "JJZT-BS900"
     ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ23-12A5",
-      "JSQ25-13A1",
-      "JSQ30-16A1"
+    "中山市万顺宝厨卫电器有限公司": [
+      "JSQ23-T11"
     ]
   },
-  "全家乐": {
-    "中山市全家乐电器有限公司": [
-      "JZT-C08",
+  "WeIPU威普": {
+    "中山市广利来电器有限公司": [
+      "JJZT-01"
+    ],
+    "佛山市方松电器有限公司": [
+      "JZT-FS"
+    ],
+    "佛山市顺德区财厨电器有限公司": [
+      "JZT-E",
       "JZT-B",
-      "JSQ30-16D",
-      "JSQ25-13D",
-      "JSQ24-12D"
+      "JZT-S"
     ],
-    "浙江未来人厨房电器有限公司": [
-      "JJZT-A",
-      "JJZT-A2ZK"
+    "广东佳雪燃气具制造有限公司": [
+      "JSQ30-16D"
     ]
   },
-  "K-STOVE红霸": {
-    "嵊州市米恩集成厨电有限公司": [
-      "JJZT-X",
-      "JJZT-MXZK",
-      "JJZT-MX"
+  "QTAN千田": {
+    "广东灶将军燃气具电器有限公司": [
+      "JZT-E"
     ],
-    "广东顺德万众电气有限公司": [
-      "JZT-ST730BF-CH125",
-      "JZT-6G103F-CH125",
-      "JZT-6G103-2002"
+    "浙江川皇电器有限公司": [
+      "JJZT-P-L16"
     ],
-    "中山真爱电器有限公司": [
-      "JZT-QC-1"
-    ],
-    "中山物镁电气科技有限公司": [
-      "JSQ25-13C1",
-      "JSQ30-16SL"
+    "中山市新旺电器有限公司": [
+      "JSQ25-13"
     ]
   },
-  "超人": {
-    "广东超人节能厨卫电器有限公司": [
-      "JZT-X15",
-      "JZT-919",
-      "JZT-808",
-      "JSQ23-H",
-      "JSQ25-ZH",
-      "JSQ30-XH"
-    ]
-  },
-  "Meile美勒": {
-    "嵊州市科宝电器有限公司": [
-      "JZT-J10"
-    ]
-  },
-  "OULANDA欧兰达": {
-    "嵊州市达晟电器有限公司": [
-      "JJZT-01X"
-    ]
-  },
-  "UGO优格": {
-    "浙江优格实业有限公司": [
-      "JJZT-G11ZK11",
-      "JJZT-G13L11",
-      "JJZT-G19Z11",
-      "JJZT-G1911",
-      "JJZT-G13Z11",
-      "JJZT-G13ZK11",
-      "JJZT-G1611",
-      "JJZT-G16ZK11"
-    ]
-  },
-  "普迪奥": {
-    "绍兴科田电器有限公司": [
-      "JJZT-K-09",
-      "JJZT-K-10"
+  "PUTI普田": {
+    "浙江爱瑞卡普田电器有限公司": [
+      "JJZT-502S",
+      "JZT-PG1G226C-GDCS"
     ],
-    "浙江奥能燃气具有限公司": [
-      "JSQ30-16C103FB1"
+    "中山市力科电器有限公司": [
+      "JSQ25-PGH13T2A"
     ]
   },
-  "意德力": {
-    "广东松友智能电器有限公司": [
-      "JJZT-SY001"
-    ],
-    "中山市华福电器科技有限公司": [
-      "JZT-C06",
-      "JSQ23-RQ02"
+  "shaoLI韶力": {
+    "浙江永升电器有限公司": [
+      "JZT-AK12B",
+      "JZT-AK21B",
+      "JJZT-X18"
     ]
   },
-  "Hisense": {
-    "海信（广东）厨卫系统有限公司": [
-      "JZT-HB503",
-      "JZT-HB305",
-      "JZT-HB802",
-      "JZT-HB505",
-      "JZT-HB506T",
-      "JZT-HB705T",
-      "JZT-HB302",
-      "JZT-HB312"
+  "FuTaI福太": {
+    "嵊州乐众电器有限公司": [
+      "JJZT-D1F"
     ],
-    "浙江万事兴电器有限公司": [
-      "JJZT-WD3C1",
-      "JJZT-WD7ZK1",
-      "JJZT-WD3Z1"
+    "中山市誉美电器有限公司": [
+      "JZT-M501",
+      "JSQ23-B1"
+    ]
+  },
+  "OUMAE欧美": {
+    "广东欧美电器有限公司": [
+      "JZT-OMZ-1",
+      "JZT-OMZ",
+      "JSQ30-16L",
+      "JSQ25-13L",
+      "JSQ23-12L"
+    ]
+  },
+  "jajalo家佳乐": {
+    "中山市喜旺电器有限公司": [
+      "JZT-B",
+      "JZT-A"
     ],
-    "广东金美达实业有限公司": [
-      "JSQ30-16CMK1（12T）",
-      "JSQ25-13CMK1（12T）",
-      "JSQ30-16PTK1（12T）",
-      "JSQ30-16BMGK1（12T）",
-      "JSQ25-13BTK1（12T）",
-      "JSQ25-13BTGK1（12T）",
-      "JSQ25-13BMGK1（12T）"
+    "中山市新旺电器有限公司": [
+      "JSQ23-A12",
+      "JSQ25-A13"
+    ]
+  },
+  "厨品乐": {
+    "嵊州市通格电器有限公司": [
+      "JJZT-A9-M"
     ]
   },
   "CHANGHONG": {
-    "广东合胜电气有限公司": [
-      "JJZT-Z8K(2021)"
+    "中山市莱普帝斯电器有限公司": [
+      "JJZT-X20K",
+      "JJZT-F3(2021)"
+    ],
+    "广东合胜厨电科技有限公司": [
+      "JZT-B229"
     ],
     "中山市亨派厨卫电器有限公司": [
       "JZT-B227",
-      "JZT-B610",
+      "JZT-B610S",
       "JZT-DB204",
       "JZT-B228",
-      "JZT-B219"
+      "JZT-B825"
     ],
-    "中山市莱普帝斯电器有限公司": [
-      "JJZT-F3(2021)",
-      "JJZT-X7K(2021)"
+    "广东四季福燃气具有限公司": [
+      "JZT-Z2A"
     ],
     "中山市厨宝智能厨电有限公司": [
-      "JZT-B612S"
+      "JZT-B612S",
+      "JZT-B620",
+      "JZT-B226",
+      "JJZT-X7K(2021)"
     ],
     "长虹美菱日电科技有限公司": [
-      "JSQ23-12H23",
-      "JSQ30-16H23",
-      "JSQ27-14H50Z",
-      "JSQ30-16H50Z",
-      "JSQ30-16L2"
-    ]
-  },
-  "CHANGCHENG长城": {
-    "佛山市顺德区火娃电器有限公司": [
-      "JJZT-HC-01",
-      "JSQ26-A"
-    ],
-    "广东和诚众原五金有限公司": [
-      "JZT-D"
-    ]
-  },
-  "乐买嘉": {
-    "中山市博诚电器有限公司": [
-      "JZT-B50",
-      "JSQ23-A"
+      "JSQ25-13L2",
+      "JSQ30-16H31",
+      "JSQ27-14L5",
+      "JSQ25-13H37",
+      "JSQ25-13H33",
+      "JSQ25-13H31",
+      "JSQ25-13H23",
+      "JSQ30-16H37",
+      "JSQ30-16H33",
+      "JSQ30-16L2",
+      "JSQ30-16H23"
     ]
   },
   "K科乐": {
-    "绍兴市邦代电器有限公司": [
-      "JZT-Q0671"
-    ],
     "绍兴市奥森电器有限公司": [
-      "JJZT-JX"
+      "JJZT-JX5"
+    ],
+    "广东合胜厨电科技有限公司": [
+      "JZT-A50"
     ],
     "广东金美达实业有限公司": [
       "JSQ23-KL1209"
     ]
   },
-  "AOSD澳士顿": {
-    "绍兴市百乐田燃具电器有限公司": [
-      "JJZT-W-ZK"
-    ],
-    "中山市物镁电气科技有限公司": [
-      "JSQ23-12T",
-      "JSQ25-13T",
-      "JSQ30-16T"
+  "优格优佳": {
+    "浙江美嘉乐电器有限公司": [
+      "JJZT-BS-30",
+      "JJZT-BSK-30"
     ]
   },
-  "entive亿田": {
-    "浙江亿田智能厨电股份有限公司": [
-      "JJZT-D8G",
-      "JJZT-A3CGMH",
-      "JJZT-S8S",
-      "JJZT-S6ZK-A",
-      "JJZT-F93XT1MHG",
-      "JJZT-J03Z",
-      "JJZT-S3G",
-      "JJZT-D5Z",
-      "JJZT-S8E",
-      "JJZT-JZ901ZK",
-      "JJZT-Q93ZT1HSG"
-    ]
-  },
-  "gorenje 古洛尼": {
-    "海信（广东）厨卫系统有限公司": [
-      "JZT-GTW721ORAW",
-      "JZT-PGW931ORAW",
-      "JZT-GTW721ORAB",
-      "JZT-PGW721X-CN",
-      "JZT-PGW931ORAB"
-    ],
-    "浙江莫尼电气有限公司": [
-      "JZT-PGW722X-CN",
-      "JZT-GTW836B-CN",
-      "JZT-PGTW722B-CN"
-    ]
-  },
-  "ASKO   雅士高": {
-    "Gorenje gospodinjski aparati, d.o.o.": [
-      "JZT-HG1855AB",
-      "JZT-HG1145AB",
-      "JZT-HG1825AB",
-      "JZT-HG1365GB",
-      "JZT-HG1885SB",
-      "JZT-MHG13GB"
-    ]
-  },
-  "林内": {
-    "日本林内株式会社": [
-      "JZT-2CGN-CH",
-      "JZT-3CGN-CH",
-      "JSQ31-V1610WF",
-      "JSQ40-A2024WF",
-      "JSQ46-A2426WF",
-      "JSG32-V1610FFU",
-      "JSG39-V2110FFU",
-      "JSG45-V2400FFU",
-      "JSW39-A2024W",
-      "JSW46-A2426W",
-      "JSQ31-V1616WF"
-    ],
-    "广东合胜厨电科技有限公司": [
-      "JZT-2E01M",
-      "JZT-2E03M",
-      "JZT-2WLGM",
-      "JZT-2E02SM",
-      "JZT-2E02M",
-      "JZT-2NS",
-      "JZT-2E07M",
-      "JZT-2E03LS",
-      "JZT-2E08M"
-    ],
-    "上海林内有限公司": [
-      "JSQ31-C01",
-      "JSQ31-D03",
-      "JSQ31-C06",
-      "JSQ31-S04",
-      "JSQ31-C05",
-      "JSQ31-H04",
-      "JSQ31-D06",
-      "JSQ31-C08",
-      "JSQ31-S06",
-      "JSQ31-C08W",
-      "JSQ31-D06W",
-      "JSQ31-C100W",
-      "JSQ31-D31",
-      "JSQ31-D32",
-      "JSQ31-S41",
-      "JSQ26-C21W",
-      "JSQ31-C21W",
-      "JSQ31-D33W",
-      "JSQ31-S42W",
-      "JSQ26-D33W",
-      "JSQ26-S42W",
-      "L1PB20-18C30",
-      "L1PB27-24C30",
-      "L1PB32-28C30",
-      "L1PB40-35C30",
-      "L1PB27-24C66L",
-      "L1PB32-28C66L",
-      "L1PB40-35C66L"
-    ]
-  },
-  "汉诺威HANNOVER": {
-    "广东汉诺威电器有限公司": [
-      "JZT-50FX05",
-      "JJZT-48XC04",
-      "JZT-50FX03",
-      "JJZT-48ZK01"
-    ]
-  },
-  "MONY": {
-    "浙江莫尼电气有限公司": [
-      "JJZT-S500-A1/HD"
-    ],
-    "能率（上海）住宅设备有限公司": [
-      "JSQ25-MD2"
-    ]
-  },
-  "Huayi华亿": {
-    "中山市华亿新生活电器有限公司": [
-      "JZT-B4505A",
-      "JZT-B4506A",
-      "JZT-B4508A",
-      "JZT-B4501A",
-      "JSQ30-1601D",
-      "JSQ25-1301D",
-      "JSQ24-1201D"
-    ]
-  },
-  "youGEE亚格": {
-    "中山市亚格电器有限公司": [
-      "JJZT-A"
+  "ULIDE优力得": {
+    "浙江优力得电器有限公司": [
+      "JJZT-ULD"
     ]
   },
   "HSD华仕顿": {
@@ -5743,380 +6826,119 @@
       "JZT-818"
     ],
     "中山市泰明电器科技有限公司": [
-      "JSQ24-12L(T)"
+      "JSQ24-12L"
     ]
   },
-  "INTUNE银田": {
-    "中山市和美电器燃具有限公司": [
-      "JJZT-HM"
-    ],
+  "Karia家丽雅": {
     "广东合胜厨电科技有限公司": [
-      "JZT-B919",
-      "JZT-Q2F6"
+      "JZT-KQ12G2",
+      "JZT-KQ35",
+      "JZT-KQ55",
+      "JJZT-JC02X",
+      "JJZT-JC03K"
     ],
-    "中山市致众热能科技有限公司": [
-      "JZT-B960"
+    "广东金美达实业有限公司": [
+      "JSQ23-12H13",
+      "JSQ30-16H30",
+      "JSQ25-13H16"
+    ]
+  },
+  "JM": {
+    "佛山市光芒电器科技有限公司": [
+      "JZT-A"
     ],
-    "广东顺德牛金燃气具有限公司": [
-      "JZT-B921",
-      "JZT-B903"
+    "中山市泰明电器科技有限公司": [
+      "JSQ24-12L(T)",
+      "JSQ32-16L(T)"
+    ]
+  },
+  "Huayi华亿": {
+    "中山市华亿新生活电器有限公司": [
+      "JZT-B4505A",
+      "JZT-B4508A",
+      "JSQ24-1201D"
+    ],
+    "中山物镁电气科技有限公司": [
+      "JSQ25-1302D",
+      "JSQ30-1602D"
+    ]
+  },
+  "chaoren超人": {
+    "广东火马电气科技有限公司": [
+      "JJZT-X10-A",
+      "JJZT-X10-B"
     ],
     "广东美太电气有限公司": [
-      "JJZT-MTB"
+      "JJZT-X15",
+      "JJZT-801"
     ],
-    "中山市煌爵电器有限公司": [
-      "JZT-B931"
-    ],
-    "中山市莱普蒂斯电器有限公司": [
-      "JJZT-L2"
-    ],
-    "中山市博城电器有限公司": [
-      "JSQ30-16B"
-    ],
-    "广东佳雪燃气具制造有限公司": [
-      "JSQ25-E62"
+    "广东超人节能厨卫电器有限公司": [
+      "JZT-919A",
+      "JZT-X15",
+      "JZT-888A",
+      "JSQ23-H63",
+      "JSQ26-ZH57",
+      "JSQ25-H61"
     ]
   },
-  "MieN米恩": {
-    "嵊州米恩集成厨电有限公司": [
-      "JJZT-Q8"
-    ]
-  },
-  "kunlunger昆仑格尔": {
-    "迅达科技集团股份有限公司": [
-      "JZT-XQ01G",
-      "JZT-XQ03G",
-      "JZT-XQ02S",
-      "JZT-XQ04G",
-      "JZT-XT01D",
-      "JZT-XT02"
-    ]
-  },
-  "蓝炬星": {
-    "浙江蓝炬星电器有限公司": [
-      "JJZT-LJX-J03ZL",
-      "JJZT-XD-R6B",
-      "JJZT-XD-R6S",
-      "JJZT-ZKL-Q3",
-      "JJZT-XD-ZX02M",
-      "JJZT-ZKL-R3S",
-      "JJZT-ZKL-ZX03A"
-    ]
-  },
-  "凯标KAIBIAO": {
-    "绍兴双牛电器有限公司": [
-      "JJZT-K1"
-    ]
-  },
-  "DE▪SIAIPU KIT": {
-    "广东美太电气有限公司": [
-      "JJZT-A"
+  "庆东纳碧安": {
+    "北京庆东纳碧安热能设备有限公司": [
+      "JSQ32-NGW570C 16I",
+      "JSQ31-NGW373C 16I",
+      "JSQ31-NGW270C 16I",
+      "JSQ31-NGW380  16I"
     ],
-    "广东欧时力电器有限公司": [
-      "JZT-A",
-      "JZT-B",
-      "JZT-C",
-      "JSQ32-A",
-      "JSQ24-A"
-    ],
-    "中山市法迪恩电器有限公司": [
-      "JSQ25-A"
-    ]
-  },
-  "PERCEN百尊": {
-    "广东合胜厨电科技有限公司": [
-      "JZT-5108G",
-      "JZT-5109G",
-      "JZT-5117G",
-      "JZT-5003",
-      "JZT-5110G",
-      "JZT-5112G",
-      "JZT-5115S",
-      "JZT-5116G"
-    ],
-    "广东万和新电气股份有限公司": [
-      "JZT-2117G",
-      "JZT-2122G",
-      "JSQ28-2231M",
-      "JSQ24-2242M",
-      "JSQ28-2236M",
-      "JSQ25-2238M"
-    ],
-    "上海林内有限公司": [
-      "JSQ32-22CA",
-      "L1GB31-26UC"
-    ],
-    "能率（中国）投资有限公司": [
-      "JSQ25-7206M",
-      "JSQ25-7208M"
-    ]
-  },
-  "Canbo康宝": {
-    "中山市正美电器金属制品有限公司": [
-      "JZT-Q250-B206"
-    ],
-    "广东合创达电器科技有限公司": [
-      "JZT-Q252-B101",
-      "JZT-2QL360B（B）"
-    ],
-    "中山市和美电器燃具有限公司": [
-      "JJZT-M7"
-    ],
-    "浙江精谷电器有限公司": [
-      "JJZT-ZKM8"
-    ],
-    "佛山市顺德区奥健电器实业有限公司": [
-      "JZT-Q250-B205",
-      "JSQ25-1337FX",
-      "JSQ30-1631WFX",
-      "JSQ30-1637FX"
-    ],
-    "中山市合创达电器科技有限公司": [
-      "JSQ30-1623WFX",
-      "JSQ25-1323WFX"
-    ]
-  },
-  "FRANKE": {
-    "广东合胜厨电科技有限公司": [
-      "JZT-FS7220"
-    ]
-  },
-  "美诺Miele": {
-    "Imperial-Werke oHG": [
-      "JZT-CS1011",
-      "JZT-CS1014"
-    ]
-  },
-  "CHIFFO前锋": {
-    "成都前锋电子有限责任公司": [
-      "JZT-75403",
-      "JZT-Q502-B",
-      "JSQ24-X318",
-      "JSQ30-X315",
-      "JSQ25-T401",
-      "JSQ25-F902",
-      "JSQ25-X515",
-      "JSQ25-X315",
-      "JSQ25-X518",
-      "JSQ25-93101",
-      "JSQ25-93303",
-      "JSQ30-X515",
-      "JSQ30-X518",
-      "JSQ30-93303"
-    ]
-  },
-  "先明兴科": {
-    "中山市东凤镇萨浦莱斯厨卫电器厂": [
-      "JZT-B"
-    ],
-    "中山市万顺宝厨卫电器有限公司": [
-      "JSQ23-H05"
-    ]
-  },
-  "Qiaopai巧派": {
-    "中山市巧派电器有限公司": [
-      "JZT-D"
-    ],
-    "浙江帅牧电器有限公司": [
-      "JJZT-S600-7"
-    ],
-    "中山市华富电器科技有限公司": [
-      "JSQ23-G030"
-    ]
-  },
-  "Fardior": {
-    "中山喜马拉雅电器有限公司": [
-      "JZT-2G15",
-      "JZT-2B09",
-      "JZT-2B15"
-    ],
-    "浙江法兰喜电器有限公司": [
-      "JZT-2B11"
-    ],
-    "中山市恒乐电器有限公司": [
-      "JSQ23-12D1  ( 12T )"
-    ]
-  },
-  "yile亿乐": {
-    "新昌好嘉园电器有限公司": [
-      "JJZT-E2",
-      "JJZT-A2",
-      "JJZT-A1ZK",
-      "JJZT-E2ZK"
-    ]
-  },
-  "YORK约克": {
-    "嵊州乐众电器有限公司": [
-      "JJZT-YK-J30ZK",
-      "JJZT-YK-J25ZK",
-      "JJZT-YK-J57",
-      "JJZT-YK-J31"
-    ],
-    "广东美厨世家热能科技有限公司": [
-      "JSQ25-13YK-F11",
-      "JSQ30-16YK-F3",
-      "JSQ30-16YK-F12",
-      "JSQ30-16YK-F13",
-      "JSQ25-13YK-F6"
-    ]
-  },
-  "约克家立方": {
-    "中山市厨宝智能厨电有限公司": [
-      "JZT-YK-ZJ7",
-      "JZT-YK-ZJ6"
-    ]
-  },
-  "伊歌 EAGLIFE": {
-    "浙江精谷电器有限公司": [
-      "JJZT-BH（90F17）",
-      "JJZT-BZ5（90F40ZK）"
-    ],
-    "宁波市鄞州姜山晶弘厨卫电器厂": [
-      "JZT-M9",
-      "JZT-M7"
-    ]
-  },
-  "bata邦太": {
-    "中山市邦太电器有限公司": [
-      "JZT-988",
-      "JZT-998",
-      "JSQ25-T"
-    ],
-    "广东合胜电气有限公司": [
-      "JJZT-BM",
-      "JJZT-BQ"
-    ],
-    "广东顺德家家喜电器有限公司": [
-      "JZT-996",
-      "JZT-968"
-    ],
-    "中山市万顺宝厨电器有限公司": [
-      "JSQ23-T",
-      "JSQ30-T",
-      "JSQ25-A1",
-      "JSQ30-A"
+    "(株)庆东纳碧安": [
+      "LL1GBQ23-NCB550 24LCN",
+      "LL1GBQ24-NCB700 26KCN",
+      "L1GB27-NGB300 24K",
+      "L1GB27-ACEⅢ 24K"
     ]
   },
   "CHANITEX佳尼特": {
-    "艾欧史密斯（中国）水系统有限公司": [
+    "艾欧史密斯(中国)水系统有限公司": [
       "JSQ31-T20",
-      "JSQ31-T2C",
-      "JSQ26-T2C"
+      "JSQ31-TJ2",
+      "JSQ31-TJ1",
+      "JSQ31-T0A",
+      "JSQ31-TJ0"
     ]
   },
-  "阿里斯顿 ARISTON": {
-    "阿里斯顿热能产品（中国）有限公司": [
-      "JSQ26-Ai9",
-      "JSQ32-Si8",
-      "JSQ26-Xi9",
-      "LL1GBQ22-HS ONE 24",
-      "L1PB26-CARES X PLUS 24",
-      "L1PB26-EGIS X PLUS 24"
-    ],
-    "中山市力科电器有限公司": [
-      "JSQ30-IPT FD"
-    ],
-    "Ariston Thermo S.p.A": [
-      "LL1GBQ22-CLAS ONE 24",
-      "LL1GBQ22-CARES ONE 24",
-      "L1PB26-CLAS X 24",
-      "L1PB26-GENUS X 24 WIFI",
-      "LN1GBQ28-CLAS ONE SYSTEM 30",
-      "LL1GBQ22-ALTEAS ONE WIFI 24"
+  "BENCO本科": {
+    "佛山市顺德区声飞电器科技有限公司": [
+      "JSQ24-12A61",
+      "JSQ30-16A93",
+      "JSQ24-12A73",
+      "JSQ30-16A95",
+      "JSQ30-16A73",
+      "JSQ30-16A75"
     ]
   },
-  "比佛利": {
-    "芜湖美的厨卫电器制造有限公司": [
-      "JSQ38-20HI6"
+  "迈吉科": {
+    "佛山市顺德区迈吉科热能设备有限公司": [
+      "L1PB24-M3",
+      "L1PB28-M3",
+      "LL1GBQ24-E",
+      "LL1GBQ28-E"
     ]
   },
-  "恒热": {
-    "中山市诺本热能科技有限公司": [
-      "JSQ26-EE1",
-      "JSQ32-EE1"
+  "沃克拉": {
+    "上海市金山工业区金百路388号": [
+      "L1PB26-OPTION N24"
     ]
   },
-  "AUX奥克斯": {
-    "广东美厨世家热能科技有限公司": [
-      "JSQ23-SA35",
-      "JSQ34-SA36",
-      "JSQ25-SA22",
-      "JSQ25-DA20",
-      "JSQ25-DA11",
-      "JSQ25-SA29"
-    ],
-    "中山市帅太家用电器有限公司": [
-      "JSQ23-SG37"
-    ],
-    "中山市扬子电气工业有限公司": [
-      "JSQ25-DA16"
-    ],
-    "广东科大方正电气股份有限公司": [
-      "JSQ25-SA28"
-    ],
-    "佛山市史麦斯卫厨电器有限公司": [
-      "JSQ30-SA08"
-    ]
-  },
-  "NAAFI耐惠": {
-    "中山市合创达电器科技有限公司": [
-      "JSQ25-13D9FX",
-      "JSQ30-16D10FX",
-      "JSQ30-16D11WFX"
-    ]
-  },
-  "Tianew天牛": {
-    "广东金美达实业有限公司": [
-      "JSQ30-16T60",
-      "JSQ25-13T50",
-      "JSQ30-16T30",
-      "JSQ25-13T20"
-    ]
-  },
-  "惠而浦": {
-    "广东万和新电气股份有限公司": [
-      "JSQ30-T16VA1"
-    ],
-    "中山市恒乐电器有限公司": [
-      "JSQ25-T13VL1",
-      "JSQ30-T16VL1"
-    ]
-  },
-  "Vaillant": {
-    "威能（无锡）供热设备有限公司": [
-      "JSQ31-MAG161/1-2W(H-CN)",
-      "JSQ25-MAG131/1-2W(H-CN)",
-      "JSQ25-MAG 131/2 4W(H-CN)",
-      "LL1GBQ19-VUW CN 186/6-2 (H-CN)",
-      "LL1GBQ25-VUW CN 246/6-2 (H-CN)",
-      "LL1GBQ29-VUW CN 286/6-2 (H-CN)",
-      "LL1GBQ35-VUW CN 346/6-2 (H-CN)",
-      "LN1GBQ25-VU CN 246/6-2 (H-CN)",
-      "LN1GBQ29-VU CN 286/6-2 (H-CN)",
-      "LN1GBQ35-VU CN 346/6-2 (H-CN)",
-      "L1PB20-VUW 182/5-X(H-CN)",
-      "L1PB26-VUW 242/5-X(H-CN)",
-      "L1PB32-VUW 282/5-X(H-CN)",
-      "L1PB38-VUW 352/5-X(H-CN)",
-      "N1PB32-VU 282/5-X(H-CN)",
-      "N1PB38-VU 352/5-X(H-CN)",
-      "L1PB19-VUW 162/5-X(H-CN)",
-      "L1PB26-VUW 242/5-XB(H-CN)"
-    ],
-    "威能有限责任公司": [
-      "LL1GBQ20-VUW 20/26 CS/1-5（N-CN)",
-      "LL1GBQ26-VUW 25/32 CS/1-5（N-CN)",
-      "L1PB27-VUW 242/5-5(H-CN)",
-      "L1PB31-VUW 282/5-5(H-CN)",
-      "N1PB27-VU 242/5-5(H-CN)",
-      "N1PB31-VU 282/5-5(H-CN)",
-      "L1PB22-VUW 202/5-3(H-CN)",
-      "L1PB27-VUW 242/5-3(H-CN)",
-      "L1PB31-VUW 282/5-5(H-CN) B"
+  "BOROA博诺安": {
+    "广东昊森热能设备有限公司": [
+      "L1PB26-C",
+      "LL1GBQ24-W",
+      "L1PB26-SS"
     ]
   },
   "VIESSMANN菲斯曼": {
     "浙江菲斯曼供热技术有限公司": [
+      "LL1GBQ33-B1JE",
+      "LN1GBQ24-B1HE",
+      "LN1GBQ33-B1HE",
       "L1P20-A1JF",
       "L1P24-A1JF",
       "L1P27-A1JE",
@@ -6125,187 +6947,152 @@
       "N1P27-A1HE",
       "N1P33-A1HE",
       "N1P40-A1HE",
-      "LL1GBQ24-B1JE",
-      "LL1GBQ33-B1JE",
-      "LN1GBQ24-B1HE",
-      "LN1GBQ33-B1HE"
+      "LL1GBQ17-B1JE",
+      "LL1GBQ24-B1JE"
     ],
     "德国菲斯曼制造厂": [
-      "LL1GBQ24-B1JD",
-      "LL1GBQ33-B1JD",
-      "LN1GBQ24-B1HD",
-      "LN1GBQ33-B1HD",
       "L1P27-A1JD",
       "L1P33-A1JD",
       "N1P27-A1HD",
-      "N1P33-A1HD"
+      "N1P33-A1HD",
+      "LL1GBQ23-B1KF",
+      "LL1GBQ30-B1KF",
+      "LN1GBQ23-B1HF",
+      "LN1GBQ30-B1HF"
     ]
   },
-  "0tlan奥特朗": {
-    "浙江衢州杰晟热能科技有限公司": [
-      "LL1PBD24",
-      "LL1PBD20"
-    ],
-    "佛山市顺德区杰晟热能科技有限公司": [
-      "L1P20",
-      "L1P24"
+  "Beretta 贝雷塔": {
+    "利雅路股份有限公司(RIELLO SPA)": [
+      "L1PB26-MYNUTE N  24 C.S.I."
     ]
   },
-  "LNCLKA": {
-    "佛山市顺德区东原燃气具实业有限公司": [
-      "L1PB24-N"
+  "menred": {
+    "曼瑞德集团(浙江)热能科技有限公司": [
+      "L1PB24-Heidelberg Min.5"
+    ]
+  },
+  "copa": {
+    "BESTHERM IKLIMLENDIRME SAN.VE TIC.A.S": [
+      "L1PB26-010 COPA EON 24"
+    ]
+  },
+  "vigas维家": {
+    "珠海维家热能科技有限公司": [
+      "L1P24-DS",
+      "L1P24-HDS"
     ]
   },
   "富丽凯": {
     "FRISQUET S.A.": [
+      "L1GBQ26-HYDROMOTRIX EVO 25 M VISIO",
       "L1GBQ33-HYDROMOTRIX EVO 32 M VISIO",
-      "L1GBQ26-HYDROMOTRIX EVO 25 M VISIO"
-    ]
-  },
-  "沃克拉": {
-    "利雅路热能设备（上海）有限公司": [
-      "L1PB26-OPTION N24"
-    ]
-  },
-  "VIGAS维家": {
-    "珠海维家热能科技有限公司": [
-      "L1P24-HDS"
-    ]
-  },
-  "厦贝": {
-    "BAXI S.p.A.": [
-      "L1PB26-INITIA PRO 2.24FF"
-    ]
-  },
-  "POWTEK": {
-    "中山市力科电器有限公司": [
-      "L1PB24-SH"
-    ]
-  },
-  "AIRFIT/雅克菲": {
-    "RADIANT BRUCIATORI S.P.A": [
-      "L1PB26-AIRTUB24M",
-      "L1PB30-AIRTUB28M",
-      "LL1GBQ24-AIRTUB25C2"
-    ]
-  },
-  "大松": {
-    "石家庄格力电器小家电有限公司": [
-      "L1PB30-G28/B1",
-      "L1PB22-G20/B1",
-      "L1PB28-G26/B1"
-    ]
-  },
-  "menred": {
-    "曼瑞德集团（浙江）热能科技有限公司": [
-      "L1PB24-Heidelberg Min.5"
+      "L1GBQ47-HYDROMOTRIX EVO 45 M VISIO"
     ]
   },
   "TUBEDELUCA": {
-    "TUBEDELUCA LTALIA S.R.L.": [
-      "L1P26-LUCA24"
+    "勒夫图本(江苏)工业技术有限公司": [
+      "L1PB24-LOEW24(A)"
     ]
   },
-  "纳碧安": {
-    "（株）庆东纳碧安": [
-      "LL1GBQ23-NCB550 24LCN",
-      "L1GB27-NGB300 24K"
+  "LNGLKA": {
+    "佛山市顺德区东原燃气具实业有限公司": [
+      "L1PB24-N"
     ]
   },
-  "Beretta 贝雷塔": {
-    "意大利利雅路股份有限公司 RIELLO S.p.A": [
-      "L1PB26-MYNUTE N 24 C.S.I"
-    ]
-  },
-  "佳邦": {
-    "长沙恒辉环保科技发展有限公司": [
-      "SZXT40-JB",
-      "SZCT32-JB",
-      "SPTT25-JB",
-      "SDGT40-JB",
-      "SPTT5.0-JB"
-    ]
-  },
-  "鑫云天": {
-    "湖南云天节能科技有限公司": [
-      "SPTT30-YT",
-      "SDGT29-YT",
-      "SZXT45-YT",
-      "SZCT29-YT",
-      "SPTT5-YT"
-    ]
-  },
-  "FLAME-MATE 富利": {
-    "裕富宝厨具设备（深圳）有限公司": [
-      "SZXT42-ESC3HJ",
-      "SPTT14/28-SPS28F"
-    ]
-  },
-  "鸿厨": {
-    "湖南鸿昌厨具设备有限责任公司湘潭分公司": [
-      "SPTT3-HCA",
-      "SZXT18-HCA",
-      "SDGT40-HCA",
-      "SPTT12-HCA",
-      "SZCT30-HCA"
+  "ITALTHERM": {
+    "PONTENURE(PC) VIA SALVO D’ACQUISTO SNC CAP": [
+      "L1P26-CITY CLASS 25 F"
     ]
   },
   "永瑞": {
     "长沙永瑞厨具有限公司": [
       "SZCT30-A",
-      "SZXT40-A",
-      "SPTT40-PT",
       "SDGT35-A",
+      "SPTT40-PT",
+      "SZXT40-A",
+      "SZST15-A",
       "SPTT5.5-BZ"
     ]
   },
-  "昕雅": {
-    "湖南新雅厨具设备有限公司": [
-      "SZXT20-A",
-      "SDGT35",
-      "SZCT35",
-      "SPTT25",
-      "SPTT5/20-A"
+  "佳邦": {
+    "长沙恒辉环保科技发展有限公司": [
+      "SZCT32-JB",
+      "SPTT25-JB",
+      "SDGT40-JB",
+      "SZXT40-JB",
+      "SPTT5.0-JB"
     ]
   },
-  "Jowin卓益": {
-    "深圳市卓益节能环保设备有限公司": [
-      "SZQT40-A",
-      "SFST40-A"
+  "鸿厨": {
+    "湖南鸿昌厨具设备有限责任公司湘潭分公司": [
+      "SZXT18-HCA",
+      "SDGT40-HCA",
+      "SZCT30-HCA",
+      "SPTT12-HCA",
+      "SPTT3-HCA"
     ]
   },
-  "海燕": {
-    "湖南新源厨具设备有限公司": [
-      "SDGT40-A",
-      "SZCT30/60-CZ",
-      "SPTT33-A",
-      "SZXT40-A",
-      "SPTT5/20-BZ"
+  "鑫云天": {
+    "湖南云天节能科技有限公司": [
+      "SZXT38-YT",
+      "SDGT29-YT",
+      "SZCT29-YT",
+      "SPTT30-YT",
+      "SPTT4-YT"
+    ]
+  },
+  "长俊": {
+    "张家界长俊厨具有限公司": [
+      "SZQT45-CJ",
+      "SZST14-CJ",
+      "SZCT15-MHL",
+      "SZCT30-CJ",
+      "SDGT30-CJ",
+      "SPTT16-CJ",
+      "SZXT35-CJ",
+      "SPTT3.8/15.2-CJ"
     ]
   },
   "星厨": {
     "湖南群泰商用设备有限公司": [
       "SZCT35-QT",
+      "SPTT35-QT",
       "SDGT40-QT",
       "SZXT35-QT",
-      "SPTT35-QT",
+      "SZST16-QT80",
+      "SZQT55-QT08G",
       "SPTT4.5/18-QT"
     ]
   },
-  "长大": {
-    "长沙市长大热能厨具有限公司": [
-      "SZCT35-CD",
-      "SZXT17-CD",
-      "SDGT45-CD"
+  "昕雅": {
+    "湖南新雅厨具设备有限公司": [
+      "SPTT25",
+      "SZCT35",
+      "SDGT35",
+      "SZXT20-A",
+      "SPTT5/20-A"
     ]
   },
-  "长俊": {
-    "张家界长俊厨具有限公司": [
-      "SPTT16-CJ",
-      "SZCT30-CJ",
-      "SDGT30-CJ",
-      "SZXT35-CJ",
-      "SPTT3.8/15.2-CJ"
+  "海燕": {
+    "湖南新源厨具设备有限公司": [
+      "SZCT30/60-CZ",
+      "SPTT33-A",
+      "SPTT5/20-BZ",
+      "SDGT40-A",
+      "SZXT40-A"
+    ]
+  },
+  "星港": {
+    "长沙星港厨具设备有限公司": [
+      "SPTT12-12/24A",
+      "SDGT38-A",
+      "SZXT34-A",
+      "SPTT3.8A"
+    ]
+  },
+  "昕伯特": {
+    "长沙御伯鼎厨房设备有限公司": [
+      "SZCT30-A"
     ]
   }
 }
