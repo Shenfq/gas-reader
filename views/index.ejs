@@ -74,7 +74,9 @@ new Vue({
         .then(rsp => {
           if (rsp.success) {
             this.info = rsp.data
+            this.errMsg = ''
           } else {
+            this.info = null
             this.errMsg = rsp.message
           }
         })
